@@ -24,13 +24,14 @@ from xml.dom.minidom import parse
     Mb     dM YA.   ,A9   MM       MM      MM    MM    MM  8M        
     P"Ybmmd"   `Ybmd9'  .JMML.     `Mbmo .JMML..JMML  JMML. YMMMMMb  
                                                            6'     dP 
-                                                           Ybmmmd'     v1.4 
+                                                           Ybmmmd'     v1.5
 '''
 
 
 
 # export your anime or manga list and write the dir/name down here
-MYANIMELIST = "animelist_1687503240_-_10513306.xml"
+MYANIMELIST = "animelist_1689128909_-_10513306.xml"
+OLD_MYANIMELIST = 'animelist_1687503240_-_10513306.xml'
 
 def get_anime_from_xml(only_non_completed = True, only_completed = False, all = False):
     anime_list = deque()
@@ -100,17 +101,20 @@ def conversor(raw_anime_list):
     actual_name  = ''
     actual_score = 0
 
+    errors_list = []
+
     for raw_anime in raw_anime_list:
         actual_anime = {'name':'','score':0}
         try:
             actual_anime = anime_info(raw_anime['id'])
         except:
             print('-second try-')
-            sleep(5)
+            sleep(10)
             try:
                 actual_anime = anime_info(raw_anime['id'])
             except:
-                print('error')
+                print(f'error\t| {raw_anime["name"]}')
+                errors_list.append(raw_anime)
                 continue
 
         if actual_anime['score'] == None:
@@ -122,15 +126,61 @@ def conversor(raw_anime_list):
             actual_score = actual_anime['score']
             actual_name  = actual_anime['name']
 
-        print(i, ' - ', round(i*100/largo,2),'%\t|', actual_score, '|',actual_name)
+        print(i, ' - ', round(i*100/largo,2),'%\t|', actual_score, '|',actual_name,'\t> ',actual_anime['score'],'|',raw_anime['name'])
         i += 1
-        sleep(3)
+        sleep(5)
+
+    if len(errors_list) != 0:
+        print(f'{len(errors_list)} animes not analized')
+        for j in errors_list:
+            print(f"{j['id']} \t| {j['name']}")
+
     return anime_list
+
+
+
+def print_sorted_list(anime_list, sorted_by:str):
+
+    sorted_list = sorted(anime_list, key=lambda d: d[sorted_by]) 
+    for anime in sorted_list:
+        print(f"{anime['score']}\t| {anime['members']}  \t| {anime['favorites']}     \t| {anime['ratio']}%\t| {anime['name']}")
+        
+    print('---------------------------------------------------------------------')
+    print(f'score\t| members\t| favorites\t| ratio\t| sorted by {sorted_by.upper()}\n')
+
+
+
+#basically useless, but you can use it if you need to XD
+def save_list_csv(anime_list):
+    import csv
+    
+    fields = ['name', 'id', 'score', 'members', 'favorites', 'ratio']
+    
+    with open('MAL_SAVE_DATA.csv', 'w', encoding='UTF8', newline='') as file:
+
+        writer = csv.DictWriter(file, fieldnames=fields)
+        writer.writeheader()
+        writer.writerows(anime_list)
+
+
+
+def save_tops_txt(anime_list):
+    with open('MAL_SAVE_TOPS.txt', 'w', encoding='UTF8') as file:
+        for sorted_by in ['score','members','favorites','ratio']:
+
+            sorted_list = sorted(anime_list, key=lambda d: d[sorted_by]) 
+            for anime in sorted_list:
+                file.write(f"{anime['score']} \t| {anime['members']}  \t| {anime['favorites']}   \t| {anime['ratio']}%\t| {anime['name']}\n")
+                
+            file.write('---------------------------------------------------------------------\n')
+            file.write(f'score\t| members\t| favorites\t| ratio\t| sorted by {sorted_by.upper()}\n')
+            file.write('--------------------------------------------------------------------------------------------------------------\n\n\n')
+
 
 
 def interfaz(anime_list):
     while True:
-        o = input('sort by Score, Members, Favorites or Ratio? (s/m/f/r) -> ').lower()
+        o = input('sort by Score, Members, Favorites or Ratio? (s/m/f/r), save Data, Tops (d/t) or Exit? (0) -> ').lower()
         sorted_by = ""
 
         if o in ['exit','0']: break
@@ -138,15 +188,19 @@ def interfaz(anime_list):
         if o in ['members','m']: sorted_by = 'members'
         if o in ['favorites','f']: sorted_by = 'favorites'
         if o in ['ratio','r']: sorted_by = 'ratio'
-        if o == 'p': print(sorted_list); continue
 
+        if o in ['data','d']:
+            save_list_csv(anime_list)
+            print('Anime list data saved successfully')
+            continue
 
-        sorted_list = sorted(anime_list, key=lambda d: d[sorted_by]) 
-        for anime in sorted_list:
-            print(f"{anime['score']}\t| {anime['members']}  \t| {anime['favorites']}     \t| {anime['ratio']}%\t| {anime['name']}")
-        
-        print('---------------------------------------------------------------------')
-        print(f'score\t| members\t| favorites\t| ratio\t| sorted by {sorted_by.upper()}\n')
+        if o in ['tops','t']:
+            save_tops_txt(anime_list)
+            print('Tops saved successfully')
+            continue
+
+        print_sorted_list(anime_list , sorted_by)
+
     
     print('bye!')
 
