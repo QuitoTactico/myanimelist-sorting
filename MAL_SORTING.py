@@ -1,12 +1,11 @@
 import mal  #pip install mal-api
 import csv
+import glob
 from collections import deque
 from time import sleep
 from xml.dom.minidom import parse
 
-
-'''
-                                 
+'''                            
               `7MMM.     ,MMF'      db      `7MMF'      
                 MMMb    dPMM       ;MM:       MM        
                 M YM   ,M MM      ,V^MM.      MM        
@@ -24,15 +23,23 @@ from xml.dom.minidom import parse
     Mb     dM YA.   ,A9   MM       MM      MM    MM    MM  8M        
     P"Ybmmd"   `Ybmd9'  .JMML.     `Mbmo .JMML..JMML  JMML. YMMMMMb  
                                                            6'     dP 
-                                                           Ybmmmd'     v1.7.8
+                                                           Ybmmmd'     v1.8.10
 '''
 
+def get_latest_xml(anime = False, manga = False):
+    archivos = glob.glob('animelists/animelist*.xml') if anime else glob.glob('mangalists/mangalist*.xml')
+    numeros = [archivo[21:31] for archivo in archivos]
+    mayor = max(numeros)
+    indice = numeros.index(mayor)
+    completion = archivos[indice][21:-4]
+    archivo_mas_reciente = f'animelists/animelist_{completion}.xml' if anime else f'mangalists/mangalist_{completion}.xml'
+    return archivo_mas_reciente
 
+# if you want to select your your anime or manga list exportation, write the dir/name down here
+# example = 'animelists/animelist_1699835113_-_10513306.xml'
+MYANIMELIST = get_latest_xml(anime = True)
+MYMANGALIST = get_latest_xml(manga = True)
 
-# export your anime or manga list and write the dir/name down here
-MYANIMELIST = "animelist_1702836907_-_10513306.xml"
-MYMANGALIST = "mangalist_1706465561_-_10513306.xml"
-OLD_MYANIMELIST = 'animelist_1687503240_-_10513306.xml'
 
 def get_anime_from_xml(only_non_completed = False, only_completed = False, all = False):
     anime_list = deque()
@@ -154,13 +161,18 @@ def animelist_info_requester(raw_anime_list):
             actual_anime = anime_info(raw_anime['id'])
         except:
             print('-second try-')
-            sleep(10)
+            sleep(15)
             try:
                 actual_anime = anime_info(raw_anime['id'])
             except:
-                print(f'error\t| {raw_anime["name"]}')
-                errors_list.append(raw_anime)
-                continue
+                print('-third try-')
+                sleep(30)
+                try:
+                    actual_anime = anime_info(raw_anime['id'])
+                except:
+                    print(f'error\t| {raw_anime["name"]}')
+                    errors_list.append(raw_anime)
+                    continue
 
         if actual_anime['score'] == None:
             actual_anime['score'] = 0
@@ -171,9 +183,9 @@ def animelist_info_requester(raw_anime_list):
             actual_score = actual_anime['score']
             actual_name  = actual_anime['name']
 
-        print(i, ' - ', round(i*100/largo,2),'%\t|', actual_score, '|',actual_name,'\t> ',actual_anime['score'],'|',raw_anime['name'])
+        print(i, ' - ', "{:.2f}".format(round(i*100/largo,2)),'%\t|', "{:.2f}".format(actual_score), '|',actual_name,'\t> ',"{:.2f}".format(actual_anime['score']),'|',raw_anime['name'])
         i += 1
-        sleep(3)
+        sleep(2)         # if you get banned, increase this number
 
     if len(errors_list) != 0:
         print(f'{len(errors_list)} animes not analized')
@@ -215,9 +227,9 @@ def mangalist_info_requester(raw_manga_list):
             actual_score = actual_manga['score']
             actual_name  = actual_manga['name']
 
-        print(i, ' - ', round(i*100/largo,2),'%\t|', actual_score, '|',actual_name,'\t> ',actual_manga['score'],'|',raw_manga['name'])
+        print(i, ' - ', "{:.2f}".format(round(i*100/largo,2)),'%\t|', "{:.2f}".format(actual_score), '|',actual_name,'\t> ',"{:.2f}".format(actual_manga['score']),'|',raw_manga['name'])
         i += 1
-        sleep(3)
+        sleep(2.5)      # if you get banned, increase this number
 
     if len(errors_list) != 0:
         print(f'{len(errors_list)} mangas not analized')
@@ -335,7 +347,7 @@ if __name__ == '__main__':
         list_type = input('Anime or Manga? (a/m) -> ')
         if list_type == 'm':
             final_manga_list = []
-            with open('MAL_MANGA_SAVE_DATA.csv', newline='') as csvfile:
+            with open('MAL_MANGA_SAVE_DATA.csv', newline='', encoding='utf-8') as csvfile:
                 reader = csv.DictReader(csvfile)
                 for row in reader:
                     for key in ['id','members','favorites']:
@@ -346,7 +358,7 @@ if __name__ == '__main__':
             interfaz(final_manga_list, manga = True)
         else:
             final_anime_list = []
-            with open('MAL_ANIME_SAVE_DATA.csv', newline='') as csvfile:
+            with open('MAL_ANIME_SAVE_DATA.csv', newline='', encoding='utf-8') as csvfile:
                 reader = csv.DictReader(csvfile)
                 for row in reader:
                     for key in ['id','members','favorites']:
