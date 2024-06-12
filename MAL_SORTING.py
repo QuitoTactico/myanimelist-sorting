@@ -6,7 +6,7 @@ from time import sleep
 from xml.dom.minidom import parse
 import mal.config
 
-DELAY = 0.5  # if you get banned or the media isn't being analized properly, increase this number. (Float allowed)
+DELAY = 2  # if you get banned or the media isn't being analized properly, increase this number. (Float allowed)
 mal.config.TIMEOUT = 20     # and this one too (original num = 5)
 '''                            
               `7MMM.     ,MMF'      db      `7MMF'      
@@ -44,77 +44,32 @@ MYANIMELIST = get_latest_xml(anime = True)
 MYMANGALIST = get_latest_xml(manga = True)
 
 
-def get_anime_from_xml(only_non_completed = False, only_completed = False, all = False):
-    anime_list = deque()
+def get_media_from_xml(completion_state:str, media_type:str):
+    completion_state = 'n' if completion_state not in ['c','a'] else completion_state
 
-    DOMTree = parse(MYANIMELIST)
+    DOMTree = parse(MYANIMELIST if media_type == 'anime' else MYMANGALIST)
     collection = DOMTree.documentElement
+    media_list_xml = collection.getElementsByTagName(media_type)
 
-    animes = collection.getElementsByTagName("anime")
+    title_search = 'series_title' if media_type == 'anime' else 'manga_title'
+    id_search = 'series_animedb_id' if media_type == 'anime' else 'manga_mangadb_id'
 
-    if only_non_completed:
-        for anime in animes:
-            if anime.getElementsByTagName('my_status')[0].childNodes[0].data != 'Completed':
-                anime_list.append(
-                    {
-                        'name' :anime.getElementsByTagName('series_title')[0].childNodes[0].data, 
-                        'id'   :anime.getElementsByTagName('series_animedb_id')[0].childNodes[0].data
-                    })
-    elif only_completed:
-        for anime in animes:
-            if anime.getElementsByTagName('my_status')[0].childNodes[0].data == 'Completed':
-                anime_list.append(
-                    {
-                        'name' :anime.getElementsByTagName('series_title')[0].childNodes[0].data, 
-                        'id'   :anime.getElementsByTagName('series_animedb_id')[0].childNodes[0].data
-                    })
-    elif all:
-        for anime in animes:
-            anime_list.append(
+    media_list = deque()
+
+    for media in media_list_xml:
+        status = media.getElementsByTagName('my_status')[0].childNodes[0].data
+        if (status != 'Completed' and completion_state=='n') or (status == 'Completed' and completion_state=='c') or completion_state == 'a':
+            media_list.append(
                 {
-                    'name' :anime.getElementsByTagName('series_title')[0].childNodes[0].data, 
-                    'id'   :anime.getElementsByTagName('series_animedb_id')[0].childNodes[0].data
+                    'name' :media.getElementsByTagName(title_search)[0].childNodes[0].data, 
+                    'id'   :media.getElementsByTagName(id_search)[0].childNodes[0].data
                 })
 
-
-    return anime_list
-
-def get_manga_from_xml(only_non_completed = False, only_completed = False, all = False):
-    manga_list = deque()
-
-    DOMTree = parse(MYMANGALIST)
-    collection = DOMTree.documentElement
-
-    mangas = collection.getElementsByTagName("manga")
-
-    if only_non_completed:
-        for manga in mangas:
-            if manga.getElementsByTagName('my_status')[0].childNodes[0].data != 'Completed':
-                manga_list.append(
-                    {
-                        'name' :manga.getElementsByTagName('manga_title')[0].childNodes[0].data, 
-                        'id'   :manga.getElementsByTagName('manga_mangadb_id')[0].childNodes[0].data
-                    })
-    elif only_completed:
-        for manga in mangas:
-            if manga.getElementsByTagName('my_status')[0].childNodes[0].data == 'Completed':
-                manga_list.append(
-                    {
-                        'name' :manga.getElementsByTagName('manga_title')[0].childNodes[0].data, 
-                        'id'   :manga.getElementsByTagName('manga_mangadb_id')[0].childNodes[0].data
-                    })
-    elif all:
-        for manga in mangas:
-            manga_list.append(
-                {
-                    'name' :manga.getElementsByTagName('manga_title')[0].childNodes[0].data, 
-                    'id'   :manga.getElementsByTagName('manga_mangadb_id')[0].childNodes[0].data
-                })
+    return media_list
 
 
-    return manga_list
 
-# Deprecated
+@DeprecationWarning  #deprecated
 def search_by_name(name_search):
     search = mal.AnimeSearch(name_search, 10)
     first_result = search.results[0]
@@ -124,6 +79,7 @@ def search_by_name(name_search):
         'score'     : first_result.score
     }
     return anime
+
 
 
 def media_info(media_id, media_type:str='anime'):
@@ -185,8 +141,12 @@ def list_info_requester(raw_media_list, media_type:str='anime'):
 
     return final_media_list
 
+
+
 def print_media(largo, i, actual_name, actual_score, raw_anime, actual_anime):
     print(i, ' - ', "{:.2f}".format(round(i*100/largo,2)),'%\t|', "{:.2f}".format(actual_score), '|',actual_name,'\t> ',"{:.2f}".format(actual_anime['score']),'|',raw_anime['name'])
+
+
 
 def print_sorted_list(final_list, sorted_by:str):
 
@@ -198,13 +158,13 @@ def print_sorted_list(final_list, sorted_by:str):
     print(f'score\t| members\t| favorites\t| ratio\t| sorted by {sorted_by.upper()}\n')
 
 
-#basically useless, but you can use it if you need to XD
+
 def save_list_csv(final_list, media_type:str='anime'):
     import csv
     
     fields = ['name', 'id', 'score', 'members', 'favorites', 'ratio']
     
-    name = f'MAL_{media_type.upper()}_SAVE_DATA.csv'
+    name = f'saved_data/MAL_{media_type.upper()}_SAVE_DATA.csv'
     with open(name, 'w', encoding='UTF8', newline='') as file:
 
         writer = csv.DictWriter(file, fieldnames=fields)
@@ -213,8 +173,22 @@ def save_list_csv(final_list, media_type:str='anime'):
 
 
 
+def open_list_csv(list_used):
+    final_media_list = deque()
+    with open(list_used, newline='', encoding='utf-8') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            for key in ['id','members','favorites']:
+                row[key] = int(row[key])
+            for key in ['score','ratio']:
+                row[key] = float(row[key])
+            final_media_list.append(row)
+    return final_media_list
+
+
+
 def save_tops_txt(final_list, media_type:str='anime'):
-    name = f'MAL_{media_type.upper()}_SAVE_TOPS.txt'
+    name = f'mal_{media_type}_tops.txt'
     with open(name, 'w', encoding='UTF8') as file:
         for sorted_by in ['score','members','favorites','ratio']:
 
@@ -241,12 +215,12 @@ def interfaz(final_list, media_type:str='anime'):
 
         if o in ['data','d']:
             save_list_csv(final_list, media_type=media_type)
-            print(f'{media_type.capitalize()} list data saved successfully')
+            print(f'{media_type}list data saved successfully')
             continue
 
         if o in ['tops','t']:
             save_tops_txt(final_list, media_type=media_type)
-            print(f'{media_type.capitalize()}tops saved successfully')
+            print(f'{media_type.capitalize()} tops saved successfully')
             continue
 
         print_sorted_list(final_list , sorted_by)
@@ -254,82 +228,29 @@ def interfaz(final_list, media_type:str='anime'):
     print('bye!')
 
 
+
 if __name__ == '__main__':
 
-    '''
-    o = input('use sample list? (y/n) -> ')
+    recover_data = input('Recover saved data? (y/n) -> ').lower() == 'y'
+    media_type = 'manga' if input('Anime or Manga? (a/m) -> ').lower() == 'm' else 'anime'
+        
+    if recover_data:
+        list_used = f'saved_data/MAL_{media_type.upper()}_SAVE_DATA.csv'
+        final_media_list = open_list_csv(list_used)
 
-    if o == 'y':
-        try:
-            # these are my lists. used to test bc the conversor takes some time 
-            from MAL_SORTING_SAMPLE_LISTS import COMPLETED_LIST, NON_COMPLETED_LIST
-
-            l = input('Non-completed, Completed or All (sample list)? (n/c/a) -> ')
-
-            if l == 'c':
-                final_list = COMPLETED_LIST
-                anime_type = 'animes completed'
-            elif l == 'a':
-                all_list = []
-                all_list.extend(NON_COMPLETED_LIST)
-                all_list.extend(COMPLETED_LIST)
-                final_list = all_list
-                anime_type = 'animes in total'
-            else:
-                final_list = NON_COMPLETED_LIST
-                anime_type = 'animes non-completed'
-            print(f'{len(final_list)} {anime_type}')
-        except:
-            pass
-        exit()'''
-
-    r = input('Recover saved data? (y/n) -> ')
-    if r == 'y':
-        list_type = input('Anime or Manga? (a/m) -> ')
-        if list_type == 'm':
-            final_manga_list = []
-            with open('MAL_MANGA_SAVE_DATA.csv', newline='', encoding='utf-8') as csvfile:
-                reader = csv.DictReader(csvfile)
-                for row in reader:
-                    for key in ['id','members','favorites']:
-                        row[key] = int(row[key])
-                    for key in ['score','ratio']:
-                        row[key] = float(row[key])
-                    final_manga_list.append(row)
-            interfaz(final_manga_list, manga = True)
-        else:
-            final_media_list = []
-            with open('MAL_ANIME_SAVE_DATA.csv', newline='', encoding='utf-8') as csvfile:
-                reader = csv.DictReader(csvfile)
-                for row in reader:
-                    for key in ['id','members','favorites']:
-                        row[key] = int(row[key])
-                    for key in ['score','ratio']:
-                        row[key] = float(row[key])
-                    final_media_list.append(row)
-            interfaz(final_media_list, anime = True) 
-        exit()   
+        print(f'{len(final_media_list)} {media_type}s in total, recovered from [{list_used}]')
     
 
     else:
-        list_type = input('Anime or Manga? (a/m) -> ')
-        a = input('Non-completed, Completed or All? (n/c/a) -> ')
+        completion_state = input('Non-completed, Completed or All? (n/c/a) -> ').lower()
 
-
-        media_type = 'manga' if list_type == 'm' else 'anime'
-
-        if a == 'c':
-            raw_media_list = get_anime_from_xml(only_completed=True) if media_type == 'anime' else get_manga_from_xml(only_completed=True)
-            media_completion_type = 'animes completed'
-        elif a == 'a':
-            raw_media_list = get_anime_from_xml(all=True) if media_type == 'anime' else get_manga_from_xml(all=True)
-            media_completion_type = 'animes in total'
-        else:
-            raw_media_list = get_anime_from_xml(only_non_completed=True) if media_type == 'anime' else get_manga_from_xml(only_non_completed=True)
-            media_completion_type = 'animes non-completed'
+        raw_media_list = get_media_from_xml(completion_state, media_type)
 
         list_used = MYANIMELIST if media_type == 'anime' else MYMANGALIST
-        print(f'{len(raw_media_list)} {media_completion_type}, took from {list_used}')
+        print(f'{len(raw_media_list)} {media_type}s, took from [{list_used}]')
+
         final_media_list = list_info_requester(raw_media_list, media_type=media_type)
-        interfaz(final_media_list, media_type=media_type)
+    
+
+    interfaz(final_media_list, media_type=media_type)
 
