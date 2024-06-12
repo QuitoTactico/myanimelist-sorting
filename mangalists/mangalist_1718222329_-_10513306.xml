@@ -11,15 +11,41 @@
 			<user_id>10513306</user_id>
 			<user_name>QuitoTactico</user_name>
 			<user_export_type>2</user_export_type>
-			<user_total_manga>28</user_total_manga>
-			<user_total_reading>2</user_total_reading>
-			<user_total_completed>8</user_total_completed>
+			<user_total_manga>34</user_total_manga>
+			<user_total_reading>3</user_total_reading>
+			<user_total_completed>10</user_total_completed>
 			<user_total_onhold>0</user_total_onhold>
 			<user_total_dropped>0</user_total_dropped>
-			<user_total_plantoread>18</user_total_plantoread>
+			<user_total_plantoread>21</user_total_plantoread>
 		</myinfo>
 	
 	
+				<manga>
+					<manga_mangadb_id>49865</manga_mangadb_id>
+					<manga_title><![CDATA[Ajin]]></manga_title>
+					<manga_volumes>17</manga_volumes>
+					<manga_chapters>84</manga_chapters>
+					<my_id>159263185</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Plan to Read</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
 				<manga>
 					<manga_mangadb_id>149</manga_mangadb_id>
 					<manga_title><![CDATA[Blame!]]></manga_title>
@@ -27,7 +53,7 @@
 					<manga_chapters>66</manga_chapters>
 					<my_id>115161543</my_id>
 					<my_read_volumes>0</my_read_volumes>
-					<my_read_chapters>0</my_read_chapters>
+					<my_read_chapters>1</my_read_chapters>
 					<my_start_date>2024-01-27</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -156,6 +182,32 @@
 					<manga_volumes>23</manga_volumes>
 					<manga_chapters>190</manga_chapters>
 					<my_id>115161611</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Plan to Read</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>25594</manga_mangadb_id>
+					<manga_title><![CDATA[Evangelion: ANIMA]]></manga_title>
+					<manga_volumes>5</manga_volumes>
+					<manga_chapters>45</manga_chapters>
+					<my_id>163520914</my_id>
 					<my_read_volumes>0</my_read_volumes>
 					<my_read_chapters>0</my_read_chapters>
 					<my_start_date>0000-00-00</my_start_date>
@@ -309,9 +361,35 @@
 				<manga>
 					<manga_mangadb_id>44489</manga_mangadb_id>
 					<manga_title><![CDATA[Houseki no Kuni]]></manga_title>
-					<manga_volumes>0</manga_volumes>
-					<manga_chapters>0</manga_chapters>
+					<manga_volumes>13</manga_volumes>
+					<manga_chapters>108</manga_chapters>
 					<my_id>156095951</my_id>
+					<my_read_volumes>13</my_read_volumes>
+					<my_read_chapters>108</my_read_chapters>
+					<my_start_date>2024-05-15</my_start_date>
+					<my_finish_date>2024-06-08</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>10</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>58563</manga_mangadb_id>
+					<manga_title><![CDATA[Innocent]]></manga_title>
+					<manga_volumes>9</manga_volumes>
+					<manga_chapters>99</manga_chapters>
+					<my_id>135031967</my_id>
 					<my_read_volumes>0</my_read_volumes>
 					<my_read_chapters>0</my_read_chapters>
 					<my_start_date>0000-00-00</my_start_date>
@@ -333,11 +411,11 @@
 				</manga>
 			
 				<manga>
-					<manga_mangadb_id>58563</manga_mangadb_id>
-					<manga_title><![CDATA[Innocent]]></manga_title>
-					<manga_volumes>9</manga_volumes>
-					<manga_chapters>99</manga_chapters>
-					<my_id>135031967</my_id>
+					<manga_mangadb_id>93699</manga_mangadb_id>
+					<manga_title><![CDATA[Innocent Rouge]]></manga_title>
+					<manga_volumes>12</manga_volumes>
+					<manga_chapters>88</manga_chapters>
+					<my_id>159263655</my_id>
 					<my_read_volumes>0</my_read_volumes>
 					<my_read_chapters>0</my_read_chapters>
 					<my_start_date>0000-00-00</my_start_date>
@@ -385,11 +463,11 @@
 				</manga>
 			
 				<manga>
-					<manga_mangadb_id>7375</manga_mangadb_id>
-					<manga_title><![CDATA[Kokou no Hito]]></manga_title>
-					<manga_volumes>17</manga_volumes>
-					<manga_chapters>170</manga_chapters>
-					<my_id>115161633</my_id>
+					<manga_mangadb_id>113138</manga_mangadb_id>
+					<manga_title><![CDATA[Jujutsu Kaisen]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>161080285</my_id>
 					<my_read_volumes>0</my_read_volumes>
 					<my_read_chapters>0</my_read_chapters>
 					<my_start_date>0000-00-00</my_start_date>
@@ -399,6 +477,32 @@
 					<my_storage></my_storage>
 					<my_retail_volumes>0</my_retail_volumes>
 					<my_status>Plan to Read</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>7375</manga_mangadb_id>
+					<manga_title><![CDATA[Kokou no Hito]]></manga_title>
+					<manga_volumes>17</manga_volumes>
+					<manga_chapters>170</manga_chapters>
+					<my_id>115161633</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>7</my_read_chapters>
+					<my_start_date>2024-02-03</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>8</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Reading</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
 					<my_tags><![CDATA[]]></my_tags>
@@ -619,11 +723,11 @@
 				</manga>
 			
 				<manga>
-					<manga_mangadb_id>125036</manga_mangadb_id>
-					<manga_title><![CDATA[The Horizon]]></manga_title>
-					<manga_volumes>3</manga_volumes>
-					<manga_chapters>21</manga_chapters>
-					<my_id>157756734</my_id>
+					<manga_mangadb_id>3731</manga_mangadb_id>
+					<manga_title><![CDATA[Solanin]]></manga_title>
+					<manga_volumes>2</manga_volumes>
+					<manga_chapters>28</manga_chapters>
+					<my_id>163121679</my_id>
 					<my_read_volumes>0</my_read_volumes>
 					<my_read_chapters>0</my_read_chapters>
 					<my_start_date>0000-00-00</my_start_date>
@@ -633,6 +737,32 @@
 					<my_storage></my_storage>
 					<my_retail_volumes>0</my_retail_volumes>
 					<my_status>Plan to Read</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>125036</manga_mangadb_id>
+					<manga_title><![CDATA[The Horizon]]></manga_title>
+					<manga_volumes>3</manga_volumes>
+					<manga_chapters>21</manga_chapters>
+					<my_id>157756734</my_id>
+					<my_read_volumes>3</my_read_volumes>
+					<my_read_chapters>21</my_read_chapters>
+					<my_start_date>2024-04-07</my_start_date>
+					<my_finish_date>2024-04-07</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>9</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
 					<my_tags><![CDATA[]]></my_tags>
@@ -702,6 +832,32 @@
 					<manga_volumes>14</manga_volumes>
 					<manga_chapters>102</manga_chapters>
 					<my_id>155765409</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Plan to Read</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>17353</manga_mangadb_id>
+					<manga_title><![CDATA[Umibe no Onnanoko]]></manga_title>
+					<manga_volumes>2</manga_volumes>
+					<manga_chapters>20</manga_chapters>
+					<my_id>163121692</my_id>
 					<my_read_volumes>0</my_read_volumes>
 					<my_read_chapters>0</my_read_chapters>
 					<my_start_date>0000-00-00</my_start_date>
