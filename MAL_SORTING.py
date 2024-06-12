@@ -6,8 +6,8 @@ from time import sleep
 from xml.dom.minidom import parse
 import mal.config
 
-DELAY = 3  # if you get banned or the media isn't being analized properly, increase this number. (Float allowed)
-mal.config.TIMEOUT = 10     # and this one too (original num = 5)
+DELAY = 0.5  # if you get banned or the media isn't being analized properly, increase this number. (Float allowed)
+mal.config.TIMEOUT = 20     # and this one too (original num = 5)
 '''                            
               `7MMM.     ,MMF'      db      `7MMF'      
                 MMMb    dPMM       ;MM:       MM        
@@ -140,45 +140,42 @@ def media_info(media_id, media_type:str='anime'):
         'ratio':        round((media.favorites / media.members)*100 , 2)
     }
 
-def list_info_requester(raw_anime_list, media_type:str='anime'):
-    anime_list = deque()
+def list_info_requester(raw_media_list, media_type:str='anime'):
+    final_media_list = deque()
 
-    largo = len(raw_anime_list)
-    i = 1
-    actual_name  = ''
-    actual_score = 0
+    largo = len(raw_media_list)
+    best_name  = ''
+    best_score = 0
 
     errors_list = []
 
-    for raw_anime in raw_anime_list:
-        actual_anime = {'name':'','score':0}
+    for i, raw_media in enumerate(raw_media_list, start=1):
+        actual_media = {'name':'','score':0}
 
         passed = False
-        for i, try_time in enumerate([10, 20, 30]):
+        for tries, try_time in enumerate([10, 20, 30]):
             try:
-                actual_anime = media_info(raw_anime['id'])
+                actual_media = media_info(raw_media['id'], media_type=media_type)
                 passed = True
                 break
             except:
-                print(f'-try #{i+2}: sleeping {try_time} seconds- [{raw_anime["name"]}]')
+                print(f'-try #{tries+2}: sleeping {try_time} seconds- [{raw_media["name"]}]')
                 sleep(try_time)
                 
         if not passed:   
-            print(f'error\t| {raw_anime["name"]}')
-            errors_list.append(raw_anime)
+            print(f'error\t| {raw_media["name"]}')
+            errors_list.append(raw_media)
             continue
 
-        if actual_anime['score'] == None:
-            actual_anime['score'] = 0
+        actual_media['score'] = actual_media['score'] or 0  # if the score is None
 
-        anime_list.append(actual_anime)
+        final_media_list.append(actual_media)
 
-        if actual_anime['score'] > actual_score:
-            actual_score = actual_anime['score']
-            actual_name  = actual_anime['name']
+        if actual_media['score'] >= best_score:
+            best_score = actual_media['score']
+            best_name  = actual_media['name']
 
-        print_media(largo, i, actual_name, actual_score, raw_anime, actual_anime)
-        i += 1
+        print_media(largo, i, best_name, best_score, raw_media, actual_media)
         sleep(DELAY)         # if you get banned, increase this number
 
     if len(errors_list) != 0:
@@ -186,7 +183,7 @@ def list_info_requester(raw_anime_list, media_type:str='anime'):
         for j in errors_list:
             print(f"{j['id']} \t| {j['name']}")
 
-    return anime_list
+    return final_media_list
 
 def print_media(largo, i, actual_name, actual_score, raw_anime, actual_anime):
     print(i, ' - ', "{:.2f}".format(round(i*100/largo,2)),'%\t|', "{:.2f}".format(actual_score), '|',actual_name,'\t> ',"{:.2f}".format(actual_anime['score']),'|',raw_anime['name'])
@@ -332,7 +329,7 @@ if __name__ == '__main__':
             media_completion_type = 'animes non-completed'
 
         list_used = MYANIMELIST if media_type == 'anime' else MYMANGALIST
-        print(f'{len(raw_media_list)} {media_completion_type} took from {list_used}')
+        print(f'{len(raw_media_list)} {media_completion_type}, took from {list_used}')
         final_media_list = list_info_requester(raw_media_list, media_type=media_type)
         interfaz(final_media_list, media_type=media_type)
 
