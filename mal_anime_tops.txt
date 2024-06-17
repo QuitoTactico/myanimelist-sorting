@@ -1,858 +1,974 @@
-0.00 	| 17004  	| 41    	| 0.24%	| Akira (Shin Anime)
-0.00 	| 45839  	| 88    	| 0.19%	| Beastars Final Season
-0.00 	| 55980  	| 379    	| 0.68%	| Bocchi the Rock! Movie
-0.00 	| 64232  	| 241    	| 0.38%	| Chainsaw Man Movie: Reze-hen
-0.00 	| 51902  	| 345    	| 0.66%	| Dandadan
-0.00 	| 55582  	| 258    	| 0.46%	| Isekai Suicide Squad
-0.00 	| 34275  	| 70    	| 0.20%	| Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen)
-0.00 	| 63849  	| 326    	| 0.51%	| Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten
-0.00 	| 30657  	| 188    	| 0.61%	| Monogatari Series: Off & Monster Season
-0.00 	| 30985  	| 221    	| 0.71%	| Naruto (Shinsaku Anime)
-0.00 	| 220571  	| 3772    	| 1.71%	| One Punch Man 3
-0.00 	| 118381  	| 522    	| 0.44%	| Uzumaki
-5.39 	| 98549  	| 208    	| 0.21%	| Shironeko Project: Zero Chronicle
-5.84 	| 83663  	| 751    	| 0.90%	| Euphoria
-5.90 	| 98963  	| 168    	| 0.17%	| Val x Love
-6.02 	| 868071  	| 7304    	| 0.84%	| Boruto: Naruto Next Generations
-6.11 	| 106238  	| 855    	| 0.80%	| Yarichin☆Bitch-bu
-6.34 	| 723889  	| 2746    	| 0.38%	| Eromanga-sensei
-6.35 	| 107699  	| 636    	| 0.59%	| RWBY: Hyousetsu Teikoku
-6.40 	| 136029  	| 226    	| 0.17%	| Katsute Kami Datta Kemono-tachi e
-6.44 	| 519792  	| 3902    	| 0.75%	| Citrus
-6.49 	| 634095  	| 2076    	| 0.33%	| Dragon Ball GT
-6.53 	| 373065  	| 1193    	| 0.32%	| Blood-C
-6.55 	| 12436  	| 37    	| 0.30%	| Onimusha
-6.69 	| 81637  	| 146    	| 0.18%	| Black Fox
-6.69 	| 112584  	| 554    	| 0.49%	| Kodomo no Jikan (TV)
-6.75 	| 179146  	| 356    	| 0.20%	| Shuumatsu no Izetta
-6.76 	| 6106  	| 22    	| 0.36%	| Home!
-6.80 	| 354736  	| 2243    	| 0.63%	| Black★Rock Shooter (TV)
-6.80 	| 162078  	| 870    	| 0.54%	| Magia Record: Mahou Shoujo Madoka☆Magica Gaiden
-6.87 	| 112795  	| 262    	| 0.23%	| Blood: The Last Vampire
-6.94 	| 162197  	| 733    	| 0.45%	| Mahou Shoujo Ikusei Keikaku
-6.95 	| 753904  	| 3989    	| 0.53%	| Monster Musume no Iru Nichijou
-6.96 	| 250301  	| 687    	| 0.27%	| Sirius
-6.99 	| 657127  	| 5711    	| 0.87%	| Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
-7.04 	| 32171  	| 126    	| 0.39%	| Kemurikusa (TV)
-7.07 	| 1514631  	| 10267    	| 0.68%	| Highschool of the Dead
-7.12 	| 300236  	| 1371    	| 0.46%	| SSSS.Gridman
-7.13 	| 189382  	| 1394    	| 0.74%	| Suki na Ko ga Megane wo Wasureta
-7.14 	| 98407  	| 597    	| 0.61%	| Saishuu Heiki Kanojo
-7.15 	| 514361  	| 4694    	| 0.91%	| Takt Op. Destiny
-7.18 	| 124318  	| 245    	| 0.20%	| Shikabane Hime: Aka
-7.19 	| 480598  	| 2589    	| 0.54%	| Fate/Apocrypha
-7.19 	| 548104  	| 1948    	| 0.36%	| God Eater
-7.20 	| 945236  	| 8343    	| 0.88%	| Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
-7.21 	| 341817  	| 3175    	| 0.93%	| Goblin Slayer II
-7.23 	| 1493847  	| 10991    	| 0.74%	| Kakegurui
-7.23 	| 489067  	| 1492    	| 0.31%	| Maoyuu Maou Yuusha
-7.23 	| 320776  	| 3239    	| 1.01%	| Nazo no Kanojo X
-7.24 	| 96017  	| 221    	| 0.23%	| Break Blade
-7.24 	| 212309  	| 1492    	| 0.70%	| Bubble
-7.24 	| 145248  	| 1387    	| 0.95%	| Overflow
-7.25 	| 691018  	| 2074    	| 0.30%	| Blood Lad
-7.25 	| 78946  	| 366    	| 0.46%	| Gun x Sword
-7.25 	| 40715  	| 221    	| 0.54%	| Touhou Niji Sousaku Doujin Anime: Musou Kakyou
-7.28 	| 861750  	| 3420    	| 0.40%	| Btooom!
-7.29 	| 224487  	| 1406    	| 0.63%	| Poputepipikku
-7.29 	| 186022  	| 1341    	| 0.72%	| Trinity Blood
-7.31 	| 427699  	| 2660    	| 0.62%	| Baki
-7.31 	| 8371  	| 50    	| 0.60%	| Hifuu Katsudou Kiroku: The Sealed Esoteric History
-7.32 	| 341253  	| 1598    	| 0.47%	| Araburu Kisetsu no Otome-domo yo.
-7.33 	| 1434212  	| 22651    	| 1.58%	| High School DxD
-7.35 	| 369807  	| 2648    	| 0.72%	| BNA
-7.36 	| 125106  	| 919    	| 0.73%	| Shigurui
-7.37 	| 24254  	| 53    	| 0.22%	| Dead Dead Demons Dededede Destruction
-7.38 	| 48715  	| 922    	| 1.89%	| Blue Archive the Animation
-7.39 	| 591271  	| 3199    	| 0.54%	| Ajin
-7.40 	| 449711  	| 8030    	| 1.79%	| Love Live! School Idol Project
-7.41 	| 1217658  	| 17021    	| 1.40%	| Guilty Crown
-7.41 	| 13849  	| 34    	| 0.25%	| Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!
-7.46 	| 147390  	| 852    	| 0.58%	| Grappler Baki (TV)
-7.46 	| 48843  	| 153    	| 0.31%	| Shuumatsu Train Doko e Iku?
-7.47 	| 1673161  	| 17671    	| 1.06%	| Another
-7.48 	| 220206  	| 1253    	| 0.57%	| Hitoribocchi no Marumaru Seikatsu
-7.49 	| 319929  	| 1793    	| 0.56%	| Kono Subarashii Sekai ni Bakuen wo!
-7.49 	| 1342441  	| 13869    	| 1.03%	| Owari no Seraph
-7.51 	| 70392  	| 542    	| 0.77%	| Fushigi no Umi no Nadia
-7.51 	| 279035  	| 2103    	| 0.75%	| NieR:Automata Ver1.1a
-7.52 	| 336016  	| 2225    	| 0.66%	| Irozuku Sekai no Ashita kara
-7.52 	| 82601  	| 1086    	| 1.31%	| Kemono Friends
-7.52 	| 1702588  	| 6616    	| 0.39%	| One Punch Man 2nd Season
-7.54 	| 16140  	| 67    	| 0.42%	| Kizumonogatari: Koyomi Vamp
-7.55 	| 931501  	| 6483    	| 0.70%	| Kami no Tou
-7.55 	| 773965  	| 2709    	| 0.35%	| Sakamoto desu ga?
-7.56 	| 947884  	| 11029    	| 1.16%	| Byousoku 5 Centimeter
-7.57 	| 428930  	| 2468    	| 0.58%	| Kara no Kyoukai Movie 1: Fukan Fuukei
-7.59 	| 879883  	| 7891    	| 0.90%	| Kekkai Sensen
-7.60 	| 192436  	| 1190    	| 0.62%	| Bokura no
-7.60 	| 116447  	| 733    	| 0.63%	| Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
-7.60 	| 79180  	| 871    	| 1.10%	| Top wo Nerae 2! Diebuster
-7.61 	| 454712  	| 5510    	| 1.21%	| Gakkougurashi!
-7.61 	| 143136  	| 1198    	| 0.84%	| Juubee Ninpuuchou
-7.61 	| 227325  	| 1371    	| 0.60%	| Kimi to, Nami ni Noretara
-7.62 	| 108168  	| 656    	| 0.61%	| Aggressive Retsuko
-7.62 	| 79104  	| 414    	| 0.52%	| Kimitachi wa Dou Ikiru ka
-7.62 	| 831415  	| 7009    	| 0.84%	| Orange
-7.63 	| 85014  	| 160    	| 0.19%	| Break Blade Movie 1: Kakusei no Toki
-7.63 	| 191685  	| 2142    	| 1.12%	| Flip Flappers
-7.63 	| 6768  	| 122    	| 1.80%	| Gensou Mangekyou: The Memories of Phantasm
-7.66 	| 162442  	| 668    	| 0.41%	| Hanma Baki: Son of Ogre
-7.66 	| 1189463  	| 22733    	| 1.91%	| Kuroshitsuji
-7.66 	| 611614  	| 5909    	| 0.97%	| Toaru Kagaku no Railgun
-7.67 	| 222137  	| 1625    	| 0.73%	| Aoi Bungaku Series
-7.67 	| 149627  	| 2129    	| 1.42%	| Oniichan wa Oshimai!
-7.68 	| 134696  	| 1471    	| 1.09%	| Mahou Shoujo ni Akogarete
-7.69 	| 594155  	| 5258    	| 0.88%	| Karakai Jouzu no Takagi-san
-7.70 	| 1361358  	| 17982    	| 1.32%	| Chuunibyou demo Koi ga Shitai!
-7.70 	| 192854  	| 1990    	| 1.03%	| Kyousou Giga (TV)
-7.71 	| 101355  	| 696    	| 0.69%	| Ai no Utagoe wo Kikasete
-7.71 	| 1347325  	| 9531    	| 0.71%	| Enen no Shouboutai
-7.73 	| 675793  	| 8517    	| 1.26%	| Claymore
-7.73 	| 397630  	| 6015    	| 1.51%	| Panty & Stocking with Garterbelt
-7.74 	| 1046279  	| 13434    	| 1.28%	| Golden Time
-7.74 	| 653303  	| 12330    	| 1.89%	| Lucky☆Star
-7.79 	| 214829  	| 2242    	| 1.04%	| Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo
-7.80 	| 468510  	| 6106    	| 1.30%	| Blue Period
-7.80 	| 313164  	| 1351    	| 0.43%	| Little Witch Academia
-7.81 	| 1402841  	| 27483    	| 1.96%	| Bungou Stray Dogs
-7.81 	| 333749  	| 1932    	| 0.58%	| Kokoro ga Sakebitagatterunda.
-7.81 	| 648967  	| 7665    	| 1.18%	| Little Witch Academia (TV)
-7.81 	| 530875  	| 3926    	| 0.74%	| Zom 100: Zombie ni Naru made ni Shitai 100 no Koto
-7.82 	| 176894  	| 576    	| 0.33%	| Mushoku Tensei: Isekai Ittara Honki Dasu - Eris no Goblin Toubatsu
-7.83 	| 597007  	| 11892    	| 1.99%	| Jibaku Shounen Hanako-kun
-7.84 	| 185675  	| 2153    	| 1.16%	| Trigun Stampede
-7.85 	| 347082  	| 4685    	| 1.35%	| Sayonara Zetsubou Sensei
-7.85 	| 130389  	| 2782    	| 2.13%	| Top wo Nerae! Gunbuster
-7.86 	| 1056740  	| 24143    	| 2.28%	| K-On!
-7.86 	| 156498  	| 1565    	| 1.00%	| Kidou Senshi Gundam: Suisei no Majo
-7.88 	| 808464  	| 21300    	| 2.63%	| Higurashi no Naku Koro ni
-7.88 	| 868568  	| 7061    	| 0.81%	| Kotonoha no Niwa
-7.89 	| 329458  	| 5241    	| 1.59%	| School Rumble
-7.90 	| 653601  	| 13708    	| 2.10%	| Ergo Proxy
-7.90 	| 890922  	| 20814    	| 2.34%	| Yuri!!! on Ice
-7.90 	| 599668  	| 6578    	| 1.10%	| Zetsuen no Tempest
-7.91 	| 949179  	| 12038    	| 1.27%	| Plastic Memories
-7.91 	| 144091  	| 284    	| 0.20%	| Trigun: Badlands Rumble
-7.94 	| 1977198  	| 73978    	| 3.74%	| Bleach
-7.94 	| 586189  	| 4293    	| 0.73%	| Gake no Ue no Ponyo
-7.95 	| 1598373  	| 25285    	| 1.58%	| Tate no Yuusha no Nariagari
-7.96 	| 1043400  	| 10085    	| 0.97%	| ReLIFE
-7.96 	| 926647  	| 12475    	| 1.35%	| Youjo Senki
-7.97 	| 290357  	| 7810    	| 2.69%	| Haibane Renmei
-7.97 	| 85062  	| 381    	| 0.45%	| Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen
-7.98 	| 323594  	| 4588    	| 1.42%	| xxxHOLiC
-7.99 	| 1418990  	| 27668    	| 1.95%	| Clannad
-8.01 	| 694722  	| 13822    	| 1.99%	| D.Gray-man
-8.01 	| 1048756  	| 9263    	| 0.88%	| Magi: The Labyrinth of Magic
-8.03 	| 366797  	| 7572    	| 2.06%	| Azumanga Daiou The Animation
-8.04 	| 403408  	| 6051    	| 1.50%	| Golden Boy
-8.05 	| 2080796  	| 48588    	| 2.34%	| Angel Beats!
-8.05 	| 553100  	| 8976    	| 1.62%	| Dorohedoro
-8.05 	| 437444  	| 9110    	| 2.08%	| Koukyoushihen Eureka Seven
-8.07 	| 307913  	| 3215    	| 1.04%	| Kanata no Astra
-8.08 	| 2027914  	| 29878    	| 1.47%	| Ansatsu Kyoushitsu
-8.10 	| 1411563  	| 30085    	| 2.13%	| Durarara!!
-8.10 	| 686227  	| 7576    	| 1.10%	| Jigokuraku
-8.12 	| 162201  	| 870    	| 0.54%	| Ookami to Koushinryou: Merchant Meets the Wise Wolf
-8.14 	| 1677928  	| 46741    	| 2.79%	| Black Clover
-8.16 	| 349877  	| 2916    	| 0.83%	| Kimetsu no Yaiba: Hashira Geiko-hen
-8.17 	| 440422  	| 13554    	| 3.08%	| Cardcaptor Sakura
-8.17 	| 481836  	| 7402    	| 1.54%	| Higurashi no Naku Koro ni Kai
-8.18 	| 55543  	| 1889    	| 3.40%	| Holo no Graffiti
-8.19 	| 483243  	| 6771    	| 1.40%	| Asobi Asobase
-8.21 	| 845850  	| 7679    	| 0.91%	| Magi: The Kingdom of Magic
-8.21 	| 222301  	| 8534    	| 3.84%	| Shoujo Kakumei Utena
-8.22 	| 201371  	| 947    	| 0.47%	| Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari
-8.22 	| 822985  	| 18050    	| 2.19%	| Ookami to Koushinryou
-8.22 	| 480384  	| 5645    	| 1.18%	| Tengoku Daimakyou
-8.24 	| 189121  	| 2668    	| 1.41%	| Sennen Joyuu
-8.25 	| 1232587  	| 20953    	| 1.70%	| Dororo
-8.25 	| 262673  	| 3205    	| 1.22%	| Dungeon Meshi
-8.25 	| 1070814  	| 8574    	| 0.80%	| Tonari no Totoro
-8.26 	| 780729  	| 22002    	| 2.82%	| Shinsekai yori
-8.27 	| 82256  	| 306    	| 0.37%	| Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai
-8.27 	| 446873  	| 6227    	| 1.39%	| Shirobako
-8.28 	| 271428  	| 6222    	| 2.29%	| Doukyuusei (Movie)
-8.29 	| 651401  	| 15023    	| 2.31%	| Kage no Jitsuryokusha ni Naritakute!
-8.30 	| 1612064  	| 32580    	| 2.02%	| Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
-8.30 	| 564150  	| 10794    	| 1.91%	| Katanagatari
-8.30 	| 360798  	| 4581    	| 1.27%	| Suzume no Tojimari
-8.31 	| 542930  	| 15829    	| 2.92%	| Natsume Yuujinchou
-8.32 	| 667329  	| 12846    	| 1.92%	| Ore dake Level Up na Ken
-8.33 	| 1639685  	| 38952    	| 2.38%	| Psycho-Pass
-8.33 	| 1113358  	| 11634    	| 1.04%	| Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
-8.35 	| 875763  	| 14516    	| 1.66%	| Fumetsu no Anata e
-8.36 	| 296547  	| 2008    	| 0.68%	| Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2
-8.38 	| 681812  	| 15675    	| 2.30%	| 3-gatsu no Lion
-8.40 	| 540898  	| 10746    	| 1.99%	| Vivy: Fluorite Eye's Song
-8.41 	| 1110601  	| 29849    	| 2.69%	| Saiki Kusuo no Ψ-nan
-8.42 	| 398864  	| 8602    	| 2.16%	| Koukaku Kidoutai: Stand Alone Complex
-8.42 	| 330243  	| 8368    	| 2.53%	| Mononoke
-8.43 	| 895258  	| 12503    	| 1.40%	| Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
-8.47 	| 869656  	| 30329    	| 3.49%	| Banana Fish
-8.48 	| 130304  	| 4150    	| 3.18%	| Aria the Origination
-8.48 	| 361488  	| 4354    	| 1.20%	| Kono Subarashii Sekai ni Shukufuku wo! 3
-8.49 	| 161825  	| 2038    	| 1.26%	| Pluto
-8.51 	| 649643  	| 12718    	| 1.96%	| Ousama Ranking
-8.52 	| 239930  	| 4592    	| 1.91%	| Kara no Kyoukai Movie 5: Mujun Rasen
-8.55 	| 675339  	| 30366    	| 4.50%	| Nana
-8.63 	| 1350022  	| 18794    	| 1.39%	| Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen
-8.64 	| 2224366  	| 86188    	| 3.87%	| Shigatsu wa Kimi no Uso
-8.66 	| 354322  	| 8081    	| 2.28%	| Fate/stay night Movie: Heaven's Feel - III. Spring Song
-8.66 	| 834553  	| 26963    	| 3.23%	| Mushishi
-8.66 	| 436589  	| 8302    	| 1.90%	| Odd Taxi
-8.69 	| 833808  	| 26591    	| 3.19%	| Great Teacher Onizuka
-8.88 	| 1130170  	| 53183    	| 4.71%	| Monster
-8.91 	| 412428  	| 11043    	| 2.68%	| Kusuriya no Hitorigoto
-8.92 	| 404216  	| 15077    	| 3.73%	| 3-gatsu no Lion 2nd Season
-8.93 	| 1198546  	| 70310    	| 5.87%	| Clannad: After Story
-9.06 	| 634084  	| 16692    	| 2.63%	| Gintama°
+0.00 	| 17051  	| 41    	| 0.24%	| Akira (Shin Anime)
+0.00 	| 45971  	| 89    	| 0.19%	| Beastars Final Season
+0.00 	| 64822  	| 245    	| 0.38%	| Chainsaw Man Movie: Reze-hen
+0.00 	| 52753  	| 348    	| 0.66%	| Dandadan
+0.00 	| 25901  	| 85    	| 0.33%	| Dungeon Meshi 2nd Season
+0.00 	| 58027  	| 263    	| 0.45%	| Isekai Suicide Squad
+0.00 	| 34439  	| 70    	| 0.20%	| Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen)
+0.00 	| 63937  	| 326    	| 0.51%	| Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten
+0.00 	| 31168  	| 193    	| 0.62%	| Monogatari Series: Off & Monster Season
+0.00 	| 21669  	| 124    	| 0.57%	| Mononoke Movie: Karakasa
+0.00 	| 31098  	| 221    	| 0.71%	| Naruto (Shinsaku Anime)
+0.00 	| 222292  	| 3849    	| 1.73%	| One Punch Man 3
+0.00 	| 33210  	| 166    	| 0.50%	| Shikanoko Nokonoko Koshitantan
+0.00 	| 118716  	| 529    	| 0.45%	| Uzumaki
+5.39 	| 98618  	| 208    	| 0.21%	| Shironeko Project: Zero Chronicle
+5.83 	| 83704  	| 752    	| 0.90%	| Euphoria
+6.02 	| 868432  	| 7306    	| 0.84%	| Boruto: Naruto Next Generations
+6.11 	| 106298  	| 855    	| 0.80%	| Yarichin☆Bitch-bu
+6.34 	| 724198  	| 2748    	| 0.38%	| Eromanga-sensei
+6.35 	| 107787  	| 636    	| 0.59%	| RWBY: Hyousetsu Teikoku
+6.40 	| 136080  	| 226    	| 0.17%	| Katsute Kami Datta Kemono-tachi e
+6.44 	| 520012  	| 3902    	| 0.75%	| Citrus
+6.49 	| 634360  	| 2078    	| 0.33%	| Dragon Ball GT
+6.53 	| 373310  	| 1196    	| 0.32%	| Blood-C
+6.55 	| 12472  	| 37    	| 0.30%	| Onimusha
+6.56 	| 10535  	| 34    	| 0.32%	| Aachi wa Ssipak
+6.69 	| 81660  	| 146    	| 0.18%	| Black Fox
+6.69 	| 112616  	| 555    	| 0.49%	| Kodomo no Jikan (TV)
+6.75 	| 179191  	| 356    	| 0.20%	| Shuumatsu no Izetta
+6.80 	| 354829  	| 2244    	| 0.63%	| Black★Rock Shooter (TV)
+6.80 	| 162155  	| 871    	| 0.54%	| Magia Record: Mahou Shoujo Madoka☆Magica Gaiden
+6.86 	| 33458  	| 209    	| 0.62%	| Hells
+6.87 	| 112838  	| 262    	| 0.23%	| Blood: The Last Vampire
+6.94 	| 56056  	| 382    	| 0.68%	| Bocchi the Rock! Movie
+6.94 	| 162262  	| 733    	| 0.45%	| Mahou Shoujo Ikusei Keikaku
+6.95 	| 754195  	| 3992    	| 0.53%	| Monster Musume no Iru Nichijou
+6.96 	| 250403  	| 687    	| 0.27%	| Sirius
+6.99 	| 657430  	| 5713    	| 0.87%	| Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
+7.04 	| 32188  	| 126    	| 0.39%	| Kemurikusa (TV)
+7.07 	| 230372  	| 842    	| 0.37%	| Boogiepop wa Warawanai (2019)
+7.07 	| 1515286  	| 10271    	| 0.68%	| Highschool of the Dead
+7.12 	| 300370  	| 1376    	| 0.46%	| SSSS.Gridman
+7.13 	| 189653  	| 1398    	| 0.74%	| Suki na Ko ga Megane wo Wasureta
+7.14 	| 98452  	| 597    	| 0.61%	| Saishuu Heiki Kanojo
+7.15 	| 137663  	| 1141    	| 0.83%	| Boogiepop wa Warawanai
+7.15 	| 514681  	| 4697    	| 0.91%	| Takt Op. Destiny
+7.17 	| 51226  	| 738    	| 1.44%	| Kanashimi no Belladonna
+7.18 	| 124351  	| 245    	| 0.20%	| Shikabane Hime: Aka
+7.19 	| 480783  	| 2589    	| 0.54%	| Fate/Apocrypha
+7.19 	| 548285  	| 1948    	| 0.36%	| God Eater
+7.20 	| 945630  	| 8342    	| 0.88%	| Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
+7.20 	| 95041  	| 651    	| 0.68%	| Dead Leaves
+7.21 	| 342421  	| 3177    	| 0.93%	| Goblin Slayer II
+7.23 	| 1494640  	| 10999    	| 0.74%	| Kakegurui
+7.23 	| 489284  	| 1494    	| 0.31%	| Maoyuu Maou Yuusha
+7.23 	| 321018  	| 3239    	| 1.01%	| Nazo no Kanojo X
+7.23 	| 10878  	| 44    	| 0.40%	| Touhou Niji Sousaku Doujin Anime: Musou Kakyou Special
+7.24 	| 691249  	| 2073    	| 0.30%	| Blood Lad
+7.24 	| 96035  	| 221    	| 0.23%	| Break Blade
+7.24 	| 212556  	| 1494    	| 0.70%	| Bubble
+7.24 	| 145348  	| 1392    	| 0.96%	| Overflow
+7.25 	| 78966  	| 366    	| 0.46%	| Gun x Sword
+7.25 	| 11376  	| 311    	| 2.73%	| Popee the Performer
+7.25 	| 40734  	| 221    	| 0.54%	| Touhou Niji Sousaku Doujin Anime: Musou Kakyou
+7.28 	| 862026  	| 3420    	| 0.40%	| Btooom!
+7.29 	| 224558  	| 1408    	| 0.63%	| Poputepipikku
+7.29 	| 186085  	| 1341    	| 0.72%	| Trinity Blood
+7.31 	| 65797  	| 251    	| 0.38%	| Ame wo Tsugeru Hyouryuu Danchi
+7.31 	| 428102  	| 2662    	| 0.62%	| Baki
+7.31 	| 8376  	| 50    	| 0.60%	| Hifuu Katsudou Kiroku: The Sealed Esoteric History
+7.32 	| 341404  	| 1598    	| 0.47%	| Araburu Kisetsu no Otome-domo yo.
+7.32 	| 80860  	| 992    	| 1.23%	| Nekojiru-sou
+7.33 	| 1434861  	| 22663    	| 1.58%	| High School DxD
+7.35 	| 370049  	| 2648    	| 0.72%	| BNA
+7.36 	| 49275  	| 929    	| 1.89%	| Blue Archive the Animation
+7.36 	| 24398  	| 54    	| 0.22%	| Dead Dead Demons Dededede Destruction
+7.36 	| 125164  	| 920    	| 0.74%	| Shigurui
+7.38 	| 77619  	| 287    	| 0.37%	| Ayakashi: Japanese Classic Horror
+7.39 	| 591499  	| 3203    	| 0.54%	| Ajin
+7.40 	| 449848  	| 8032    	| 1.79%	| Love Live! School Idol Project
+7.41 	| 1218062  	| 17031    	| 1.40%	| Guilty Crown
+7.41 	| 13852  	| 34    	| 0.25%	| Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!
+7.46 	| 147553  	| 854    	| 0.58%	| Grappler Baki (TV)
+7.46 	| 49652  	| 152    	| 0.31%	| Shuumatsu Train Doko e Iku?
+7.47 	| 1673940  	| 17674    	| 1.06%	| Another
+7.48 	| 220291  	| 1255    	| 0.57%	| Hitoribocchi no Marumaru Seikatsu
+7.49 	| 320544  	| 1795    	| 0.56%	| Kono Subarashii Sekai ni Bakuen wo!
+7.49 	| 1343177  	| 13871    	| 1.03%	| Owari no Seraph
+7.51 	| 166989  	| 1813    	| 1.09%	| Casshern Sins
+7.51 	| 70461  	| 542    	| 0.77%	| Fushigi no Umi no Nadia
+7.51 	| 279422  	| 2105    	| 0.75%	| NieR:Automata Ver1.1a
+7.52 	| 336153  	| 2226    	| 0.66%	| Irozuku Sekai no Ashita kara
+7.52 	| 82614  	| 1087    	| 1.32%	| Kemono Friends
+7.52 	| 1703741  	| 6622    	| 0.39%	| One Punch Man 2nd Season
+7.53 	| 163777  	| 1489    	| 0.91%	| So Ra No Wo To
+7.54 	| 16165  	| 66    	| 0.41%	| Kizumonogatari: Koyomi Vamp
+7.55 	| 932425  	| 6485    	| 0.70%	| Kami no Tou
+7.55 	| 774297  	| 2711    	| 0.35%	| Sakamoto desu ga?
+7.56 	| 948245  	| 11033    	| 1.16%	| Byousoku 5 Centimeter
+7.57 	| 429075  	| 2470    	| 0.58%	| Kara no Kyoukai Movie 1: Fukan Fuukei
+7.59 	| 880233  	| 7892    	| 0.90%	| Kekkai Sensen
+7.60 	| 192480  	| 1190    	| 0.62%	| Bokura no
+7.60 	| 116601  	| 734    	| 0.63%	| Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
+7.60 	| 79221  	| 870    	| 1.10%	| Top wo Nerae 2! Diebuster
+7.61 	| 454900  	| 5514    	| 1.21%	| Gakkougurashi!
+7.61 	| 143226  	| 1199    	| 0.84%	| Juubee Ninpuuchou
+7.61 	| 227530  	| 1373    	| 0.60%	| Kimi to, Nami ni Noretara
+7.62 	| 108214  	| 656    	| 0.61%	| Aggressive Retsuko
+7.62 	| 15017  	| 37    	| 0.25%	| Dead Dead Demons Dededede Destruction (ONA)
+7.62 	| 79407  	| 419    	| 0.53%	| Kimitachi wa Dou Ikiru ka
+7.63 	| 85032  	| 160    	| 0.19%	| Break Blade Movie 1: Kakusei no Toki
+7.63 	| 191738  	| 2144    	| 1.12%	| Flip Flappers
+7.63 	| 831818  	| 7011    	| 0.84%	| Orange
+7.66 	| 162792  	| 669    	| 0.41%	| Hanma Baki: Son of Ogre
+7.66 	| 1190177  	| 22751    	| 1.91%	| Kuroshitsuji
+7.66 	| 611819  	| 5905    	| 0.97%	| Toaru Kagaku no Railgun
+7.67 	| 222215  	| 1624    	| 0.73%	| Aoi Bungaku Series
+7.67 	| 149956  	| 2133    	| 1.42%	| Oniichan wa Oshimai!
+7.68 	| 135469  	| 1476    	| 1.09%	| Mahou Shoujo ni Akogarete
+7.69 	| 594416  	| 5262    	| 0.89%	| Karakai Jouzu no Takagi-san
+7.70 	| 1361979  	| 17988    	| 1.32%	| Chuunibyou demo Koi ga Shitai!
+7.70 	| 192952  	| 1989    	| 1.03%	| Kyousou Giga (TV)
+7.71 	| 101482  	| 695    	| 0.68%	| Ai no Utagoe wo Kikasete
+7.71 	| 1348290  	| 9532    	| 0.71%	| Enen no Shouboutai
+7.71 	| 155323  	| 3520    	| 2.27%	| Tenshi no Tamago
+7.73 	| 676055  	| 8523    	| 1.26%	| Claymore
+7.74 	| 1046909  	| 13440    	| 1.28%	| Golden Time
+7.74 	| 653583  	| 12344    	| 1.89%	| Lucky☆Star
+7.76 	| 254875  	| 5083    	| 1.99%	| Texhnolyze
+7.78 	| 87196  	| 1131    	| 1.30%	| Mind Game
+7.79 	| 215573  	| 2242    	| 1.04%	| Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo
+7.80 	| 468984  	| 6110    	| 1.30%	| Blue Period
+7.80 	| 313272  	| 1351    	| 0.43%	| Little Witch Academia
+7.80 	| 315015  	| 6896    	| 2.19%	| Sonny Boy
+7.81 	| 1403771  	| 27496    	| 1.96%	| Bungou Stray Dogs
+7.81 	| 333887  	| 1933    	| 0.58%	| Kokoro ga Sakebitagatterunda.
+7.81 	| 649290  	| 7668    	| 1.18%	| Little Witch Academia (TV)
+7.81 	| 532120  	| 3935    	| 0.74%	| Zom 100: Zombie ni Naru made ni Shitai 100 no Koto
+7.82 	| 177225  	| 577    	| 0.33%	| Mushoku Tensei: Isekai Ittara Honki Dasu - Eris no Goblin Toubatsu
+7.83 	| 597398  	| 11892    	| 1.99%	| Jibaku Shounen Hanako-kun
+7.84 	| 186033  	| 2161    	| 1.16%	| Trigun Stampede
+7.85 	| 347173  	| 4680    	| 1.35%	| Sayonara Zetsubou Sensei
+7.85 	| 130481  	| 2783    	| 2.13%	| Top wo Nerae! Gunbuster
+7.86 	| 1057237  	| 24158    	| 2.29%	| K-On!
+7.88 	| 808788  	| 21304    	| 2.63%	| Higurashi no Naku Koro ni
+7.88 	| 869063  	| 7061    	| 0.81%	| Kotonoha no Niwa
+7.89 	| 329533  	| 5244    	| 1.59%	| School Rumble
+7.90 	| 653964  	| 13714    	| 2.10%	| Ergo Proxy
+7.90 	| 891329  	| 20822    	| 2.34%	| Yuri!!! on Ice
+7.90 	| 599884  	| 6580    	| 1.10%	| Zetsuen no Tempest
+7.91 	| 95025  	| 1288    	| 1.36%	| Kuuchuu Buranko
+7.91 	| 949587  	| 12043    	| 1.27%	| Plastic Memories
+7.91 	| 144149  	| 285    	| 0.20%	| Trigun: Badlands Rumble
+7.93 	| 301939  	| 7262    	| 2.41%	| Mawaru Penguindrum
+7.94 	| 1978418  	| 74034    	| 3.74%	| Bleach
+7.94 	| 586654  	| 4300    	| 0.73%	| Gake no Ue no Ponyo
+7.95 	| 1599238  	| 25281    	| 1.58%	| Tate no Yuusha no Nariagari
+7.96 	| 1043934  	| 10086    	| 0.97%	| ReLIFE
+7.96 	| 927288  	| 12478    	| 1.35%	| Youjo Senki
+7.97 	| 290570  	| 7816    	| 2.69%	| Haibane Renmei
+7.97 	| 85077  	| 381    	| 0.45%	| Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen
+7.98 	| 323728  	| 4590    	| 1.42%	| xxxHOLiC
+7.99 	| 1419473  	| 27674    	| 1.95%	| Clannad
+8.01 	| 695000  	| 13826    	| 1.99%	| D.Gray-man
+8.01 	| 1049214  	| 9268    	| 0.88%	| Magi: The Labyrinth of Magic
+8.03 	| 367177  	| 7583    	| 2.07%	| Azumanga Daiou The Animation
+8.04 	| 403681  	| 6057    	| 1.50%	| Golden Boy
+8.04 	| 554073  	| 8397    	| 1.52%	| Gosick
+8.05 	| 2081563  	| 48613    	| 2.34%	| Angel Beats!
+8.05 	| 553559  	| 8986    	| 1.62%	| Dorohedoro
+8.05 	| 437564  	| 9111    	| 2.08%	| Koukyoushihen Eureka Seven
+8.07 	| 308109  	| 3217    	| 1.04%	| Kanata no Astra
+8.08 	| 2029053  	| 29891    	| 1.47%	| Ansatsu Kyoushitsu
+8.10 	| 1412047  	| 30080    	| 2.13%	| Durarara!!
+8.10 	| 688098  	| 7601    	| 1.10%	| Jigokuraku
+8.10 	| 1226491  	| 22301    	| 1.82%	| JoJo no Kimyou na Bouken Part 3: Stardust Crusaders
+8.11 	| 163890  	| 882    	| 0.54%	| Ookami to Koushinryou: Merchant Meets the Wise Wolf
+8.12 	| 356048  	| 2979    	| 0.84%	| Kimetsu no Yaiba: Hashira Geiko-hen
+8.14 	| 1679269  	| 46762    	| 2.78%	| Black Clover
+8.14 	| 153600  	| 3737    	| 2.43%	| Kaiba
+8.17 	| 440700  	| 13569    	| 3.08%	| Cardcaptor Sakura
+8.17 	| 481995  	| 7406    	| 1.54%	| Higurashi no Naku Koro ni Kai
+8.18 	| 55554  	| 1889    	| 3.40%	| Holo no Graffiti
+8.18 	| 127799  	| 1719    	| 1.35%	| Yoru wa Mijikashi Arukeyo Otome
+8.19 	| 483614  	| 6775    	| 1.40%	| Asobi Asobase
+8.21 	| 669126  	| 10021    	| 1.50%	| Great Pretender
+8.21 	| 234499  	| 2660    	| 1.13%	| Kaguya-hime no Monogatari
+8.21 	| 846185  	| 7677    	| 0.91%	| Magi: The Kingdom of Magic
+8.21 	| 222469  	| 8548    	| 3.84%	| Shoujo Kakumei Utena
+8.21 	| 347942  	| 7193    	| 2.07%	| Shoujo Shuumatsu Ryokou
+8.22 	| 201465  	| 947    	| 0.47%	| Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari
+8.22 	| 823324  	| 18054    	| 2.19%	| Ookami to Koushinryou
+8.22 	| 481457  	| 5672    	| 1.18%	| Tengoku Daimakyou
+8.24 	| 189260  	| 2668    	| 1.41%	| Sennen Joyuu
+8.25 	| 255591  	| 3923    	| 1.53%	| Planetes
+8.25 	| 1071426  	| 8579    	| 0.80%	| Tonari no Totoro
+8.26 	| 781008  	| 22006    	| 2.82%	| Shinsekai yori
+8.27 	| 82603  	| 307    	| 0.37%	| Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai
+8.27 	| 447002  	| 6230    	| 1.39%	| Shirobako
+8.28 	| 271588  	| 6224    	| 2.29%	| Doukyuusei (Movie)
+8.28 	| 319919  	| 7003    	| 2.19%	| Kino no Tabi: The Beautiful World
+8.28 	| 296278  	| 2673    	| 0.90%	| Tokyo Godfathers
+8.29 	| 652585  	| 15034    	| 2.30%	| Kage no Jitsuryokusha ni Naritakute!
+8.30 	| 1612677  	| 32578    	| 2.02%	| Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
+8.30 	| 564339  	| 10793    	| 1.91%	| Katanagatari
+8.30 	| 387932  	| 7002    	| 1.80%	| Sakamichi no Apollon
+8.30 	| 362048  	| 4591    	| 1.27%	| Suzume no Tojimari
+8.31 	| 543179  	| 15831    	| 2.91%	| Natsume Yuujinchou
+8.32 	| 670810  	| 12908    	| 1.92%	| Ore dake Level Up na Ken
+8.33 	| 1640406  	| 38967    	| 2.38%	| Psycho-Pass
+8.33 	| 1114057  	| 11643    	| 1.05%	| Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
+8.35 	| 876400  	| 14527    	| 1.66%	| Fumetsu no Anata e
+8.38 	| 682085  	| 15686    	| 2.30%	| 3-gatsu no Lion
+8.39 	| 431632  	| 6194    	| 1.44%	| Josee to Tora to Sakana-tachi
+8.40 	| 300650  	| 2115    	| 0.70%	| Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2
+8.40 	| 541335  	| 10753    	| 1.99%	| Vivy: Fluorite Eye's Song
+8.41 	| 1111419  	| 29858    	| 2.69%	| Saiki Kusuo no Ψ-nan
+8.42 	| 399008  	| 8603    	| 2.16%	| Koukaku Kidoutai: Stand Alone Complex
+8.42 	| 330701  	| 8380    	| 2.53%	| Mononoke
+8.43 	| 896094  	| 12519    	| 1.40%	| Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
+8.44 	| 1121737  	| 20754    	| 1.85%	| JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season
+8.47 	| 870265  	| 30346    	| 3.49%	| Banana Fish
+8.47 	| 398012  	| 8436    	| 2.12%	| Rainbow: Nisha Rokubou no Shichinin
+8.48 	| 130379  	| 4158    	| 3.19%	| Aria the Origination
+8.48 	| 364584  	| 4415    	| 1.21%	| Kono Subarashii Sekai ni Shukufuku wo! 3
+8.49 	| 162615  	| 2048    	| 1.26%	| Pluto
+8.51 	| 650343  	| 12730    	| 1.96%	| Ousama Ranking
+8.52 	| 240008  	| 4593    	| 1.91%	| Kara no Kyoukai Movie 5: Mujun Rasen
+8.55 	| 676113  	| 30404    	| 4.50%	| Nana
+8.63 	| 1350920  	| 18803    	| 1.39%	| Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen
+8.64 	| 2225392  	| 86217    	| 3.87%	| Shigatsu wa Kimi no Uso
+8.66 	| 354574  	| 8083    	| 2.28%	| Fate/stay night Movie: Heaven's Feel - III. Spring Song
+8.66 	| 834986  	| 26969    	| 3.23%	| Mushishi
+8.69 	| 834340  	| 26606    	| 3.19%	| Great Teacher Onizuka
+8.88 	| 1131432  	| 53239    	| 4.71%	| Monster
+8.90 	| 414843  	| 11139    	| 2.69%	| Kusuriya no Hitorigoto
+8.92 	| 404411  	| 15089    	| 3.73%	| 3-gatsu no Lion 2nd Season
+8.93 	| 1199097  	| 70323    	| 5.86%	| Clannad: After Story
+9.06 	| 634438  	| 16698    	| 2.63%	| Gintama°
 ---------------------------------------------------------------------
 score	| members	| favorites	| ratio	| sorted by SCORE
 --------------------------------------------------------------------------------------------------------------
 
 
-6.76 	| 6106  	| 22    	| 0.36%	| Home!
-7.63 	| 6768  	| 122    	| 1.80%	| Gensou Mangekyou: The Memories of Phantasm
-7.31 	| 8371  	| 50    	| 0.60%	| Hifuu Katsudou Kiroku: The Sealed Esoteric History
-6.55 	| 12436  	| 37    	| 0.30%	| Onimusha
-7.41 	| 13849  	| 34    	| 0.25%	| Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!
-7.54 	| 16140  	| 67    	| 0.42%	| Kizumonogatari: Koyomi Vamp
-0.00 	| 17004  	| 41    	| 0.24%	| Akira (Shin Anime)
-7.37 	| 24254  	| 53    	| 0.22%	| Dead Dead Demons Dededede Destruction
-0.00 	| 30657  	| 188    	| 0.61%	| Monogatari Series: Off & Monster Season
-0.00 	| 30985  	| 221    	| 0.71%	| Naruto (Shinsaku Anime)
-7.04 	| 32171  	| 126    	| 0.39%	| Kemurikusa (TV)
-0.00 	| 34275  	| 70    	| 0.20%	| Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen)
-7.25 	| 40715  	| 221    	| 0.54%	| Touhou Niji Sousaku Doujin Anime: Musou Kakyou
-0.00 	| 45839  	| 88    	| 0.19%	| Beastars Final Season
-7.38 	| 48715  	| 922    	| 1.89%	| Blue Archive the Animation
-7.46 	| 48843  	| 153    	| 0.31%	| Shuumatsu Train Doko e Iku?
-0.00 	| 51902  	| 345    	| 0.66%	| Dandadan
-8.18 	| 55543  	| 1889    	| 3.40%	| Holo no Graffiti
-0.00 	| 55582  	| 258    	| 0.46%	| Isekai Suicide Squad
-0.00 	| 55980  	| 379    	| 0.68%	| Bocchi the Rock! Movie
-0.00 	| 63849  	| 326    	| 0.51%	| Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten
-0.00 	| 64232  	| 241    	| 0.38%	| Chainsaw Man Movie: Reze-hen
-7.51 	| 70392  	| 542    	| 0.77%	| Fushigi no Umi no Nadia
-7.25 	| 78946  	| 366    	| 0.46%	| Gun x Sword
-7.62 	| 79104  	| 414    	| 0.52%	| Kimitachi wa Dou Ikiru ka
-7.60 	| 79180  	| 871    	| 1.10%	| Top wo Nerae 2! Diebuster
-6.69 	| 81637  	| 146    	| 0.18%	| Black Fox
-8.27 	| 82256  	| 306    	| 0.37%	| Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai
-7.52 	| 82601  	| 1086    	| 1.31%	| Kemono Friends
-5.84 	| 83663  	| 751    	| 0.90%	| Euphoria
-7.63 	| 85014  	| 160    	| 0.19%	| Break Blade Movie 1: Kakusei no Toki
-7.97 	| 85062  	| 381    	| 0.45%	| Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen
-7.24 	| 96017  	| 221    	| 0.23%	| Break Blade
-7.14 	| 98407  	| 597    	| 0.61%	| Saishuu Heiki Kanojo
-5.39 	| 98549  	| 208    	| 0.21%	| Shironeko Project: Zero Chronicle
-5.90 	| 98963  	| 168    	| 0.17%	| Val x Love
-7.71 	| 101355  	| 696    	| 0.69%	| Ai no Utagoe wo Kikasete
-6.11 	| 106238  	| 855    	| 0.80%	| Yarichin☆Bitch-bu
-6.35 	| 107699  	| 636    	| 0.59%	| RWBY: Hyousetsu Teikoku
-7.62 	| 108168  	| 656    	| 0.61%	| Aggressive Retsuko
-6.69 	| 112584  	| 554    	| 0.49%	| Kodomo no Jikan (TV)
-6.87 	| 112795  	| 262    	| 0.23%	| Blood: The Last Vampire
-7.60 	| 116447  	| 733    	| 0.63%	| Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
-0.00 	| 118381  	| 522    	| 0.44%	| Uzumaki
-7.18 	| 124318  	| 245    	| 0.20%	| Shikabane Hime: Aka
-7.36 	| 125106  	| 919    	| 0.73%	| Shigurui
-8.48 	| 130304  	| 4150    	| 3.18%	| Aria the Origination
-7.85 	| 130389  	| 2782    	| 2.13%	| Top wo Nerae! Gunbuster
-7.68 	| 134696  	| 1471    	| 1.09%	| Mahou Shoujo ni Akogarete
-6.40 	| 136029  	| 226    	| 0.17%	| Katsute Kami Datta Kemono-tachi e
-7.61 	| 143136  	| 1198    	| 0.84%	| Juubee Ninpuuchou
-7.91 	| 144091  	| 284    	| 0.20%	| Trigun: Badlands Rumble
-7.24 	| 145248  	| 1387    	| 0.95%	| Overflow
-7.46 	| 147390  	| 852    	| 0.58%	| Grappler Baki (TV)
-7.67 	| 149627  	| 2129    	| 1.42%	| Oniichan wa Oshimai!
-7.86 	| 156498  	| 1565    	| 1.00%	| Kidou Senshi Gundam: Suisei no Majo
-8.49 	| 161825  	| 2038    	| 1.26%	| Pluto
-6.80 	| 162078  	| 870    	| 0.54%	| Magia Record: Mahou Shoujo Madoka☆Magica Gaiden
-6.94 	| 162197  	| 733    	| 0.45%	| Mahou Shoujo Ikusei Keikaku
-8.12 	| 162201  	| 870    	| 0.54%	| Ookami to Koushinryou: Merchant Meets the Wise Wolf
-7.66 	| 162442  	| 668    	| 0.41%	| Hanma Baki: Son of Ogre
-7.82 	| 176894  	| 576    	| 0.33%	| Mushoku Tensei: Isekai Ittara Honki Dasu - Eris no Goblin Toubatsu
-6.75 	| 179146  	| 356    	| 0.20%	| Shuumatsu no Izetta
-7.84 	| 185675  	| 2153    	| 1.16%	| Trigun Stampede
-7.29 	| 186022  	| 1341    	| 0.72%	| Trinity Blood
-8.24 	| 189121  	| 2668    	| 1.41%	| Sennen Joyuu
-7.13 	| 189382  	| 1394    	| 0.74%	| Suki na Ko ga Megane wo Wasureta
-7.63 	| 191685  	| 2142    	| 1.12%	| Flip Flappers
-7.60 	| 192436  	| 1190    	| 0.62%	| Bokura no
-7.70 	| 192854  	| 1990    	| 1.03%	| Kyousou Giga (TV)
-8.22 	| 201371  	| 947    	| 0.47%	| Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari
-7.24 	| 212309  	| 1492    	| 0.70%	| Bubble
-7.79 	| 214829  	| 2242    	| 1.04%	| Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo
-7.48 	| 220206  	| 1253    	| 0.57%	| Hitoribocchi no Marumaru Seikatsu
-0.00 	| 220571  	| 3772    	| 1.71%	| One Punch Man 3
-7.67 	| 222137  	| 1625    	| 0.73%	| Aoi Bungaku Series
-8.21 	| 222301  	| 8534    	| 3.84%	| Shoujo Kakumei Utena
-7.29 	| 224487  	| 1406    	| 0.63%	| Poputepipikku
-7.61 	| 227325  	| 1371    	| 0.60%	| Kimi to, Nami ni Noretara
-8.52 	| 239930  	| 4592    	| 1.91%	| Kara no Kyoukai Movie 5: Mujun Rasen
-6.96 	| 250301  	| 687    	| 0.27%	| Sirius
-8.25 	| 262673  	| 3205    	| 1.22%	| Dungeon Meshi
-8.28 	| 271428  	| 6222    	| 2.29%	| Doukyuusei (Movie)
-7.51 	| 279035  	| 2103    	| 0.75%	| NieR:Automata Ver1.1a
-7.97 	| 290357  	| 7810    	| 2.69%	| Haibane Renmei
-8.36 	| 296547  	| 2008    	| 0.68%	| Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2
-7.12 	| 300236  	| 1371    	| 0.46%	| SSSS.Gridman
-8.07 	| 307913  	| 3215    	| 1.04%	| Kanata no Astra
-7.80 	| 313164  	| 1351    	| 0.43%	| Little Witch Academia
-7.49 	| 319929  	| 1793    	| 0.56%	| Kono Subarashii Sekai ni Bakuen wo!
-7.23 	| 320776  	| 3239    	| 1.01%	| Nazo no Kanojo X
-7.98 	| 323594  	| 4588    	| 1.42%	| xxxHOLiC
-7.89 	| 329458  	| 5241    	| 1.59%	| School Rumble
-8.42 	| 330243  	| 8368    	| 2.53%	| Mononoke
-7.81 	| 333749  	| 1932    	| 0.58%	| Kokoro ga Sakebitagatterunda.
-7.52 	| 336016  	| 2225    	| 0.66%	| Irozuku Sekai no Ashita kara
-7.32 	| 341253  	| 1598    	| 0.47%	| Araburu Kisetsu no Otome-domo yo.
-7.21 	| 341817  	| 3175    	| 0.93%	| Goblin Slayer II
-7.85 	| 347082  	| 4685    	| 1.35%	| Sayonara Zetsubou Sensei
-8.16 	| 349877  	| 2916    	| 0.83%	| Kimetsu no Yaiba: Hashira Geiko-hen
-8.66 	| 354322  	| 8081    	| 2.28%	| Fate/stay night Movie: Heaven's Feel - III. Spring Song
-6.80 	| 354736  	| 2243    	| 0.63%	| Black★Rock Shooter (TV)
-8.30 	| 360798  	| 4581    	| 1.27%	| Suzume no Tojimari
-8.48 	| 361488  	| 4354    	| 1.20%	| Kono Subarashii Sekai ni Shukufuku wo! 3
-8.03 	| 366797  	| 7572    	| 2.06%	| Azumanga Daiou The Animation
-7.35 	| 369807  	| 2648    	| 0.72%	| BNA
-6.53 	| 373065  	| 1193    	| 0.32%	| Blood-C
-7.73 	| 397630  	| 6015    	| 1.51%	| Panty & Stocking with Garterbelt
-8.42 	| 398864  	| 8602    	| 2.16%	| Koukaku Kidoutai: Stand Alone Complex
-8.04 	| 403408  	| 6051    	| 1.50%	| Golden Boy
-8.92 	| 404216  	| 15077    	| 3.73%	| 3-gatsu no Lion 2nd Season
-8.91 	| 412428  	| 11043    	| 2.68%	| Kusuriya no Hitorigoto
-7.31 	| 427699  	| 2660    	| 0.62%	| Baki
-7.57 	| 428930  	| 2468    	| 0.58%	| Kara no Kyoukai Movie 1: Fukan Fuukei
-8.66 	| 436589  	| 8302    	| 1.90%	| Odd Taxi
-8.05 	| 437444  	| 9110    	| 2.08%	| Koukyoushihen Eureka Seven
-8.17 	| 440422  	| 13554    	| 3.08%	| Cardcaptor Sakura
-8.27 	| 446873  	| 6227    	| 1.39%	| Shirobako
-7.40 	| 449711  	| 8030    	| 1.79%	| Love Live! School Idol Project
-7.61 	| 454712  	| 5510    	| 1.21%	| Gakkougurashi!
-7.80 	| 468510  	| 6106    	| 1.30%	| Blue Period
-8.22 	| 480384  	| 5645    	| 1.18%	| Tengoku Daimakyou
-7.19 	| 480598  	| 2589    	| 0.54%	| Fate/Apocrypha
-8.17 	| 481836  	| 7402    	| 1.54%	| Higurashi no Naku Koro ni Kai
-8.19 	| 483243  	| 6771    	| 1.40%	| Asobi Asobase
-7.23 	| 489067  	| 1492    	| 0.31%	| Maoyuu Maou Yuusha
-7.15 	| 514361  	| 4694    	| 0.91%	| Takt Op. Destiny
-6.44 	| 519792  	| 3902    	| 0.75%	| Citrus
-7.81 	| 530875  	| 3926    	| 0.74%	| Zom 100: Zombie ni Naru made ni Shitai 100 no Koto
-8.40 	| 540898  	| 10746    	| 1.99%	| Vivy: Fluorite Eye's Song
-8.31 	| 542930  	| 15829    	| 2.92%	| Natsume Yuujinchou
-7.19 	| 548104  	| 1948    	| 0.36%	| God Eater
-8.05 	| 553100  	| 8976    	| 1.62%	| Dorohedoro
-8.30 	| 564150  	| 10794    	| 1.91%	| Katanagatari
-7.94 	| 586189  	| 4293    	| 0.73%	| Gake no Ue no Ponyo
-7.39 	| 591271  	| 3199    	| 0.54%	| Ajin
-7.69 	| 594155  	| 5258    	| 0.88%	| Karakai Jouzu no Takagi-san
-7.83 	| 597007  	| 11892    	| 1.99%	| Jibaku Shounen Hanako-kun
-7.90 	| 599668  	| 6578    	| 1.10%	| Zetsuen no Tempest
-7.66 	| 611614  	| 5909    	| 0.97%	| Toaru Kagaku no Railgun
-9.06 	| 634084  	| 16692    	| 2.63%	| Gintama°
-6.49 	| 634095  	| 2076    	| 0.33%	| Dragon Ball GT
-7.81 	| 648967  	| 7665    	| 1.18%	| Little Witch Academia (TV)
-8.51 	| 649643  	| 12718    	| 1.96%	| Ousama Ranking
-8.29 	| 651401  	| 15023    	| 2.31%	| Kage no Jitsuryokusha ni Naritakute!
-7.74 	| 653303  	| 12330    	| 1.89%	| Lucky☆Star
-7.90 	| 653601  	| 13708    	| 2.10%	| Ergo Proxy
-6.99 	| 657127  	| 5711    	| 0.87%	| Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
-8.32 	| 667329  	| 12846    	| 1.92%	| Ore dake Level Up na Ken
-8.55 	| 675339  	| 30366    	| 4.50%	| Nana
-7.73 	| 675793  	| 8517    	| 1.26%	| Claymore
-8.38 	| 681812  	| 15675    	| 2.30%	| 3-gatsu no Lion
-8.10 	| 686227  	| 7576    	| 1.10%	| Jigokuraku
-7.25 	| 691018  	| 2074    	| 0.30%	| Blood Lad
-8.01 	| 694722  	| 13822    	| 1.99%	| D.Gray-man
-6.34 	| 723889  	| 2746    	| 0.38%	| Eromanga-sensei
-6.95 	| 753904  	| 3989    	| 0.53%	| Monster Musume no Iru Nichijou
-7.55 	| 773965  	| 2709    	| 0.35%	| Sakamoto desu ga?
-8.26 	| 780729  	| 22002    	| 2.82%	| Shinsekai yori
-7.88 	| 808464  	| 21300    	| 2.63%	| Higurashi no Naku Koro ni
-8.22 	| 822985  	| 18050    	| 2.19%	| Ookami to Koushinryou
-7.62 	| 831415  	| 7009    	| 0.84%	| Orange
-8.69 	| 833808  	| 26591    	| 3.19%	| Great Teacher Onizuka
-8.66 	| 834553  	| 26963    	| 3.23%	| Mushishi
-8.21 	| 845850  	| 7679    	| 0.91%	| Magi: The Kingdom of Magic
-7.28 	| 861750  	| 3420    	| 0.40%	| Btooom!
-6.02 	| 868071  	| 7304    	| 0.84%	| Boruto: Naruto Next Generations
-7.88 	| 868568  	| 7061    	| 0.81%	| Kotonoha no Niwa
-8.47 	| 869656  	| 30329    	| 3.49%	| Banana Fish
-8.35 	| 875763  	| 14516    	| 1.66%	| Fumetsu no Anata e
-7.59 	| 879883  	| 7891    	| 0.90%	| Kekkai Sensen
-7.90 	| 890922  	| 20814    	| 2.34%	| Yuri!!! on Ice
-8.43 	| 895258  	| 12503    	| 1.40%	| Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
-7.96 	| 926647  	| 12475    	| 1.35%	| Youjo Senki
-7.55 	| 931501  	| 6483    	| 0.70%	| Kami no Tou
-7.20 	| 945236  	| 8343    	| 0.88%	| Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
-7.56 	| 947884  	| 11029    	| 1.16%	| Byousoku 5 Centimeter
-7.91 	| 949179  	| 12038    	| 1.27%	| Plastic Memories
-7.96 	| 1043400  	| 10085    	| 0.97%	| ReLIFE
-7.74 	| 1046279  	| 13434    	| 1.28%	| Golden Time
-8.01 	| 1048756  	| 9263    	| 0.88%	| Magi: The Labyrinth of Magic
-7.86 	| 1056740  	| 24143    	| 2.28%	| K-On!
-8.25 	| 1070814  	| 8574    	| 0.80%	| Tonari no Totoro
-8.41 	| 1110601  	| 29849    	| 2.69%	| Saiki Kusuo no Ψ-nan
-8.33 	| 1113358  	| 11634    	| 1.04%	| Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
-8.88 	| 1130170  	| 53183    	| 4.71%	| Monster
-7.66 	| 1189463  	| 22733    	| 1.91%	| Kuroshitsuji
-8.93 	| 1198546  	| 70310    	| 5.87%	| Clannad: After Story
-7.41 	| 1217658  	| 17021    	| 1.40%	| Guilty Crown
-8.25 	| 1232587  	| 20953    	| 1.70%	| Dororo
-7.49 	| 1342441  	| 13869    	| 1.03%	| Owari no Seraph
-7.71 	| 1347325  	| 9531    	| 0.71%	| Enen no Shouboutai
-8.63 	| 1350022  	| 18794    	| 1.39%	| Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen
-7.70 	| 1361358  	| 17982    	| 1.32%	| Chuunibyou demo Koi ga Shitai!
-7.81 	| 1402841  	| 27483    	| 1.96%	| Bungou Stray Dogs
-8.10 	| 1411563  	| 30085    	| 2.13%	| Durarara!!
-7.99 	| 1418990  	| 27668    	| 1.95%	| Clannad
-7.33 	| 1434212  	| 22651    	| 1.58%	| High School DxD
-7.23 	| 1493847  	| 10991    	| 0.74%	| Kakegurui
-7.07 	| 1514631  	| 10267    	| 0.68%	| Highschool of the Dead
-7.95 	| 1598373  	| 25285    	| 1.58%	| Tate no Yuusha no Nariagari
-8.30 	| 1612064  	| 32580    	| 2.02%	| Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
-8.33 	| 1639685  	| 38952    	| 2.38%	| Psycho-Pass
-7.47 	| 1673161  	| 17671    	| 1.06%	| Another
-8.14 	| 1677928  	| 46741    	| 2.79%	| Black Clover
-7.52 	| 1702588  	| 6616    	| 0.39%	| One Punch Man 2nd Season
-7.94 	| 1977198  	| 73978    	| 3.74%	| Bleach
-8.08 	| 2027914  	| 29878    	| 1.47%	| Ansatsu Kyoushitsu
-8.05 	| 2080796  	| 48588    	| 2.34%	| Angel Beats!
-8.64 	| 2224366  	| 86188    	| 3.87%	| Shigatsu wa Kimi no Uso
+7.31 	| 8376  	| 50    	| 0.60%	| Hifuu Katsudou Kiroku: The Sealed Esoteric History
+6.56 	| 10535  	| 34    	| 0.32%	| Aachi wa Ssipak
+7.23 	| 10878  	| 44    	| 0.40%	| Touhou Niji Sousaku Doujin Anime: Musou Kakyou Special
+7.25 	| 11376  	| 311    	| 2.73%	| Popee the Performer
+6.55 	| 12472  	| 37    	| 0.30%	| Onimusha
+7.41 	| 13852  	| 34    	| 0.25%	| Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!
+7.62 	| 15017  	| 37    	| 0.25%	| Dead Dead Demons Dededede Destruction (ONA)
+7.54 	| 16165  	| 66    	| 0.41%	| Kizumonogatari: Koyomi Vamp
+0.00 	| 17051  	| 41    	| 0.24%	| Akira (Shin Anime)
+0.00 	| 21669  	| 124    	| 0.57%	| Mononoke Movie: Karakasa
+7.36 	| 24398  	| 54    	| 0.22%	| Dead Dead Demons Dededede Destruction
+0.00 	| 25901  	| 85    	| 0.33%	| Dungeon Meshi 2nd Season
+0.00 	| 31098  	| 221    	| 0.71%	| Naruto (Shinsaku Anime)
+0.00 	| 31168  	| 193    	| 0.62%	| Monogatari Series: Off & Monster Season
+7.04 	| 32188  	| 126    	| 0.39%	| Kemurikusa (TV)
+0.00 	| 33210  	| 166    	| 0.50%	| Shikanoko Nokonoko Koshitantan
+6.86 	| 33458  	| 209    	| 0.62%	| Hells
+0.00 	| 34439  	| 70    	| 0.20%	| Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen)
+7.25 	| 40734  	| 221    	| 0.54%	| Touhou Niji Sousaku Doujin Anime: Musou Kakyou
+0.00 	| 45971  	| 89    	| 0.19%	| Beastars Final Season
+7.36 	| 49275  	| 929    	| 1.89%	| Blue Archive the Animation
+7.46 	| 49652  	| 152    	| 0.31%	| Shuumatsu Train Doko e Iku?
+7.17 	| 51226  	| 738    	| 1.44%	| Kanashimi no Belladonna
+0.00 	| 52753  	| 348    	| 0.66%	| Dandadan
+8.18 	| 55554  	| 1889    	| 3.40%	| Holo no Graffiti
+6.94 	| 56056  	| 382    	| 0.68%	| Bocchi the Rock! Movie
+0.00 	| 58027  	| 263    	| 0.45%	| Isekai Suicide Squad
+0.00 	| 63937  	| 326    	| 0.51%	| Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten
+0.00 	| 64822  	| 245    	| 0.38%	| Chainsaw Man Movie: Reze-hen
+7.31 	| 65797  	| 251    	| 0.38%	| Ame wo Tsugeru Hyouryuu Danchi
+7.51 	| 70461  	| 542    	| 0.77%	| Fushigi no Umi no Nadia
+7.38 	| 77619  	| 287    	| 0.37%	| Ayakashi: Japanese Classic Horror
+7.25 	| 78966  	| 366    	| 0.46%	| Gun x Sword
+7.60 	| 79221  	| 870    	| 1.10%	| Top wo Nerae 2! Diebuster
+7.62 	| 79407  	| 419    	| 0.53%	| Kimitachi wa Dou Ikiru ka
+7.32 	| 80860  	| 992    	| 1.23%	| Nekojiru-sou
+6.69 	| 81660  	| 146    	| 0.18%	| Black Fox
+8.27 	| 82603  	| 307    	| 0.37%	| Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai
+7.52 	| 82614  	| 1087    	| 1.32%	| Kemono Friends
+5.83 	| 83704  	| 752    	| 0.90%	| Euphoria
+7.63 	| 85032  	| 160    	| 0.19%	| Break Blade Movie 1: Kakusei no Toki
+7.97 	| 85077  	| 381    	| 0.45%	| Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen
+7.78 	| 87196  	| 1131    	| 1.30%	| Mind Game
+7.91 	| 95025  	| 1288    	| 1.36%	| Kuuchuu Buranko
+7.20 	| 95041  	| 651    	| 0.68%	| Dead Leaves
+7.24 	| 96035  	| 221    	| 0.23%	| Break Blade
+7.14 	| 98452  	| 597    	| 0.61%	| Saishuu Heiki Kanojo
+5.39 	| 98618  	| 208    	| 0.21%	| Shironeko Project: Zero Chronicle
+7.71 	| 101482  	| 695    	| 0.68%	| Ai no Utagoe wo Kikasete
+6.11 	| 106298  	| 855    	| 0.80%	| Yarichin☆Bitch-bu
+6.35 	| 107787  	| 636    	| 0.59%	| RWBY: Hyousetsu Teikoku
+7.62 	| 108214  	| 656    	| 0.61%	| Aggressive Retsuko
+6.69 	| 112616  	| 555    	| 0.49%	| Kodomo no Jikan (TV)
+6.87 	| 112838  	| 262    	| 0.23%	| Blood: The Last Vampire
+7.60 	| 116601  	| 734    	| 0.63%	| Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
+0.00 	| 118716  	| 529    	| 0.45%	| Uzumaki
+7.18 	| 124351  	| 245    	| 0.20%	| Shikabane Hime: Aka
+7.36 	| 125164  	| 920    	| 0.74%	| Shigurui
+8.18 	| 127799  	| 1719    	| 1.35%	| Yoru wa Mijikashi Arukeyo Otome
+8.48 	| 130379  	| 4158    	| 3.19%	| Aria the Origination
+7.85 	| 130481  	| 2783    	| 2.13%	| Top wo Nerae! Gunbuster
+7.68 	| 135469  	| 1476    	| 1.09%	| Mahou Shoujo ni Akogarete
+6.40 	| 136080  	| 226    	| 0.17%	| Katsute Kami Datta Kemono-tachi e
+7.15 	| 137663  	| 1141    	| 0.83%	| Boogiepop wa Warawanai
+7.61 	| 143226  	| 1199    	| 0.84%	| Juubee Ninpuuchou
+7.91 	| 144149  	| 285    	| 0.20%	| Trigun: Badlands Rumble
+7.24 	| 145348  	| 1392    	| 0.96%	| Overflow
+7.46 	| 147553  	| 854    	| 0.58%	| Grappler Baki (TV)
+7.67 	| 149956  	| 2133    	| 1.42%	| Oniichan wa Oshimai!
+8.14 	| 153600  	| 3737    	| 2.43%	| Kaiba
+7.71 	| 155323  	| 3520    	| 2.27%	| Tenshi no Tamago
+6.80 	| 162155  	| 871    	| 0.54%	| Magia Record: Mahou Shoujo Madoka☆Magica Gaiden
+6.94 	| 162262  	| 733    	| 0.45%	| Mahou Shoujo Ikusei Keikaku
+8.49 	| 162615  	| 2048    	| 1.26%	| Pluto
+7.66 	| 162792  	| 669    	| 0.41%	| Hanma Baki: Son of Ogre
+7.53 	| 163777  	| 1489    	| 0.91%	| So Ra No Wo To
+8.11 	| 163890  	| 882    	| 0.54%	| Ookami to Koushinryou: Merchant Meets the Wise Wolf
+7.51 	| 166989  	| 1813    	| 1.09%	| Casshern Sins
+7.82 	| 177225  	| 577    	| 0.33%	| Mushoku Tensei: Isekai Ittara Honki Dasu - Eris no Goblin Toubatsu
+6.75 	| 179191  	| 356    	| 0.20%	| Shuumatsu no Izetta
+7.84 	| 186033  	| 2161    	| 1.16%	| Trigun Stampede
+7.29 	| 186085  	| 1341    	| 0.72%	| Trinity Blood
+8.24 	| 189260  	| 2668    	| 1.41%	| Sennen Joyuu
+7.13 	| 189653  	| 1398    	| 0.74%	| Suki na Ko ga Megane wo Wasureta
+7.63 	| 191738  	| 2144    	| 1.12%	| Flip Flappers
+7.60 	| 192480  	| 1190    	| 0.62%	| Bokura no
+7.70 	| 192952  	| 1989    	| 1.03%	| Kyousou Giga (TV)
+8.22 	| 201465  	| 947    	| 0.47%	| Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari
+7.24 	| 212556  	| 1494    	| 0.70%	| Bubble
+7.79 	| 215573  	| 2242    	| 1.04%	| Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo
+7.48 	| 220291  	| 1255    	| 0.57%	| Hitoribocchi no Marumaru Seikatsu
+7.67 	| 222215  	| 1624    	| 0.73%	| Aoi Bungaku Series
+0.00 	| 222292  	| 3849    	| 1.73%	| One Punch Man 3
+8.21 	| 222469  	| 8548    	| 3.84%	| Shoujo Kakumei Utena
+7.29 	| 224558  	| 1408    	| 0.63%	| Poputepipikku
+7.61 	| 227530  	| 1373    	| 0.60%	| Kimi to, Nami ni Noretara
+7.07 	| 230372  	| 842    	| 0.37%	| Boogiepop wa Warawanai (2019)
+8.21 	| 234499  	| 2660    	| 1.13%	| Kaguya-hime no Monogatari
+8.52 	| 240008  	| 4593    	| 1.91%	| Kara no Kyoukai Movie 5: Mujun Rasen
+6.96 	| 250403  	| 687    	| 0.27%	| Sirius
+7.76 	| 254875  	| 5083    	| 1.99%	| Texhnolyze
+8.25 	| 255591  	| 3923    	| 1.53%	| Planetes
+8.28 	| 271588  	| 6224    	| 2.29%	| Doukyuusei (Movie)
+7.51 	| 279422  	| 2105    	| 0.75%	| NieR:Automata Ver1.1a
+7.97 	| 290570  	| 7816    	| 2.69%	| Haibane Renmei
+8.28 	| 296278  	| 2673    	| 0.90%	| Tokyo Godfathers
+7.12 	| 300370  	| 1376    	| 0.46%	| SSSS.Gridman
+8.40 	| 300650  	| 2115    	| 0.70%	| Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2
+7.93 	| 301939  	| 7262    	| 2.41%	| Mawaru Penguindrum
+8.07 	| 308109  	| 3217    	| 1.04%	| Kanata no Astra
+7.80 	| 313272  	| 1351    	| 0.43%	| Little Witch Academia
+7.80 	| 315015  	| 6896    	| 2.19%	| Sonny Boy
+8.28 	| 319919  	| 7003    	| 2.19%	| Kino no Tabi: The Beautiful World
+7.49 	| 320544  	| 1795    	| 0.56%	| Kono Subarashii Sekai ni Bakuen wo!
+7.23 	| 321018  	| 3239    	| 1.01%	| Nazo no Kanojo X
+7.98 	| 323728  	| 4590    	| 1.42%	| xxxHOLiC
+7.89 	| 329533  	| 5244    	| 1.59%	| School Rumble
+8.42 	| 330701  	| 8380    	| 2.53%	| Mononoke
+7.81 	| 333887  	| 1933    	| 0.58%	| Kokoro ga Sakebitagatterunda.
+7.52 	| 336153  	| 2226    	| 0.66%	| Irozuku Sekai no Ashita kara
+7.32 	| 341404  	| 1598    	| 0.47%	| Araburu Kisetsu no Otome-domo yo.
+7.21 	| 342421  	| 3177    	| 0.93%	| Goblin Slayer II
+7.85 	| 347173  	| 4680    	| 1.35%	| Sayonara Zetsubou Sensei
+8.21 	| 347942  	| 7193    	| 2.07%	| Shoujo Shuumatsu Ryokou
+8.66 	| 354574  	| 8083    	| 2.28%	| Fate/stay night Movie: Heaven's Feel - III. Spring Song
+6.80 	| 354829  	| 2244    	| 0.63%	| Black★Rock Shooter (TV)
+8.12 	| 356048  	| 2979    	| 0.84%	| Kimetsu no Yaiba: Hashira Geiko-hen
+8.30 	| 362048  	| 4591    	| 1.27%	| Suzume no Tojimari
+8.48 	| 364584  	| 4415    	| 1.21%	| Kono Subarashii Sekai ni Shukufuku wo! 3
+8.03 	| 367177  	| 7583    	| 2.07%	| Azumanga Daiou The Animation
+7.35 	| 370049  	| 2648    	| 0.72%	| BNA
+6.53 	| 373310  	| 1196    	| 0.32%	| Blood-C
+8.30 	| 387932  	| 7002    	| 1.80%	| Sakamichi no Apollon
+8.47 	| 398012  	| 8436    	| 2.12%	| Rainbow: Nisha Rokubou no Shichinin
+8.42 	| 399008  	| 8603    	| 2.16%	| Koukaku Kidoutai: Stand Alone Complex
+8.04 	| 403681  	| 6057    	| 1.50%	| Golden Boy
+8.92 	| 404411  	| 15089    	| 3.73%	| 3-gatsu no Lion 2nd Season
+8.90 	| 414843  	| 11139    	| 2.69%	| Kusuriya no Hitorigoto
+7.31 	| 428102  	| 2662    	| 0.62%	| Baki
+7.57 	| 429075  	| 2470    	| 0.58%	| Kara no Kyoukai Movie 1: Fukan Fuukei
+8.39 	| 431632  	| 6194    	| 1.44%	| Josee to Tora to Sakana-tachi
+8.05 	| 437564  	| 9111    	| 2.08%	| Koukyoushihen Eureka Seven
+8.17 	| 440700  	| 13569    	| 3.08%	| Cardcaptor Sakura
+8.27 	| 447002  	| 6230    	| 1.39%	| Shirobako
+7.40 	| 449848  	| 8032    	| 1.79%	| Love Live! School Idol Project
+7.61 	| 454900  	| 5514    	| 1.21%	| Gakkougurashi!
+7.80 	| 468984  	| 6110    	| 1.30%	| Blue Period
+7.19 	| 480783  	| 2589    	| 0.54%	| Fate/Apocrypha
+8.22 	| 481457  	| 5672    	| 1.18%	| Tengoku Daimakyou
+8.17 	| 481995  	| 7406    	| 1.54%	| Higurashi no Naku Koro ni Kai
+8.19 	| 483614  	| 6775    	| 1.40%	| Asobi Asobase
+7.23 	| 489284  	| 1494    	| 0.31%	| Maoyuu Maou Yuusha
+7.15 	| 514681  	| 4697    	| 0.91%	| Takt Op. Destiny
+6.44 	| 520012  	| 3902    	| 0.75%	| Citrus
+7.81 	| 532120  	| 3935    	| 0.74%	| Zom 100: Zombie ni Naru made ni Shitai 100 no Koto
+8.40 	| 541335  	| 10753    	| 1.99%	| Vivy: Fluorite Eye's Song
+8.31 	| 543179  	| 15831    	| 2.91%	| Natsume Yuujinchou
+7.19 	| 548285  	| 1948    	| 0.36%	| God Eater
+8.05 	| 553559  	| 8986    	| 1.62%	| Dorohedoro
+8.04 	| 554073  	| 8397    	| 1.52%	| Gosick
+8.30 	| 564339  	| 10793    	| 1.91%	| Katanagatari
+7.94 	| 586654  	| 4300    	| 0.73%	| Gake no Ue no Ponyo
+7.39 	| 591499  	| 3203    	| 0.54%	| Ajin
+7.69 	| 594416  	| 5262    	| 0.89%	| Karakai Jouzu no Takagi-san
+7.83 	| 597398  	| 11892    	| 1.99%	| Jibaku Shounen Hanako-kun
+7.90 	| 599884  	| 6580    	| 1.10%	| Zetsuen no Tempest
+7.66 	| 611819  	| 5905    	| 0.97%	| Toaru Kagaku no Railgun
+6.49 	| 634360  	| 2078    	| 0.33%	| Dragon Ball GT
+9.06 	| 634438  	| 16698    	| 2.63%	| Gintama°
+7.81 	| 649290  	| 7668    	| 1.18%	| Little Witch Academia (TV)
+8.51 	| 650343  	| 12730    	| 1.96%	| Ousama Ranking
+8.29 	| 652585  	| 15034    	| 2.30%	| Kage no Jitsuryokusha ni Naritakute!
+7.74 	| 653583  	| 12344    	| 1.89%	| Lucky☆Star
+7.90 	| 653964  	| 13714    	| 2.10%	| Ergo Proxy
+6.99 	| 657430  	| 5713    	| 0.87%	| Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
+8.21 	| 669126  	| 10021    	| 1.50%	| Great Pretender
+8.32 	| 670810  	| 12908    	| 1.92%	| Ore dake Level Up na Ken
+7.73 	| 676055  	| 8523    	| 1.26%	| Claymore
+8.55 	| 676113  	| 30404    	| 4.50%	| Nana
+8.38 	| 682085  	| 15686    	| 2.30%	| 3-gatsu no Lion
+8.10 	| 688098  	| 7601    	| 1.10%	| Jigokuraku
+7.24 	| 691249  	| 2073    	| 0.30%	| Blood Lad
+8.01 	| 695000  	| 13826    	| 1.99%	| D.Gray-man
+6.34 	| 724198  	| 2748    	| 0.38%	| Eromanga-sensei
+6.95 	| 754195  	| 3992    	| 0.53%	| Monster Musume no Iru Nichijou
+7.55 	| 774297  	| 2711    	| 0.35%	| Sakamoto desu ga?
+8.26 	| 781008  	| 22006    	| 2.82%	| Shinsekai yori
+7.88 	| 808788  	| 21304    	| 2.63%	| Higurashi no Naku Koro ni
+8.22 	| 823324  	| 18054    	| 2.19%	| Ookami to Koushinryou
+7.63 	| 831818  	| 7011    	| 0.84%	| Orange
+8.69 	| 834340  	| 26606    	| 3.19%	| Great Teacher Onizuka
+8.66 	| 834986  	| 26969    	| 3.23%	| Mushishi
+8.21 	| 846185  	| 7677    	| 0.91%	| Magi: The Kingdom of Magic
+7.28 	| 862026  	| 3420    	| 0.40%	| Btooom!
+6.02 	| 868432  	| 7306    	| 0.84%	| Boruto: Naruto Next Generations
+7.88 	| 869063  	| 7061    	| 0.81%	| Kotonoha no Niwa
+8.47 	| 870265  	| 30346    	| 3.49%	| Banana Fish
+8.35 	| 876400  	| 14527    	| 1.66%	| Fumetsu no Anata e
+7.59 	| 880233  	| 7892    	| 0.90%	| Kekkai Sensen
+7.90 	| 891329  	| 20822    	| 2.34%	| Yuri!!! on Ice
+8.43 	| 896094  	| 12519    	| 1.40%	| Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
+7.96 	| 927288  	| 12478    	| 1.35%	| Youjo Senki
+7.55 	| 932425  	| 6485    	| 0.70%	| Kami no Tou
+7.20 	| 945630  	| 8342    	| 0.88%	| Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
+7.56 	| 948245  	| 11033    	| 1.16%	| Byousoku 5 Centimeter
+7.91 	| 949587  	| 12043    	| 1.27%	| Plastic Memories
+7.96 	| 1043934  	| 10086    	| 0.97%	| ReLIFE
+7.74 	| 1046909  	| 13440    	| 1.28%	| Golden Time
+8.01 	| 1049214  	| 9268    	| 0.88%	| Magi: The Labyrinth of Magic
+7.86 	| 1057237  	| 24158    	| 2.29%	| K-On!
+8.25 	| 1071426  	| 8579    	| 0.80%	| Tonari no Totoro
+8.41 	| 1111419  	| 29858    	| 2.69%	| Saiki Kusuo no Ψ-nan
+8.33 	| 1114057  	| 11643    	| 1.05%	| Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
+8.44 	| 1121737  	| 20754    	| 1.85%	| JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season
+8.88 	| 1131432  	| 53239    	| 4.71%	| Monster
+7.66 	| 1190177  	| 22751    	| 1.91%	| Kuroshitsuji
+8.93 	| 1199097  	| 70323    	| 5.86%	| Clannad: After Story
+7.41 	| 1218062  	| 17031    	| 1.40%	| Guilty Crown
+8.10 	| 1226491  	| 22301    	| 1.82%	| JoJo no Kimyou na Bouken Part 3: Stardust Crusaders
+7.49 	| 1343177  	| 13871    	| 1.03%	| Owari no Seraph
+7.71 	| 1348290  	| 9532    	| 0.71%	| Enen no Shouboutai
+8.63 	| 1350920  	| 18803    	| 1.39%	| Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen
+7.70 	| 1361979  	| 17988    	| 1.32%	| Chuunibyou demo Koi ga Shitai!
+7.81 	| 1403771  	| 27496    	| 1.96%	| Bungou Stray Dogs
+8.10 	| 1412047  	| 30080    	| 2.13%	| Durarara!!
+7.99 	| 1419473  	| 27674    	| 1.95%	| Clannad
+7.33 	| 1434861  	| 22663    	| 1.58%	| High School DxD
+7.23 	| 1494640  	| 10999    	| 0.74%	| Kakegurui
+7.07 	| 1515286  	| 10271    	| 0.68%	| Highschool of the Dead
+7.95 	| 1599238  	| 25281    	| 1.58%	| Tate no Yuusha no Nariagari
+8.30 	| 1612677  	| 32578    	| 2.02%	| Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
+8.33 	| 1640406  	| 38967    	| 2.38%	| Psycho-Pass
+7.47 	| 1673940  	| 17674    	| 1.06%	| Another
+8.14 	| 1679269  	| 46762    	| 2.78%	| Black Clover
+7.52 	| 1703741  	| 6622    	| 0.39%	| One Punch Man 2nd Season
+7.94 	| 1978418  	| 74034    	| 3.74%	| Bleach
+8.08 	| 2029053  	| 29891    	| 1.47%	| Ansatsu Kyoushitsu
+8.05 	| 2081563  	| 48613    	| 2.34%	| Angel Beats!
+8.64 	| 2225392  	| 86217    	| 3.87%	| Shigatsu wa Kimi no Uso
 ---------------------------------------------------------------------
 score	| members	| favorites	| ratio	| sorted by MEMBERS
 --------------------------------------------------------------------------------------------------------------
 
 
-6.76 	| 6106  	| 22    	| 0.36%	| Home!
-7.41 	| 13849  	| 34    	| 0.25%	| Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!
-6.55 	| 12436  	| 37    	| 0.30%	| Onimusha
-0.00 	| 17004  	| 41    	| 0.24%	| Akira (Shin Anime)
-7.31 	| 8371  	| 50    	| 0.60%	| Hifuu Katsudou Kiroku: The Sealed Esoteric History
-7.37 	| 24254  	| 53    	| 0.22%	| Dead Dead Demons Dededede Destruction
-7.54 	| 16140  	| 67    	| 0.42%	| Kizumonogatari: Koyomi Vamp
-0.00 	| 34275  	| 70    	| 0.20%	| Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen)
-0.00 	| 45839  	| 88    	| 0.19%	| Beastars Final Season
-7.63 	| 6768  	| 122    	| 1.80%	| Gensou Mangekyou: The Memories of Phantasm
-7.04 	| 32171  	| 126    	| 0.39%	| Kemurikusa (TV)
-6.69 	| 81637  	| 146    	| 0.18%	| Black Fox
-7.46 	| 48843  	| 153    	| 0.31%	| Shuumatsu Train Doko e Iku?
-7.63 	| 85014  	| 160    	| 0.19%	| Break Blade Movie 1: Kakusei no Toki
-5.90 	| 98963  	| 168    	| 0.17%	| Val x Love
-0.00 	| 30657  	| 188    	| 0.61%	| Monogatari Series: Off & Monster Season
-5.39 	| 98549  	| 208    	| 0.21%	| Shironeko Project: Zero Chronicle
-7.24 	| 96017  	| 221    	| 0.23%	| Break Blade
-0.00 	| 30985  	| 221    	| 0.71%	| Naruto (Shinsaku Anime)
-7.25 	| 40715  	| 221    	| 0.54%	| Touhou Niji Sousaku Doujin Anime: Musou Kakyou
-6.40 	| 136029  	| 226    	| 0.17%	| Katsute Kami Datta Kemono-tachi e
-0.00 	| 64232  	| 241    	| 0.38%	| Chainsaw Man Movie: Reze-hen
-7.18 	| 124318  	| 245    	| 0.20%	| Shikabane Hime: Aka
-0.00 	| 55582  	| 258    	| 0.46%	| Isekai Suicide Squad
-6.87 	| 112795  	| 262    	| 0.23%	| Blood: The Last Vampire
-7.91 	| 144091  	| 284    	| 0.20%	| Trigun: Badlands Rumble
-8.27 	| 82256  	| 306    	| 0.37%	| Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai
-0.00 	| 63849  	| 326    	| 0.51%	| Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten
-0.00 	| 51902  	| 345    	| 0.66%	| Dandadan
-6.75 	| 179146  	| 356    	| 0.20%	| Shuumatsu no Izetta
-7.25 	| 78946  	| 366    	| 0.46%	| Gun x Sword
-0.00 	| 55980  	| 379    	| 0.68%	| Bocchi the Rock! Movie
-7.97 	| 85062  	| 381    	| 0.45%	| Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen
-7.62 	| 79104  	| 414    	| 0.52%	| Kimitachi wa Dou Ikiru ka
-0.00 	| 118381  	| 522    	| 0.44%	| Uzumaki
-7.51 	| 70392  	| 542    	| 0.77%	| Fushigi no Umi no Nadia
-6.69 	| 112584  	| 554    	| 0.49%	| Kodomo no Jikan (TV)
-7.82 	| 176894  	| 576    	| 0.33%	| Mushoku Tensei: Isekai Ittara Honki Dasu - Eris no Goblin Toubatsu
-7.14 	| 98407  	| 597    	| 0.61%	| Saishuu Heiki Kanojo
-6.35 	| 107699  	| 636    	| 0.59%	| RWBY: Hyousetsu Teikoku
-7.62 	| 108168  	| 656    	| 0.61%	| Aggressive Retsuko
-7.66 	| 162442  	| 668    	| 0.41%	| Hanma Baki: Son of Ogre
-6.96 	| 250301  	| 687    	| 0.27%	| Sirius
-7.71 	| 101355  	| 696    	| 0.69%	| Ai no Utagoe wo Kikasete
-6.94 	| 162197  	| 733    	| 0.45%	| Mahou Shoujo Ikusei Keikaku
-7.60 	| 116447  	| 733    	| 0.63%	| Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
-5.84 	| 83663  	| 751    	| 0.90%	| Euphoria
-7.46 	| 147390  	| 852    	| 0.58%	| Grappler Baki (TV)
-6.11 	| 106238  	| 855    	| 0.80%	| Yarichin☆Bitch-bu
-6.80 	| 162078  	| 870    	| 0.54%	| Magia Record: Mahou Shoujo Madoka☆Magica Gaiden
-8.12 	| 162201  	| 870    	| 0.54%	| Ookami to Koushinryou: Merchant Meets the Wise Wolf
-7.60 	| 79180  	| 871    	| 1.10%	| Top wo Nerae 2! Diebuster
-7.36 	| 125106  	| 919    	| 0.73%	| Shigurui
-7.38 	| 48715  	| 922    	| 1.89%	| Blue Archive the Animation
-8.22 	| 201371  	| 947    	| 0.47%	| Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari
-7.52 	| 82601  	| 1086    	| 1.31%	| Kemono Friends
-7.60 	| 192436  	| 1190    	| 0.62%	| Bokura no
-6.53 	| 373065  	| 1193    	| 0.32%	| Blood-C
-7.61 	| 143136  	| 1198    	| 0.84%	| Juubee Ninpuuchou
-7.48 	| 220206  	| 1253    	| 0.57%	| Hitoribocchi no Marumaru Seikatsu
-7.29 	| 186022  	| 1341    	| 0.72%	| Trinity Blood
-7.80 	| 313164  	| 1351    	| 0.43%	| Little Witch Academia
-7.61 	| 227325  	| 1371    	| 0.60%	| Kimi to, Nami ni Noretara
-7.12 	| 300236  	| 1371    	| 0.46%	| SSSS.Gridman
-7.24 	| 145248  	| 1387    	| 0.95%	| Overflow
-7.13 	| 189382  	| 1394    	| 0.74%	| Suki na Ko ga Megane wo Wasureta
-7.29 	| 224487  	| 1406    	| 0.63%	| Poputepipikku
-7.68 	| 134696  	| 1471    	| 1.09%	| Mahou Shoujo ni Akogarete
-7.24 	| 212309  	| 1492    	| 0.70%	| Bubble
-7.23 	| 489067  	| 1492    	| 0.31%	| Maoyuu Maou Yuusha
-7.86 	| 156498  	| 1565    	| 1.00%	| Kidou Senshi Gundam: Suisei no Majo
-7.32 	| 341253  	| 1598    	| 0.47%	| Araburu Kisetsu no Otome-domo yo.
-7.67 	| 222137  	| 1625    	| 0.73%	| Aoi Bungaku Series
-7.49 	| 319929  	| 1793    	| 0.56%	| Kono Subarashii Sekai ni Bakuen wo!
-8.18 	| 55543  	| 1889    	| 3.40%	| Holo no Graffiti
-7.81 	| 333749  	| 1932    	| 0.58%	| Kokoro ga Sakebitagatterunda.
-7.19 	| 548104  	| 1948    	| 0.36%	| God Eater
-7.70 	| 192854  	| 1990    	| 1.03%	| Kyousou Giga (TV)
-8.36 	| 296547  	| 2008    	| 0.68%	| Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2
-8.49 	| 161825  	| 2038    	| 1.26%	| Pluto
-7.25 	| 691018  	| 2074    	| 0.30%	| Blood Lad
-6.49 	| 634095  	| 2076    	| 0.33%	| Dragon Ball GT
-7.51 	| 279035  	| 2103    	| 0.75%	| NieR:Automata Ver1.1a
-7.67 	| 149627  	| 2129    	| 1.42%	| Oniichan wa Oshimai!
-7.63 	| 191685  	| 2142    	| 1.12%	| Flip Flappers
-7.84 	| 185675  	| 2153    	| 1.16%	| Trigun Stampede
-7.52 	| 336016  	| 2225    	| 0.66%	| Irozuku Sekai no Ashita kara
-7.79 	| 214829  	| 2242    	| 1.04%	| Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo
-6.80 	| 354736  	| 2243    	| 0.63%	| Black★Rock Shooter (TV)
-7.57 	| 428930  	| 2468    	| 0.58%	| Kara no Kyoukai Movie 1: Fukan Fuukei
-7.19 	| 480598  	| 2589    	| 0.54%	| Fate/Apocrypha
-7.35 	| 369807  	| 2648    	| 0.72%	| BNA
-7.31 	| 427699  	| 2660    	| 0.62%	| Baki
-8.24 	| 189121  	| 2668    	| 1.41%	| Sennen Joyuu
-7.55 	| 773965  	| 2709    	| 0.35%	| Sakamoto desu ga?
-6.34 	| 723889  	| 2746    	| 0.38%	| Eromanga-sensei
-7.85 	| 130389  	| 2782    	| 2.13%	| Top wo Nerae! Gunbuster
-8.16 	| 349877  	| 2916    	| 0.83%	| Kimetsu no Yaiba: Hashira Geiko-hen
-7.21 	| 341817  	| 3175    	| 0.93%	| Goblin Slayer II
-7.39 	| 591271  	| 3199    	| 0.54%	| Ajin
-8.25 	| 262673  	| 3205    	| 1.22%	| Dungeon Meshi
-8.07 	| 307913  	| 3215    	| 1.04%	| Kanata no Astra
-7.23 	| 320776  	| 3239    	| 1.01%	| Nazo no Kanojo X
-7.28 	| 861750  	| 3420    	| 0.40%	| Btooom!
-0.00 	| 220571  	| 3772    	| 1.71%	| One Punch Man 3
-6.44 	| 519792  	| 3902    	| 0.75%	| Citrus
-7.81 	| 530875  	| 3926    	| 0.74%	| Zom 100: Zombie ni Naru made ni Shitai 100 no Koto
-6.95 	| 753904  	| 3989    	| 0.53%	| Monster Musume no Iru Nichijou
-8.48 	| 130304  	| 4150    	| 3.18%	| Aria the Origination
-7.94 	| 586189  	| 4293    	| 0.73%	| Gake no Ue no Ponyo
-8.48 	| 361488  	| 4354    	| 1.20%	| Kono Subarashii Sekai ni Shukufuku wo! 3
-8.30 	| 360798  	| 4581    	| 1.27%	| Suzume no Tojimari
-7.98 	| 323594  	| 4588    	| 1.42%	| xxxHOLiC
-8.52 	| 239930  	| 4592    	| 1.91%	| Kara no Kyoukai Movie 5: Mujun Rasen
-7.85 	| 347082  	| 4685    	| 1.35%	| Sayonara Zetsubou Sensei
-7.15 	| 514361  	| 4694    	| 0.91%	| Takt Op. Destiny
-7.89 	| 329458  	| 5241    	| 1.59%	| School Rumble
-7.69 	| 594155  	| 5258    	| 0.88%	| Karakai Jouzu no Takagi-san
-7.61 	| 454712  	| 5510    	| 1.21%	| Gakkougurashi!
-8.22 	| 480384  	| 5645    	| 1.18%	| Tengoku Daimakyou
-6.99 	| 657127  	| 5711    	| 0.87%	| Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
-7.66 	| 611614  	| 5909    	| 0.97%	| Toaru Kagaku no Railgun
-7.73 	| 397630  	| 6015    	| 1.51%	| Panty & Stocking with Garterbelt
-8.04 	| 403408  	| 6051    	| 1.50%	| Golden Boy
-7.80 	| 468510  	| 6106    	| 1.30%	| Blue Period
-8.28 	| 271428  	| 6222    	| 2.29%	| Doukyuusei (Movie)
-8.27 	| 446873  	| 6227    	| 1.39%	| Shirobako
-7.55 	| 931501  	| 6483    	| 0.70%	| Kami no Tou
-7.90 	| 599668  	| 6578    	| 1.10%	| Zetsuen no Tempest
-7.52 	| 1702588  	| 6616    	| 0.39%	| One Punch Man 2nd Season
-8.19 	| 483243  	| 6771    	| 1.40%	| Asobi Asobase
-7.62 	| 831415  	| 7009    	| 0.84%	| Orange
-7.88 	| 868568  	| 7061    	| 0.81%	| Kotonoha no Niwa
-6.02 	| 868071  	| 7304    	| 0.84%	| Boruto: Naruto Next Generations
-8.17 	| 481836  	| 7402    	| 1.54%	| Higurashi no Naku Koro ni Kai
-8.03 	| 366797  	| 7572    	| 2.06%	| Azumanga Daiou The Animation
-8.10 	| 686227  	| 7576    	| 1.10%	| Jigokuraku
-7.81 	| 648967  	| 7665    	| 1.18%	| Little Witch Academia (TV)
-8.21 	| 845850  	| 7679    	| 0.91%	| Magi: The Kingdom of Magic
-7.97 	| 290357  	| 7810    	| 2.69%	| Haibane Renmei
-7.59 	| 879883  	| 7891    	| 0.90%	| Kekkai Sensen
-7.40 	| 449711  	| 8030    	| 1.79%	| Love Live! School Idol Project
-8.66 	| 354322  	| 8081    	| 2.28%	| Fate/stay night Movie: Heaven's Feel - III. Spring Song
-8.66 	| 436589  	| 8302    	| 1.90%	| Odd Taxi
-7.20 	| 945236  	| 8343    	| 0.88%	| Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
-8.42 	| 330243  	| 8368    	| 2.53%	| Mononoke
-7.73 	| 675793  	| 8517    	| 1.26%	| Claymore
-8.21 	| 222301  	| 8534    	| 3.84%	| Shoujo Kakumei Utena
-8.25 	| 1070814  	| 8574    	| 0.80%	| Tonari no Totoro
-8.42 	| 398864  	| 8602    	| 2.16%	| Koukaku Kidoutai: Stand Alone Complex
-8.05 	| 553100  	| 8976    	| 1.62%	| Dorohedoro
-8.05 	| 437444  	| 9110    	| 2.08%	| Koukyoushihen Eureka Seven
-8.01 	| 1048756  	| 9263    	| 0.88%	| Magi: The Labyrinth of Magic
-7.71 	| 1347325  	| 9531    	| 0.71%	| Enen no Shouboutai
-7.96 	| 1043400  	| 10085    	| 0.97%	| ReLIFE
-7.07 	| 1514631  	| 10267    	| 0.68%	| Highschool of the Dead
-8.40 	| 540898  	| 10746    	| 1.99%	| Vivy: Fluorite Eye's Song
-8.30 	| 564150  	| 10794    	| 1.91%	| Katanagatari
-7.23 	| 1493847  	| 10991    	| 0.74%	| Kakegurui
-7.56 	| 947884  	| 11029    	| 1.16%	| Byousoku 5 Centimeter
-8.91 	| 412428  	| 11043    	| 2.68%	| Kusuriya no Hitorigoto
-8.33 	| 1113358  	| 11634    	| 1.04%	| Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
-7.83 	| 597007  	| 11892    	| 1.99%	| Jibaku Shounen Hanako-kun
-7.91 	| 949179  	| 12038    	| 1.27%	| Plastic Memories
-7.74 	| 653303  	| 12330    	| 1.89%	| Lucky☆Star
-7.96 	| 926647  	| 12475    	| 1.35%	| Youjo Senki
-8.43 	| 895258  	| 12503    	| 1.40%	| Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
-8.51 	| 649643  	| 12718    	| 1.96%	| Ousama Ranking
-8.32 	| 667329  	| 12846    	| 1.92%	| Ore dake Level Up na Ken
-7.74 	| 1046279  	| 13434    	| 1.28%	| Golden Time
-8.17 	| 440422  	| 13554    	| 3.08%	| Cardcaptor Sakura
-7.90 	| 653601  	| 13708    	| 2.10%	| Ergo Proxy
-8.01 	| 694722  	| 13822    	| 1.99%	| D.Gray-man
-7.49 	| 1342441  	| 13869    	| 1.03%	| Owari no Seraph
-8.35 	| 875763  	| 14516    	| 1.66%	| Fumetsu no Anata e
-8.29 	| 651401  	| 15023    	| 2.31%	| Kage no Jitsuryokusha ni Naritakute!
-8.92 	| 404216  	| 15077    	| 3.73%	| 3-gatsu no Lion 2nd Season
-8.38 	| 681812  	| 15675    	| 2.30%	| 3-gatsu no Lion
-8.31 	| 542930  	| 15829    	| 2.92%	| Natsume Yuujinchou
-9.06 	| 634084  	| 16692    	| 2.63%	| Gintama°
-7.41 	| 1217658  	| 17021    	| 1.40%	| Guilty Crown
-7.47 	| 1673161  	| 17671    	| 1.06%	| Another
-7.70 	| 1361358  	| 17982    	| 1.32%	| Chuunibyou demo Koi ga Shitai!
-8.22 	| 822985  	| 18050    	| 2.19%	| Ookami to Koushinryou
-8.63 	| 1350022  	| 18794    	| 1.39%	| Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen
-7.90 	| 890922  	| 20814    	| 2.34%	| Yuri!!! on Ice
-8.25 	| 1232587  	| 20953    	| 1.70%	| Dororo
-7.88 	| 808464  	| 21300    	| 2.63%	| Higurashi no Naku Koro ni
-8.26 	| 780729  	| 22002    	| 2.82%	| Shinsekai yori
-7.33 	| 1434212  	| 22651    	| 1.58%	| High School DxD
-7.66 	| 1189463  	| 22733    	| 1.91%	| Kuroshitsuji
-7.86 	| 1056740  	| 24143    	| 2.28%	| K-On!
-7.95 	| 1598373  	| 25285    	| 1.58%	| Tate no Yuusha no Nariagari
-8.69 	| 833808  	| 26591    	| 3.19%	| Great Teacher Onizuka
-8.66 	| 834553  	| 26963    	| 3.23%	| Mushishi
-7.81 	| 1402841  	| 27483    	| 1.96%	| Bungou Stray Dogs
-7.99 	| 1418990  	| 27668    	| 1.95%	| Clannad
-8.41 	| 1110601  	| 29849    	| 2.69%	| Saiki Kusuo no Ψ-nan
-8.08 	| 2027914  	| 29878    	| 1.47%	| Ansatsu Kyoushitsu
-8.10 	| 1411563  	| 30085    	| 2.13%	| Durarara!!
-8.47 	| 869656  	| 30329    	| 3.49%	| Banana Fish
-8.55 	| 675339  	| 30366    	| 4.50%	| Nana
-8.30 	| 1612064  	| 32580    	| 2.02%	| Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
-8.33 	| 1639685  	| 38952    	| 2.38%	| Psycho-Pass
-8.14 	| 1677928  	| 46741    	| 2.79%	| Black Clover
-8.05 	| 2080796  	| 48588    	| 2.34%	| Angel Beats!
-8.88 	| 1130170  	| 53183    	| 4.71%	| Monster
-8.93 	| 1198546  	| 70310    	| 5.87%	| Clannad: After Story
-7.94 	| 1977198  	| 73978    	| 3.74%	| Bleach
-8.64 	| 2224366  	| 86188    	| 3.87%	| Shigatsu wa Kimi no Uso
+6.56 	| 10535  	| 34    	| 0.32%	| Aachi wa Ssipak
+7.41 	| 13852  	| 34    	| 0.25%	| Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!
+7.62 	| 15017  	| 37    	| 0.25%	| Dead Dead Demons Dededede Destruction (ONA)
+6.55 	| 12472  	| 37    	| 0.30%	| Onimusha
+0.00 	| 17051  	| 41    	| 0.24%	| Akira (Shin Anime)
+7.23 	| 10878  	| 44    	| 0.40%	| Touhou Niji Sousaku Doujin Anime: Musou Kakyou Special
+7.31 	| 8376  	| 50    	| 0.60%	| Hifuu Katsudou Kiroku: The Sealed Esoteric History
+7.36 	| 24398  	| 54    	| 0.22%	| Dead Dead Demons Dededede Destruction
+7.54 	| 16165  	| 66    	| 0.41%	| Kizumonogatari: Koyomi Vamp
+0.00 	| 34439  	| 70    	| 0.20%	| Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen)
+0.00 	| 25901  	| 85    	| 0.33%	| Dungeon Meshi 2nd Season
+0.00 	| 45971  	| 89    	| 0.19%	| Beastars Final Season
+0.00 	| 21669  	| 124    	| 0.57%	| Mononoke Movie: Karakasa
+7.04 	| 32188  	| 126    	| 0.39%	| Kemurikusa (TV)
+6.69 	| 81660  	| 146    	| 0.18%	| Black Fox
+7.46 	| 49652  	| 152    	| 0.31%	| Shuumatsu Train Doko e Iku?
+7.63 	| 85032  	| 160    	| 0.19%	| Break Blade Movie 1: Kakusei no Toki
+0.00 	| 33210  	| 166    	| 0.50%	| Shikanoko Nokonoko Koshitantan
+0.00 	| 31168  	| 193    	| 0.62%	| Monogatari Series: Off & Monster Season
+5.39 	| 98618  	| 208    	| 0.21%	| Shironeko Project: Zero Chronicle
+6.86 	| 33458  	| 209    	| 0.62%	| Hells
+7.24 	| 96035  	| 221    	| 0.23%	| Break Blade
+0.00 	| 31098  	| 221    	| 0.71%	| Naruto (Shinsaku Anime)
+7.25 	| 40734  	| 221    	| 0.54%	| Touhou Niji Sousaku Doujin Anime: Musou Kakyou
+6.40 	| 136080  	| 226    	| 0.17%	| Katsute Kami Datta Kemono-tachi e
+0.00 	| 64822  	| 245    	| 0.38%	| Chainsaw Man Movie: Reze-hen
+7.18 	| 124351  	| 245    	| 0.20%	| Shikabane Hime: Aka
+7.31 	| 65797  	| 251    	| 0.38%	| Ame wo Tsugeru Hyouryuu Danchi
+6.87 	| 112838  	| 262    	| 0.23%	| Blood: The Last Vampire
+0.00 	| 58027  	| 263    	| 0.45%	| Isekai Suicide Squad
+7.91 	| 144149  	| 285    	| 0.20%	| Trigun: Badlands Rumble
+7.38 	| 77619  	| 287    	| 0.37%	| Ayakashi: Japanese Classic Horror
+8.27 	| 82603  	| 307    	| 0.37%	| Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai
+7.25 	| 11376  	| 311    	| 2.73%	| Popee the Performer
+0.00 	| 63937  	| 326    	| 0.51%	| Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten
+0.00 	| 52753  	| 348    	| 0.66%	| Dandadan
+6.75 	| 179191  	| 356    	| 0.20%	| Shuumatsu no Izetta
+7.25 	| 78966  	| 366    	| 0.46%	| Gun x Sword
+7.97 	| 85077  	| 381    	| 0.45%	| Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen
+6.94 	| 56056  	| 382    	| 0.68%	| Bocchi the Rock! Movie
+7.62 	| 79407  	| 419    	| 0.53%	| Kimitachi wa Dou Ikiru ka
+0.00 	| 118716  	| 529    	| 0.45%	| Uzumaki
+7.51 	| 70461  	| 542    	| 0.77%	| Fushigi no Umi no Nadia
+6.69 	| 112616  	| 555    	| 0.49%	| Kodomo no Jikan (TV)
+7.82 	| 177225  	| 577    	| 0.33%	| Mushoku Tensei: Isekai Ittara Honki Dasu - Eris no Goblin Toubatsu
+7.14 	| 98452  	| 597    	| 0.61%	| Saishuu Heiki Kanojo
+6.35 	| 107787  	| 636    	| 0.59%	| RWBY: Hyousetsu Teikoku
+7.20 	| 95041  	| 651    	| 0.68%	| Dead Leaves
+7.62 	| 108214  	| 656    	| 0.61%	| Aggressive Retsuko
+7.66 	| 162792  	| 669    	| 0.41%	| Hanma Baki: Son of Ogre
+6.96 	| 250403  	| 687    	| 0.27%	| Sirius
+7.71 	| 101482  	| 695    	| 0.68%	| Ai no Utagoe wo Kikasete
+6.94 	| 162262  	| 733    	| 0.45%	| Mahou Shoujo Ikusei Keikaku
+7.60 	| 116601  	| 734    	| 0.63%	| Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
+7.17 	| 51226  	| 738    	| 1.44%	| Kanashimi no Belladonna
+5.83 	| 83704  	| 752    	| 0.90%	| Euphoria
+7.07 	| 230372  	| 842    	| 0.37%	| Boogiepop wa Warawanai (2019)
+7.46 	| 147553  	| 854    	| 0.58%	| Grappler Baki (TV)
+6.11 	| 106298  	| 855    	| 0.80%	| Yarichin☆Bitch-bu
+7.60 	| 79221  	| 870    	| 1.10%	| Top wo Nerae 2! Diebuster
+6.80 	| 162155  	| 871    	| 0.54%	| Magia Record: Mahou Shoujo Madoka☆Magica Gaiden
+8.11 	| 163890  	| 882    	| 0.54%	| Ookami to Koushinryou: Merchant Meets the Wise Wolf
+7.36 	| 125164  	| 920    	| 0.74%	| Shigurui
+7.36 	| 49275  	| 929    	| 1.89%	| Blue Archive the Animation
+8.22 	| 201465  	| 947    	| 0.47%	| Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari
+7.32 	| 80860  	| 992    	| 1.23%	| Nekojiru-sou
+7.52 	| 82614  	| 1087    	| 1.32%	| Kemono Friends
+7.78 	| 87196  	| 1131    	| 1.30%	| Mind Game
+7.15 	| 137663  	| 1141    	| 0.83%	| Boogiepop wa Warawanai
+7.60 	| 192480  	| 1190    	| 0.62%	| Bokura no
+6.53 	| 373310  	| 1196    	| 0.32%	| Blood-C
+7.61 	| 143226  	| 1199    	| 0.84%	| Juubee Ninpuuchou
+7.48 	| 220291  	| 1255    	| 0.57%	| Hitoribocchi no Marumaru Seikatsu
+7.91 	| 95025  	| 1288    	| 1.36%	| Kuuchuu Buranko
+7.29 	| 186085  	| 1341    	| 0.72%	| Trinity Blood
+7.80 	| 313272  	| 1351    	| 0.43%	| Little Witch Academia
+7.61 	| 227530  	| 1373    	| 0.60%	| Kimi to, Nami ni Noretara
+7.12 	| 300370  	| 1376    	| 0.46%	| SSSS.Gridman
+7.24 	| 145348  	| 1392    	| 0.96%	| Overflow
+7.13 	| 189653  	| 1398    	| 0.74%	| Suki na Ko ga Megane wo Wasureta
+7.29 	| 224558  	| 1408    	| 0.63%	| Poputepipikku
+7.68 	| 135469  	| 1476    	| 1.09%	| Mahou Shoujo ni Akogarete
+7.53 	| 163777  	| 1489    	| 0.91%	| So Ra No Wo To
+7.24 	| 212556  	| 1494    	| 0.70%	| Bubble
+7.23 	| 489284  	| 1494    	| 0.31%	| Maoyuu Maou Yuusha
+7.32 	| 341404  	| 1598    	| 0.47%	| Araburu Kisetsu no Otome-domo yo.
+7.67 	| 222215  	| 1624    	| 0.73%	| Aoi Bungaku Series
+8.18 	| 127799  	| 1719    	| 1.35%	| Yoru wa Mijikashi Arukeyo Otome
+7.49 	| 320544  	| 1795    	| 0.56%	| Kono Subarashii Sekai ni Bakuen wo!
+7.51 	| 166989  	| 1813    	| 1.09%	| Casshern Sins
+8.18 	| 55554  	| 1889    	| 3.40%	| Holo no Graffiti
+7.81 	| 333887  	| 1933    	| 0.58%	| Kokoro ga Sakebitagatterunda.
+7.19 	| 548285  	| 1948    	| 0.36%	| God Eater
+7.70 	| 192952  	| 1989    	| 1.03%	| Kyousou Giga (TV)
+8.49 	| 162615  	| 2048    	| 1.26%	| Pluto
+7.24 	| 691249  	| 2073    	| 0.30%	| Blood Lad
+6.49 	| 634360  	| 2078    	| 0.33%	| Dragon Ball GT
+7.51 	| 279422  	| 2105    	| 0.75%	| NieR:Automata Ver1.1a
+8.40 	| 300650  	| 2115    	| 0.70%	| Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2
+7.67 	| 149956  	| 2133    	| 1.42%	| Oniichan wa Oshimai!
+7.63 	| 191738  	| 2144    	| 1.12%	| Flip Flappers
+7.84 	| 186033  	| 2161    	| 1.16%	| Trigun Stampede
+7.52 	| 336153  	| 2226    	| 0.66%	| Irozuku Sekai no Ashita kara
+7.79 	| 215573  	| 2242    	| 1.04%	| Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo
+6.80 	| 354829  	| 2244    	| 0.63%	| Black★Rock Shooter (TV)
+7.57 	| 429075  	| 2470    	| 0.58%	| Kara no Kyoukai Movie 1: Fukan Fuukei
+7.19 	| 480783  	| 2589    	| 0.54%	| Fate/Apocrypha
+7.35 	| 370049  	| 2648    	| 0.72%	| BNA
+8.21 	| 234499  	| 2660    	| 1.13%	| Kaguya-hime no Monogatari
+7.31 	| 428102  	| 2662    	| 0.62%	| Baki
+8.24 	| 189260  	| 2668    	| 1.41%	| Sennen Joyuu
+8.28 	| 296278  	| 2673    	| 0.90%	| Tokyo Godfathers
+7.55 	| 774297  	| 2711    	| 0.35%	| Sakamoto desu ga?
+6.34 	| 724198  	| 2748    	| 0.38%	| Eromanga-sensei
+7.85 	| 130481  	| 2783    	| 2.13%	| Top wo Nerae! Gunbuster
+8.12 	| 356048  	| 2979    	| 0.84%	| Kimetsu no Yaiba: Hashira Geiko-hen
+7.21 	| 342421  	| 3177    	| 0.93%	| Goblin Slayer II
+7.39 	| 591499  	| 3203    	| 0.54%	| Ajin
+8.07 	| 308109  	| 3217    	| 1.04%	| Kanata no Astra
+7.23 	| 321018  	| 3239    	| 1.01%	| Nazo no Kanojo X
+7.28 	| 862026  	| 3420    	| 0.40%	| Btooom!
+7.71 	| 155323  	| 3520    	| 2.27%	| Tenshi no Tamago
+8.14 	| 153600  	| 3737    	| 2.43%	| Kaiba
+0.00 	| 222292  	| 3849    	| 1.73%	| One Punch Man 3
+6.44 	| 520012  	| 3902    	| 0.75%	| Citrus
+8.25 	| 255591  	| 3923    	| 1.53%	| Planetes
+7.81 	| 532120  	| 3935    	| 0.74%	| Zom 100: Zombie ni Naru made ni Shitai 100 no Koto
+6.95 	| 754195  	| 3992    	| 0.53%	| Monster Musume no Iru Nichijou
+8.48 	| 130379  	| 4158    	| 3.19%	| Aria the Origination
+7.94 	| 586654  	| 4300    	| 0.73%	| Gake no Ue no Ponyo
+8.48 	| 364584  	| 4415    	| 1.21%	| Kono Subarashii Sekai ni Shukufuku wo! 3
+7.98 	| 323728  	| 4590    	| 1.42%	| xxxHOLiC
+8.30 	| 362048  	| 4591    	| 1.27%	| Suzume no Tojimari
+8.52 	| 240008  	| 4593    	| 1.91%	| Kara no Kyoukai Movie 5: Mujun Rasen
+7.85 	| 347173  	| 4680    	| 1.35%	| Sayonara Zetsubou Sensei
+7.15 	| 514681  	| 4697    	| 0.91%	| Takt Op. Destiny
+7.76 	| 254875  	| 5083    	| 1.99%	| Texhnolyze
+7.89 	| 329533  	| 5244    	| 1.59%	| School Rumble
+7.69 	| 594416  	| 5262    	| 0.89%	| Karakai Jouzu no Takagi-san
+7.61 	| 454900  	| 5514    	| 1.21%	| Gakkougurashi!
+8.22 	| 481457  	| 5672    	| 1.18%	| Tengoku Daimakyou
+6.99 	| 657430  	| 5713    	| 0.87%	| Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
+7.66 	| 611819  	| 5905    	| 0.97%	| Toaru Kagaku no Railgun
+8.04 	| 403681  	| 6057    	| 1.50%	| Golden Boy
+7.80 	| 468984  	| 6110    	| 1.30%	| Blue Period
+8.39 	| 431632  	| 6194    	| 1.44%	| Josee to Tora to Sakana-tachi
+8.28 	| 271588  	| 6224    	| 2.29%	| Doukyuusei (Movie)
+8.27 	| 447002  	| 6230    	| 1.39%	| Shirobako
+7.55 	| 932425  	| 6485    	| 0.70%	| Kami no Tou
+7.90 	| 599884  	| 6580    	| 1.10%	| Zetsuen no Tempest
+7.52 	| 1703741  	| 6622    	| 0.39%	| One Punch Man 2nd Season
+8.19 	| 483614  	| 6775    	| 1.40%	| Asobi Asobase
+7.80 	| 315015  	| 6896    	| 2.19%	| Sonny Boy
+8.30 	| 387932  	| 7002    	| 1.80%	| Sakamichi no Apollon
+8.28 	| 319919  	| 7003    	| 2.19%	| Kino no Tabi: The Beautiful World
+7.63 	| 831818  	| 7011    	| 0.84%	| Orange
+7.88 	| 869063  	| 7061    	| 0.81%	| Kotonoha no Niwa
+8.21 	| 347942  	| 7193    	| 2.07%	| Shoujo Shuumatsu Ryokou
+7.93 	| 301939  	| 7262    	| 2.41%	| Mawaru Penguindrum
+6.02 	| 868432  	| 7306    	| 0.84%	| Boruto: Naruto Next Generations
+8.17 	| 481995  	| 7406    	| 1.54%	| Higurashi no Naku Koro ni Kai
+8.03 	| 367177  	| 7583    	| 2.07%	| Azumanga Daiou The Animation
+8.10 	| 688098  	| 7601    	| 1.10%	| Jigokuraku
+7.81 	| 649290  	| 7668    	| 1.18%	| Little Witch Academia (TV)
+8.21 	| 846185  	| 7677    	| 0.91%	| Magi: The Kingdom of Magic
+7.97 	| 290570  	| 7816    	| 2.69%	| Haibane Renmei
+7.59 	| 880233  	| 7892    	| 0.90%	| Kekkai Sensen
+7.40 	| 449848  	| 8032    	| 1.79%	| Love Live! School Idol Project
+8.66 	| 354574  	| 8083    	| 2.28%	| Fate/stay night Movie: Heaven's Feel - III. Spring Song
+7.20 	| 945630  	| 8342    	| 0.88%	| Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
+8.42 	| 330701  	| 8380    	| 2.53%	| Mononoke
+8.04 	| 554073  	| 8397    	| 1.52%	| Gosick
+8.47 	| 398012  	| 8436    	| 2.12%	| Rainbow: Nisha Rokubou no Shichinin
+7.73 	| 676055  	| 8523    	| 1.26%	| Claymore
+8.21 	| 222469  	| 8548    	| 3.84%	| Shoujo Kakumei Utena
+8.25 	| 1071426  	| 8579    	| 0.80%	| Tonari no Totoro
+8.42 	| 399008  	| 8603    	| 2.16%	| Koukaku Kidoutai: Stand Alone Complex
+8.05 	| 553559  	| 8986    	| 1.62%	| Dorohedoro
+8.05 	| 437564  	| 9111    	| 2.08%	| Koukyoushihen Eureka Seven
+8.01 	| 1049214  	| 9268    	| 0.88%	| Magi: The Labyrinth of Magic
+7.71 	| 1348290  	| 9532    	| 0.71%	| Enen no Shouboutai
+8.21 	| 669126  	| 10021    	| 1.50%	| Great Pretender
+7.96 	| 1043934  	| 10086    	| 0.97%	| ReLIFE
+7.07 	| 1515286  	| 10271    	| 0.68%	| Highschool of the Dead
+8.40 	| 541335  	| 10753    	| 1.99%	| Vivy: Fluorite Eye's Song
+8.30 	| 564339  	| 10793    	| 1.91%	| Katanagatari
+7.23 	| 1494640  	| 10999    	| 0.74%	| Kakegurui
+7.56 	| 948245  	| 11033    	| 1.16%	| Byousoku 5 Centimeter
+8.90 	| 414843  	| 11139    	| 2.69%	| Kusuriya no Hitorigoto
+8.33 	| 1114057  	| 11643    	| 1.05%	| Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
+7.83 	| 597398  	| 11892    	| 1.99%	| Jibaku Shounen Hanako-kun
+7.91 	| 949587  	| 12043    	| 1.27%	| Plastic Memories
+7.74 	| 653583  	| 12344    	| 1.89%	| Lucky☆Star
+7.96 	| 927288  	| 12478    	| 1.35%	| Youjo Senki
+8.43 	| 896094  	| 12519    	| 1.40%	| Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
+8.51 	| 650343  	| 12730    	| 1.96%	| Ousama Ranking
+8.32 	| 670810  	| 12908    	| 1.92%	| Ore dake Level Up na Ken
+7.74 	| 1046909  	| 13440    	| 1.28%	| Golden Time
+8.17 	| 440700  	| 13569    	| 3.08%	| Cardcaptor Sakura
+7.90 	| 653964  	| 13714    	| 2.10%	| Ergo Proxy
+8.01 	| 695000  	| 13826    	| 1.99%	| D.Gray-man
+7.49 	| 1343177  	| 13871    	| 1.03%	| Owari no Seraph
+8.35 	| 876400  	| 14527    	| 1.66%	| Fumetsu no Anata e
+8.29 	| 652585  	| 15034    	| 2.30%	| Kage no Jitsuryokusha ni Naritakute!
+8.92 	| 404411  	| 15089    	| 3.73%	| 3-gatsu no Lion 2nd Season
+8.38 	| 682085  	| 15686    	| 2.30%	| 3-gatsu no Lion
+8.31 	| 543179  	| 15831    	| 2.91%	| Natsume Yuujinchou
+9.06 	| 634438  	| 16698    	| 2.63%	| Gintama°
+7.41 	| 1218062  	| 17031    	| 1.40%	| Guilty Crown
+7.47 	| 1673940  	| 17674    	| 1.06%	| Another
+7.70 	| 1361979  	| 17988    	| 1.32%	| Chuunibyou demo Koi ga Shitai!
+8.22 	| 823324  	| 18054    	| 2.19%	| Ookami to Koushinryou
+8.63 	| 1350920  	| 18803    	| 1.39%	| Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen
+8.44 	| 1121737  	| 20754    	| 1.85%	| JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season
+7.90 	| 891329  	| 20822    	| 2.34%	| Yuri!!! on Ice
+7.88 	| 808788  	| 21304    	| 2.63%	| Higurashi no Naku Koro ni
+8.26 	| 781008  	| 22006    	| 2.82%	| Shinsekai yori
+8.10 	| 1226491  	| 22301    	| 1.82%	| JoJo no Kimyou na Bouken Part 3: Stardust Crusaders
+7.33 	| 1434861  	| 22663    	| 1.58%	| High School DxD
+7.66 	| 1190177  	| 22751    	| 1.91%	| Kuroshitsuji
+7.86 	| 1057237  	| 24158    	| 2.29%	| K-On!
+7.95 	| 1599238  	| 25281    	| 1.58%	| Tate no Yuusha no Nariagari
+8.69 	| 834340  	| 26606    	| 3.19%	| Great Teacher Onizuka
+8.66 	| 834986  	| 26969    	| 3.23%	| Mushishi
+7.81 	| 1403771  	| 27496    	| 1.96%	| Bungou Stray Dogs
+7.99 	| 1419473  	| 27674    	| 1.95%	| Clannad
+8.41 	| 1111419  	| 29858    	| 2.69%	| Saiki Kusuo no Ψ-nan
+8.08 	| 2029053  	| 29891    	| 1.47%	| Ansatsu Kyoushitsu
+8.10 	| 1412047  	| 30080    	| 2.13%	| Durarara!!
+8.47 	| 870265  	| 30346    	| 3.49%	| Banana Fish
+8.55 	| 676113  	| 30404    	| 4.50%	| Nana
+8.30 	| 1612677  	| 32578    	| 2.02%	| Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
+8.33 	| 1640406  	| 38967    	| 2.38%	| Psycho-Pass
+8.14 	| 1679269  	| 46762    	| 2.78%	| Black Clover
+8.05 	| 2081563  	| 48613    	| 2.34%	| Angel Beats!
+8.88 	| 1131432  	| 53239    	| 4.71%	| Monster
+8.93 	| 1199097  	| 70323    	| 5.86%	| Clannad: After Story
+7.94 	| 1978418  	| 74034    	| 3.74%	| Bleach
+8.64 	| 2225392  	| 86217    	| 3.87%	| Shigatsu wa Kimi no Uso
 ---------------------------------------------------------------------
 score	| members	| favorites	| ratio	| sorted by FAVORITES
 --------------------------------------------------------------------------------------------------------------
 
 
-6.40 	| 136029  	| 226    	| 0.17%	| Katsute Kami Datta Kemono-tachi e
-5.90 	| 98963  	| 168    	| 0.17%	| Val x Love
-6.69 	| 81637  	| 146    	| 0.18%	| Black Fox
-0.00 	| 45839  	| 88    	| 0.19%	| Beastars Final Season
-7.63 	| 85014  	| 160    	| 0.19%	| Break Blade Movie 1: Kakusei no Toki
-0.00 	| 34275  	| 70    	| 0.20%	| Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen)
-7.18 	| 124318  	| 245    	| 0.20%	| Shikabane Hime: Aka
-6.75 	| 179146  	| 356    	| 0.20%	| Shuumatsu no Izetta
-7.91 	| 144091  	| 284    	| 0.20%	| Trigun: Badlands Rumble
-5.39 	| 98549  	| 208    	| 0.21%	| Shironeko Project: Zero Chronicle
-7.37 	| 24254  	| 53    	| 0.22%	| Dead Dead Demons Dededede Destruction
-6.87 	| 112795  	| 262    	| 0.23%	| Blood: The Last Vampire
-7.24 	| 96017  	| 221    	| 0.23%	| Break Blade
-0.00 	| 17004  	| 41    	| 0.24%	| Akira (Shin Anime)
-7.41 	| 13849  	| 34    	| 0.25%	| Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!
-6.96 	| 250301  	| 687    	| 0.27%	| Sirius
-7.25 	| 691018  	| 2074    	| 0.30%	| Blood Lad
-6.55 	| 12436  	| 37    	| 0.30%	| Onimusha
-7.23 	| 489067  	| 1492    	| 0.31%	| Maoyuu Maou Yuusha
-7.46 	| 48843  	| 153    	| 0.31%	| Shuumatsu Train Doko e Iku?
-6.53 	| 373065  	| 1193    	| 0.32%	| Blood-C
-6.49 	| 634095  	| 2076    	| 0.33%	| Dragon Ball GT
-7.82 	| 176894  	| 576    	| 0.33%	| Mushoku Tensei: Isekai Ittara Honki Dasu - Eris no Goblin Toubatsu
-7.55 	| 773965  	| 2709    	| 0.35%	| Sakamoto desu ga?
-7.19 	| 548104  	| 1948    	| 0.36%	| God Eater
-6.76 	| 6106  	| 22    	| 0.36%	| Home!
-8.27 	| 82256  	| 306    	| 0.37%	| Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai
-0.00 	| 64232  	| 241    	| 0.38%	| Chainsaw Man Movie: Reze-hen
-6.34 	| 723889  	| 2746    	| 0.38%	| Eromanga-sensei
-7.04 	| 32171  	| 126    	| 0.39%	| Kemurikusa (TV)
-7.52 	| 1702588  	| 6616    	| 0.39%	| One Punch Man 2nd Season
-7.28 	| 861750  	| 3420    	| 0.40%	| Btooom!
-7.66 	| 162442  	| 668    	| 0.41%	| Hanma Baki: Son of Ogre
-7.54 	| 16140  	| 67    	| 0.42%	| Kizumonogatari: Koyomi Vamp
-7.80 	| 313164  	| 1351    	| 0.43%	| Little Witch Academia
-0.00 	| 118381  	| 522    	| 0.44%	| Uzumaki
-6.94 	| 162197  	| 733    	| 0.45%	| Mahou Shoujo Ikusei Keikaku
-7.97 	| 85062  	| 381    	| 0.45%	| Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen
-7.25 	| 78946  	| 366    	| 0.46%	| Gun x Sword
-0.00 	| 55582  	| 258    	| 0.46%	| Isekai Suicide Squad
-7.12 	| 300236  	| 1371    	| 0.46%	| SSSS.Gridman
-7.32 	| 341253  	| 1598    	| 0.47%	| Araburu Kisetsu no Otome-domo yo.
-8.22 	| 201371  	| 947    	| 0.47%	| Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari
-6.69 	| 112584  	| 554    	| 0.49%	| Kodomo no Jikan (TV)
-0.00 	| 63849  	| 326    	| 0.51%	| Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten
-7.62 	| 79104  	| 414    	| 0.52%	| Kimitachi wa Dou Ikiru ka
-6.95 	| 753904  	| 3989    	| 0.53%	| Monster Musume no Iru Nichijou
-7.39 	| 591271  	| 3199    	| 0.54%	| Ajin
-7.19 	| 480598  	| 2589    	| 0.54%	| Fate/Apocrypha
-6.80 	| 162078  	| 870    	| 0.54%	| Magia Record: Mahou Shoujo Madoka☆Magica Gaiden
-8.12 	| 162201  	| 870    	| 0.54%	| Ookami to Koushinryou: Merchant Meets the Wise Wolf
-7.25 	| 40715  	| 221    	| 0.54%	| Touhou Niji Sousaku Doujin Anime: Musou Kakyou
-7.49 	| 319929  	| 1793    	| 0.56%	| Kono Subarashii Sekai ni Bakuen wo!
-7.48 	| 220206  	| 1253    	| 0.57%	| Hitoribocchi no Marumaru Seikatsu
-7.46 	| 147390  	| 852    	| 0.58%	| Grappler Baki (TV)
-7.57 	| 428930  	| 2468    	| 0.58%	| Kara no Kyoukai Movie 1: Fukan Fuukei
-7.81 	| 333749  	| 1932    	| 0.58%	| Kokoro ga Sakebitagatterunda.
-6.35 	| 107699  	| 636    	| 0.59%	| RWBY: Hyousetsu Teikoku
-7.31 	| 8371  	| 50    	| 0.60%	| Hifuu Katsudou Kiroku: The Sealed Esoteric History
-7.61 	| 227325  	| 1371    	| 0.60%	| Kimi to, Nami ni Noretara
-7.62 	| 108168  	| 656    	| 0.61%	| Aggressive Retsuko
-0.00 	| 30657  	| 188    	| 0.61%	| Monogatari Series: Off & Monster Season
-7.14 	| 98407  	| 597    	| 0.61%	| Saishuu Heiki Kanojo
-7.31 	| 427699  	| 2660    	| 0.62%	| Baki
-7.60 	| 192436  	| 1190    	| 0.62%	| Bokura no
-6.80 	| 354736  	| 2243    	| 0.63%	| Black★Rock Shooter (TV)
-7.29 	| 224487  	| 1406    	| 0.63%	| Poputepipikku
-7.60 	| 116447  	| 733    	| 0.63%	| Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
-0.00 	| 51902  	| 345    	| 0.66%	| Dandadan
-7.52 	| 336016  	| 2225    	| 0.66%	| Irozuku Sekai no Ashita kara
-0.00 	| 55980  	| 379    	| 0.68%	| Bocchi the Rock! Movie
-7.07 	| 1514631  	| 10267    	| 0.68%	| Highschool of the Dead
-8.36 	| 296547  	| 2008    	| 0.68%	| Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2
-7.71 	| 101355  	| 696    	| 0.69%	| Ai no Utagoe wo Kikasete
-7.24 	| 212309  	| 1492    	| 0.70%	| Bubble
-7.55 	| 931501  	| 6483    	| 0.70%	| Kami no Tou
-7.71 	| 1347325  	| 9531    	| 0.71%	| Enen no Shouboutai
-0.00 	| 30985  	| 221    	| 0.71%	| Naruto (Shinsaku Anime)
-7.35 	| 369807  	| 2648    	| 0.72%	| BNA
-7.29 	| 186022  	| 1341    	| 0.72%	| Trinity Blood
-7.67 	| 222137  	| 1625    	| 0.73%	| Aoi Bungaku Series
-7.94 	| 586189  	| 4293    	| 0.73%	| Gake no Ue no Ponyo
-7.36 	| 125106  	| 919    	| 0.73%	| Shigurui
-7.23 	| 1493847  	| 10991    	| 0.74%	| Kakegurui
-7.13 	| 189382  	| 1394    	| 0.74%	| Suki na Ko ga Megane wo Wasureta
-7.81 	| 530875  	| 3926    	| 0.74%	| Zom 100: Zombie ni Naru made ni Shitai 100 no Koto
-6.44 	| 519792  	| 3902    	| 0.75%	| Citrus
-7.51 	| 279035  	| 2103    	| 0.75%	| NieR:Automata Ver1.1a
-7.51 	| 70392  	| 542    	| 0.77%	| Fushigi no Umi no Nadia
-8.25 	| 1070814  	| 8574    	| 0.80%	| Tonari no Totoro
-6.11 	| 106238  	| 855    	| 0.80%	| Yarichin☆Bitch-bu
-7.88 	| 868568  	| 7061    	| 0.81%	| Kotonoha no Niwa
-8.16 	| 349877  	| 2916    	| 0.83%	| Kimetsu no Yaiba: Hashira Geiko-hen
-6.02 	| 868071  	| 7304    	| 0.84%	| Boruto: Naruto Next Generations
-7.61 	| 143136  	| 1198    	| 0.84%	| Juubee Ninpuuchou
-7.62 	| 831415  	| 7009    	| 0.84%	| Orange
-6.99 	| 657127  	| 5711    	| 0.87%	| Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
-7.20 	| 945236  	| 8343    	| 0.88%	| Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
-7.69 	| 594155  	| 5258    	| 0.88%	| Karakai Jouzu no Takagi-san
-8.01 	| 1048756  	| 9263    	| 0.88%	| Magi: The Labyrinth of Magic
-5.84 	| 83663  	| 751    	| 0.90%	| Euphoria
-7.59 	| 879883  	| 7891    	| 0.90%	| Kekkai Sensen
-8.21 	| 845850  	| 7679    	| 0.91%	| Magi: The Kingdom of Magic
-7.15 	| 514361  	| 4694    	| 0.91%	| Takt Op. Destiny
-7.21 	| 341817  	| 3175    	| 0.93%	| Goblin Slayer II
-7.24 	| 145248  	| 1387    	| 0.95%	| Overflow
-7.96 	| 1043400  	| 10085    	| 0.97%	| ReLIFE
-7.66 	| 611614  	| 5909    	| 0.97%	| Toaru Kagaku no Railgun
-7.86 	| 156498  	| 1565    	| 1.00%	| Kidou Senshi Gundam: Suisei no Majo
-7.23 	| 320776  	| 3239    	| 1.01%	| Nazo no Kanojo X
-7.70 	| 192854  	| 1990    	| 1.03%	| Kyousou Giga (TV)
-7.49 	| 1342441  	| 13869    	| 1.03%	| Owari no Seraph
-8.07 	| 307913  	| 3215    	| 1.04%	| Kanata no Astra
-7.79 	| 214829  	| 2242    	| 1.04%	| Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo
-8.33 	| 1113358  	| 11634    	| 1.04%	| Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
-7.47 	| 1673161  	| 17671    	| 1.06%	| Another
-7.68 	| 134696  	| 1471    	| 1.09%	| Mahou Shoujo ni Akogarete
-8.10 	| 686227  	| 7576    	| 1.10%	| Jigokuraku
-7.60 	| 79180  	| 871    	| 1.10%	| Top wo Nerae 2! Diebuster
-7.90 	| 599668  	| 6578    	| 1.10%	| Zetsuen no Tempest
-7.63 	| 191685  	| 2142    	| 1.12%	| Flip Flappers
-7.56 	| 947884  	| 11029    	| 1.16%	| Byousoku 5 Centimeter
-7.84 	| 185675  	| 2153    	| 1.16%	| Trigun Stampede
-7.81 	| 648967  	| 7665    	| 1.18%	| Little Witch Academia (TV)
-8.22 	| 480384  	| 5645    	| 1.18%	| Tengoku Daimakyou
-8.48 	| 361488  	| 4354    	| 1.20%	| Kono Subarashii Sekai ni Shukufuku wo! 3
-7.61 	| 454712  	| 5510    	| 1.21%	| Gakkougurashi!
-8.25 	| 262673  	| 3205    	| 1.22%	| Dungeon Meshi
-7.73 	| 675793  	| 8517    	| 1.26%	| Claymore
-8.49 	| 161825  	| 2038    	| 1.26%	| Pluto
-7.91 	| 949179  	| 12038    	| 1.27%	| Plastic Memories
-8.30 	| 360798  	| 4581    	| 1.27%	| Suzume no Tojimari
-7.74 	| 1046279  	| 13434    	| 1.28%	| Golden Time
-7.80 	| 468510  	| 6106    	| 1.30%	| Blue Period
-7.52 	| 82601  	| 1086    	| 1.31%	| Kemono Friends
-7.70 	| 1361358  	| 17982    	| 1.32%	| Chuunibyou demo Koi ga Shitai!
-7.85 	| 347082  	| 4685    	| 1.35%	| Sayonara Zetsubou Sensei
-7.96 	| 926647  	| 12475    	| 1.35%	| Youjo Senki
-8.63 	| 1350022  	| 18794    	| 1.39%	| Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen
-8.27 	| 446873  	| 6227    	| 1.39%	| Shirobako
-8.19 	| 483243  	| 6771    	| 1.40%	| Asobi Asobase
-7.41 	| 1217658  	| 17021    	| 1.40%	| Guilty Crown
-8.43 	| 895258  	| 12503    	| 1.40%	| Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
-8.24 	| 189121  	| 2668    	| 1.41%	| Sennen Joyuu
-7.67 	| 149627  	| 2129    	| 1.42%	| Oniichan wa Oshimai!
-7.98 	| 323594  	| 4588    	| 1.42%	| xxxHOLiC
-8.08 	| 2027914  	| 29878    	| 1.47%	| Ansatsu Kyoushitsu
-8.04 	| 403408  	| 6051    	| 1.50%	| Golden Boy
-7.73 	| 397630  	| 6015    	| 1.51%	| Panty & Stocking with Garterbelt
-8.17 	| 481836  	| 7402    	| 1.54%	| Higurashi no Naku Koro ni Kai
-7.33 	| 1434212  	| 22651    	| 1.58%	| High School DxD
-7.95 	| 1598373  	| 25285    	| 1.58%	| Tate no Yuusha no Nariagari
-7.89 	| 329458  	| 5241    	| 1.59%	| School Rumble
-8.05 	| 553100  	| 8976    	| 1.62%	| Dorohedoro
-8.35 	| 875763  	| 14516    	| 1.66%	| Fumetsu no Anata e
-8.25 	| 1232587  	| 20953    	| 1.70%	| Dororo
-0.00 	| 220571  	| 3772    	| 1.71%	| One Punch Man 3
-7.40 	| 449711  	| 8030    	| 1.79%	| Love Live! School Idol Project
-7.63 	| 6768  	| 122    	| 1.80%	| Gensou Mangekyou: The Memories of Phantasm
-7.38 	| 48715  	| 922    	| 1.89%	| Blue Archive the Animation
-7.74 	| 653303  	| 12330    	| 1.89%	| Lucky☆Star
-8.66 	| 436589  	| 8302    	| 1.90%	| Odd Taxi
-8.52 	| 239930  	| 4592    	| 1.91%	| Kara no Kyoukai Movie 5: Mujun Rasen
-8.30 	| 564150  	| 10794    	| 1.91%	| Katanagatari
-7.66 	| 1189463  	| 22733    	| 1.91%	| Kuroshitsuji
-8.32 	| 667329  	| 12846    	| 1.92%	| Ore dake Level Up na Ken
-7.99 	| 1418990  	| 27668    	| 1.95%	| Clannad
-7.81 	| 1402841  	| 27483    	| 1.96%	| Bungou Stray Dogs
-8.51 	| 649643  	| 12718    	| 1.96%	| Ousama Ranking
-8.01 	| 694722  	| 13822    	| 1.99%	| D.Gray-man
-7.83 	| 597007  	| 11892    	| 1.99%	| Jibaku Shounen Hanako-kun
-8.40 	| 540898  	| 10746    	| 1.99%	| Vivy: Fluorite Eye's Song
-8.30 	| 1612064  	| 32580    	| 2.02%	| Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
-8.03 	| 366797  	| 7572    	| 2.06%	| Azumanga Daiou The Animation
-8.05 	| 437444  	| 9110    	| 2.08%	| Koukyoushihen Eureka Seven
-7.90 	| 653601  	| 13708    	| 2.10%	| Ergo Proxy
-8.10 	| 1411563  	| 30085    	| 2.13%	| Durarara!!
-7.85 	| 130389  	| 2782    	| 2.13%	| Top wo Nerae! Gunbuster
-8.42 	| 398864  	| 8602    	| 2.16%	| Koukaku Kidoutai: Stand Alone Complex
-8.22 	| 822985  	| 18050    	| 2.19%	| Ookami to Koushinryou
-8.66 	| 354322  	| 8081    	| 2.28%	| Fate/stay night Movie: Heaven's Feel - III. Spring Song
-7.86 	| 1056740  	| 24143    	| 2.28%	| K-On!
-8.28 	| 271428  	| 6222    	| 2.29%	| Doukyuusei (Movie)
-8.38 	| 681812  	| 15675    	| 2.30%	| 3-gatsu no Lion
-8.29 	| 651401  	| 15023    	| 2.31%	| Kage no Jitsuryokusha ni Naritakute!
-8.05 	| 2080796  	| 48588    	| 2.34%	| Angel Beats!
-7.90 	| 890922  	| 20814    	| 2.34%	| Yuri!!! on Ice
-8.33 	| 1639685  	| 38952    	| 2.38%	| Psycho-Pass
-8.42 	| 330243  	| 8368    	| 2.53%	| Mononoke
-9.06 	| 634084  	| 16692    	| 2.63%	| Gintama°
-7.88 	| 808464  	| 21300    	| 2.63%	| Higurashi no Naku Koro ni
-8.91 	| 412428  	| 11043    	| 2.68%	| Kusuriya no Hitorigoto
-7.97 	| 290357  	| 7810    	| 2.69%	| Haibane Renmei
-8.41 	| 1110601  	| 29849    	| 2.69%	| Saiki Kusuo no Ψ-nan
-8.14 	| 1677928  	| 46741    	| 2.79%	| Black Clover
-8.26 	| 780729  	| 22002    	| 2.82%	| Shinsekai yori
-8.31 	| 542930  	| 15829    	| 2.92%	| Natsume Yuujinchou
-8.17 	| 440422  	| 13554    	| 3.08%	| Cardcaptor Sakura
-8.48 	| 130304  	| 4150    	| 3.18%	| Aria the Origination
-8.69 	| 833808  	| 26591    	| 3.19%	| Great Teacher Onizuka
-8.66 	| 834553  	| 26963    	| 3.23%	| Mushishi
-8.18 	| 55543  	| 1889    	| 3.40%	| Holo no Graffiti
-8.47 	| 869656  	| 30329    	| 3.49%	| Banana Fish
-8.92 	| 404216  	| 15077    	| 3.73%	| 3-gatsu no Lion 2nd Season
-7.94 	| 1977198  	| 73978    	| 3.74%	| Bleach
-8.21 	| 222301  	| 8534    	| 3.84%	| Shoujo Kakumei Utena
-8.64 	| 2224366  	| 86188    	| 3.87%	| Shigatsu wa Kimi no Uso
-8.55 	| 675339  	| 30366    	| 4.50%	| Nana
-8.88 	| 1130170  	| 53183    	| 4.71%	| Monster
-8.93 	| 1198546  	| 70310    	| 5.87%	| Clannad: After Story
+6.40 	| 136080  	| 226    	| 0.17%	| Katsute Kami Datta Kemono-tachi e
+6.69 	| 81660  	| 146    	| 0.18%	| Black Fox
+0.00 	| 45971  	| 89    	| 0.19%	| Beastars Final Season
+7.63 	| 85032  	| 160    	| 0.19%	| Break Blade Movie 1: Kakusei no Toki
+0.00 	| 34439  	| 70    	| 0.20%	| Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen)
+7.18 	| 124351  	| 245    	| 0.20%	| Shikabane Hime: Aka
+6.75 	| 179191  	| 356    	| 0.20%	| Shuumatsu no Izetta
+7.91 	| 144149  	| 285    	| 0.20%	| Trigun: Badlands Rumble
+5.39 	| 98618  	| 208    	| 0.21%	| Shironeko Project: Zero Chronicle
+7.36 	| 24398  	| 54    	| 0.22%	| Dead Dead Demons Dededede Destruction
+6.87 	| 112838  	| 262    	| 0.23%	| Blood: The Last Vampire
+7.24 	| 96035  	| 221    	| 0.23%	| Break Blade
+0.00 	| 17051  	| 41    	| 0.24%	| Akira (Shin Anime)
+7.62 	| 15017  	| 37    	| 0.25%	| Dead Dead Demons Dededede Destruction (ONA)
+7.41 	| 13852  	| 34    	| 0.25%	| Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!
+6.96 	| 250403  	| 687    	| 0.27%	| Sirius
+7.24 	| 691249  	| 2073    	| 0.30%	| Blood Lad
+6.55 	| 12472  	| 37    	| 0.30%	| Onimusha
+7.23 	| 489284  	| 1494    	| 0.31%	| Maoyuu Maou Yuusha
+7.46 	| 49652  	| 152    	| 0.31%	| Shuumatsu Train Doko e Iku?
+6.56 	| 10535  	| 34    	| 0.32%	| Aachi wa Ssipak
+6.53 	| 373310  	| 1196    	| 0.32%	| Blood-C
+6.49 	| 634360  	| 2078    	| 0.33%	| Dragon Ball GT
+0.00 	| 25901  	| 85    	| 0.33%	| Dungeon Meshi 2nd Season
+7.82 	| 177225  	| 577    	| 0.33%	| Mushoku Tensei: Isekai Ittara Honki Dasu - Eris no Goblin Toubatsu
+7.55 	| 774297  	| 2711    	| 0.35%	| Sakamoto desu ga?
+7.19 	| 548285  	| 1948    	| 0.36%	| God Eater
+7.38 	| 77619  	| 287    	| 0.37%	| Ayakashi: Japanese Classic Horror
+7.07 	| 230372  	| 842    	| 0.37%	| Boogiepop wa Warawanai (2019)
+8.27 	| 82603  	| 307    	| 0.37%	| Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai
+7.31 	| 65797  	| 251    	| 0.38%	| Ame wo Tsugeru Hyouryuu Danchi
+0.00 	| 64822  	| 245    	| 0.38%	| Chainsaw Man Movie: Reze-hen
+6.34 	| 724198  	| 2748    	| 0.38%	| Eromanga-sensei
+7.04 	| 32188  	| 126    	| 0.39%	| Kemurikusa (TV)
+7.52 	| 1703741  	| 6622    	| 0.39%	| One Punch Man 2nd Season
+7.28 	| 862026  	| 3420    	| 0.40%	| Btooom!
+7.23 	| 10878  	| 44    	| 0.40%	| Touhou Niji Sousaku Doujin Anime: Musou Kakyou Special
+7.66 	| 162792  	| 669    	| 0.41%	| Hanma Baki: Son of Ogre
+7.54 	| 16165  	| 66    	| 0.41%	| Kizumonogatari: Koyomi Vamp
+7.80 	| 313272  	| 1351    	| 0.43%	| Little Witch Academia
+0.00 	| 58027  	| 263    	| 0.45%	| Isekai Suicide Squad
+6.94 	| 162262  	| 733    	| 0.45%	| Mahou Shoujo Ikusei Keikaku
+7.97 	| 85077  	| 381    	| 0.45%	| Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen
+0.00 	| 118716  	| 529    	| 0.45%	| Uzumaki
+7.25 	| 78966  	| 366    	| 0.46%	| Gun x Sword
+7.12 	| 300370  	| 1376    	| 0.46%	| SSSS.Gridman
+7.32 	| 341404  	| 1598    	| 0.47%	| Araburu Kisetsu no Otome-domo yo.
+8.22 	| 201465  	| 947    	| 0.47%	| Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari
+6.69 	| 112616  	| 555    	| 0.49%	| Kodomo no Jikan (TV)
+0.00 	| 33210  	| 166    	| 0.50%	| Shikanoko Nokonoko Koshitantan
+0.00 	| 63937  	| 326    	| 0.51%	| Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten
+7.62 	| 79407  	| 419    	| 0.53%	| Kimitachi wa Dou Ikiru ka
+6.95 	| 754195  	| 3992    	| 0.53%	| Monster Musume no Iru Nichijou
+7.39 	| 591499  	| 3203    	| 0.54%	| Ajin
+7.19 	| 480783  	| 2589    	| 0.54%	| Fate/Apocrypha
+6.80 	| 162155  	| 871    	| 0.54%	| Magia Record: Mahou Shoujo Madoka☆Magica Gaiden
+8.11 	| 163890  	| 882    	| 0.54%	| Ookami to Koushinryou: Merchant Meets the Wise Wolf
+7.25 	| 40734  	| 221    	| 0.54%	| Touhou Niji Sousaku Doujin Anime: Musou Kakyou
+7.49 	| 320544  	| 1795    	| 0.56%	| Kono Subarashii Sekai ni Bakuen wo!
+7.48 	| 220291  	| 1255    	| 0.57%	| Hitoribocchi no Marumaru Seikatsu
+0.00 	| 21669  	| 124    	| 0.57%	| Mononoke Movie: Karakasa
+7.46 	| 147553  	| 854    	| 0.58%	| Grappler Baki (TV)
+7.57 	| 429075  	| 2470    	| 0.58%	| Kara no Kyoukai Movie 1: Fukan Fuukei
+7.81 	| 333887  	| 1933    	| 0.58%	| Kokoro ga Sakebitagatterunda.
+6.35 	| 107787  	| 636    	| 0.59%	| RWBY: Hyousetsu Teikoku
+7.31 	| 8376  	| 50    	| 0.60%	| Hifuu Katsudou Kiroku: The Sealed Esoteric History
+7.61 	| 227530  	| 1373    	| 0.60%	| Kimi to, Nami ni Noretara
+7.62 	| 108214  	| 656    	| 0.61%	| Aggressive Retsuko
+7.14 	| 98452  	| 597    	| 0.61%	| Saishuu Heiki Kanojo
+7.31 	| 428102  	| 2662    	| 0.62%	| Baki
+7.60 	| 192480  	| 1190    	| 0.62%	| Bokura no
+6.86 	| 33458  	| 209    	| 0.62%	| Hells
+0.00 	| 31168  	| 193    	| 0.62%	| Monogatari Series: Off & Monster Season
+6.80 	| 354829  	| 2244    	| 0.63%	| Black★Rock Shooter (TV)
+7.29 	| 224558  	| 1408    	| 0.63%	| Poputepipikku
+7.60 	| 116601  	| 734    	| 0.63%	| Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
+0.00 	| 52753  	| 348    	| 0.66%	| Dandadan
+7.52 	| 336153  	| 2226    	| 0.66%	| Irozuku Sekai no Ashita kara
+7.71 	| 101482  	| 695    	| 0.68%	| Ai no Utagoe wo Kikasete
+6.94 	| 56056  	| 382    	| 0.68%	| Bocchi the Rock! Movie
+7.20 	| 95041  	| 651    	| 0.68%	| Dead Leaves
+7.07 	| 1515286  	| 10271    	| 0.68%	| Highschool of the Dead
+7.24 	| 212556  	| 1494    	| 0.70%	| Bubble
+7.55 	| 932425  	| 6485    	| 0.70%	| Kami no Tou
+8.40 	| 300650  	| 2115    	| 0.70%	| Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2
+7.71 	| 1348290  	| 9532    	| 0.71%	| Enen no Shouboutai
+0.00 	| 31098  	| 221    	| 0.71%	| Naruto (Shinsaku Anime)
+7.35 	| 370049  	| 2648    	| 0.72%	| BNA
+7.29 	| 186085  	| 1341    	| 0.72%	| Trinity Blood
+7.67 	| 222215  	| 1624    	| 0.73%	| Aoi Bungaku Series
+7.94 	| 586654  	| 4300    	| 0.73%	| Gake no Ue no Ponyo
+7.23 	| 1494640  	| 10999    	| 0.74%	| Kakegurui
+7.36 	| 125164  	| 920    	| 0.74%	| Shigurui
+7.13 	| 189653  	| 1398    	| 0.74%	| Suki na Ko ga Megane wo Wasureta
+7.81 	| 532120  	| 3935    	| 0.74%	| Zom 100: Zombie ni Naru made ni Shitai 100 no Koto
+6.44 	| 520012  	| 3902    	| 0.75%	| Citrus
+7.51 	| 279422  	| 2105    	| 0.75%	| NieR:Automata Ver1.1a
+7.51 	| 70461  	| 542    	| 0.77%	| Fushigi no Umi no Nadia
+8.25 	| 1071426  	| 8579    	| 0.80%	| Tonari no Totoro
+6.11 	| 106298  	| 855    	| 0.80%	| Yarichin☆Bitch-bu
+7.88 	| 869063  	| 7061    	| 0.81%	| Kotonoha no Niwa
+7.15 	| 137663  	| 1141    	| 0.83%	| Boogiepop wa Warawanai
+6.02 	| 868432  	| 7306    	| 0.84%	| Boruto: Naruto Next Generations
+7.61 	| 143226  	| 1199    	| 0.84%	| Juubee Ninpuuchou
+8.12 	| 356048  	| 2979    	| 0.84%	| Kimetsu no Yaiba: Hashira Geiko-hen
+7.63 	| 831818  	| 7011    	| 0.84%	| Orange
+6.99 	| 657430  	| 5713    	| 0.87%	| Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
+7.20 	| 945630  	| 8342    	| 0.88%	| Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
+8.01 	| 1049214  	| 9268    	| 0.88%	| Magi: The Labyrinth of Magic
+7.69 	| 594416  	| 5262    	| 0.89%	| Karakai Jouzu no Takagi-san
+5.83 	| 83704  	| 752    	| 0.90%	| Euphoria
+7.59 	| 880233  	| 7892    	| 0.90%	| Kekkai Sensen
+8.28 	| 296278  	| 2673    	| 0.90%	| Tokyo Godfathers
+8.21 	| 846185  	| 7677    	| 0.91%	| Magi: The Kingdom of Magic
+7.53 	| 163777  	| 1489    	| 0.91%	| So Ra No Wo To
+7.15 	| 514681  	| 4697    	| 0.91%	| Takt Op. Destiny
+7.21 	| 342421  	| 3177    	| 0.93%	| Goblin Slayer II
+7.24 	| 145348  	| 1392    	| 0.96%	| Overflow
+7.96 	| 1043934  	| 10086    	| 0.97%	| ReLIFE
+7.66 	| 611819  	| 5905    	| 0.97%	| Toaru Kagaku no Railgun
+7.23 	| 321018  	| 3239    	| 1.01%	| Nazo no Kanojo X
+7.70 	| 192952  	| 1989    	| 1.03%	| Kyousou Giga (TV)
+7.49 	| 1343177  	| 13871    	| 1.03%	| Owari no Seraph
+8.07 	| 308109  	| 3217    	| 1.04%	| Kanata no Astra
+7.79 	| 215573  	| 2242    	| 1.04%	| Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo
+8.33 	| 1114057  	| 11643    	| 1.05%	| Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
+7.47 	| 1673940  	| 17674    	| 1.06%	| Another
+7.51 	| 166989  	| 1813    	| 1.09%	| Casshern Sins
+7.68 	| 135469  	| 1476    	| 1.09%	| Mahou Shoujo ni Akogarete
+8.10 	| 688098  	| 7601    	| 1.10%	| Jigokuraku
+7.60 	| 79221  	| 870    	| 1.10%	| Top wo Nerae 2! Diebuster
+7.90 	| 599884  	| 6580    	| 1.10%	| Zetsuen no Tempest
+7.63 	| 191738  	| 2144    	| 1.12%	| Flip Flappers
+8.21 	| 234499  	| 2660    	| 1.13%	| Kaguya-hime no Monogatari
+7.56 	| 948245  	| 11033    	| 1.16%	| Byousoku 5 Centimeter
+7.84 	| 186033  	| 2161    	| 1.16%	| Trigun Stampede
+7.81 	| 649290  	| 7668    	| 1.18%	| Little Witch Academia (TV)
+8.22 	| 481457  	| 5672    	| 1.18%	| Tengoku Daimakyou
+7.61 	| 454900  	| 5514    	| 1.21%	| Gakkougurashi!
+8.48 	| 364584  	| 4415    	| 1.21%	| Kono Subarashii Sekai ni Shukufuku wo! 3
+7.32 	| 80860  	| 992    	| 1.23%	| Nekojiru-sou
+7.73 	| 676055  	| 8523    	| 1.26%	| Claymore
+8.49 	| 162615  	| 2048    	| 1.26%	| Pluto
+7.91 	| 949587  	| 12043    	| 1.27%	| Plastic Memories
+8.30 	| 362048  	| 4591    	| 1.27%	| Suzume no Tojimari
+7.74 	| 1046909  	| 13440    	| 1.28%	| Golden Time
+7.80 	| 468984  	| 6110    	| 1.30%	| Blue Period
+7.78 	| 87196  	| 1131    	| 1.30%	| Mind Game
+7.70 	| 1361979  	| 17988    	| 1.32%	| Chuunibyou demo Koi ga Shitai!
+7.52 	| 82614  	| 1087    	| 1.32%	| Kemono Friends
+7.85 	| 347173  	| 4680    	| 1.35%	| Sayonara Zetsubou Sensei
+8.18 	| 127799  	| 1719    	| 1.35%	| Yoru wa Mijikashi Arukeyo Otome
+7.96 	| 927288  	| 12478    	| 1.35%	| Youjo Senki
+7.91 	| 95025  	| 1288    	| 1.36%	| Kuuchuu Buranko
+8.63 	| 1350920  	| 18803    	| 1.39%	| Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen
+8.27 	| 447002  	| 6230    	| 1.39%	| Shirobako
+8.19 	| 483614  	| 6775    	| 1.40%	| Asobi Asobase
+7.41 	| 1218062  	| 17031    	| 1.40%	| Guilty Crown
+8.43 	| 896094  	| 12519    	| 1.40%	| Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
+8.24 	| 189260  	| 2668    	| 1.41%	| Sennen Joyuu
+7.67 	| 149956  	| 2133    	| 1.42%	| Oniichan wa Oshimai!
+7.98 	| 323728  	| 4590    	| 1.42%	| xxxHOLiC
+8.39 	| 431632  	| 6194    	| 1.44%	| Josee to Tora to Sakana-tachi
+7.17 	| 51226  	| 738    	| 1.44%	| Kanashimi no Belladonna
+8.08 	| 2029053  	| 29891    	| 1.47%	| Ansatsu Kyoushitsu
+8.04 	| 403681  	| 6057    	| 1.50%	| Golden Boy
+8.21 	| 669126  	| 10021    	| 1.50%	| Great Pretender
+8.04 	| 554073  	| 8397    	| 1.52%	| Gosick
+8.25 	| 255591  	| 3923    	| 1.53%	| Planetes
+8.17 	| 481995  	| 7406    	| 1.54%	| Higurashi no Naku Koro ni Kai
+7.33 	| 1434861  	| 22663    	| 1.58%	| High School DxD
+7.95 	| 1599238  	| 25281    	| 1.58%	| Tate no Yuusha no Nariagari
+7.89 	| 329533  	| 5244    	| 1.59%	| School Rumble
+8.05 	| 553559  	| 8986    	| 1.62%	| Dorohedoro
+8.35 	| 876400  	| 14527    	| 1.66%	| Fumetsu no Anata e
+0.00 	| 222292  	| 3849    	| 1.73%	| One Punch Man 3
+7.40 	| 449848  	| 8032    	| 1.79%	| Love Live! School Idol Project
+8.30 	| 387932  	| 7002    	| 1.80%	| Sakamichi no Apollon
+8.10 	| 1226491  	| 22301    	| 1.82%	| JoJo no Kimyou na Bouken Part 3: Stardust Crusaders
+8.44 	| 1121737  	| 20754    	| 1.85%	| JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season
+7.36 	| 49275  	| 929    	| 1.89%	| Blue Archive the Animation
+7.74 	| 653583  	| 12344    	| 1.89%	| Lucky☆Star
+8.52 	| 240008  	| 4593    	| 1.91%	| Kara no Kyoukai Movie 5: Mujun Rasen
+8.30 	| 564339  	| 10793    	| 1.91%	| Katanagatari
+7.66 	| 1190177  	| 22751    	| 1.91%	| Kuroshitsuji
+8.32 	| 670810  	| 12908    	| 1.92%	| Ore dake Level Up na Ken
+7.99 	| 1419473  	| 27674    	| 1.95%	| Clannad
+7.81 	| 1403771  	| 27496    	| 1.96%	| Bungou Stray Dogs
+8.51 	| 650343  	| 12730    	| 1.96%	| Ousama Ranking
+8.01 	| 695000  	| 13826    	| 1.99%	| D.Gray-man
+7.83 	| 597398  	| 11892    	| 1.99%	| Jibaku Shounen Hanako-kun
+7.76 	| 254875  	| 5083    	| 1.99%	| Texhnolyze
+8.40 	| 541335  	| 10753    	| 1.99%	| Vivy: Fluorite Eye's Song
+8.30 	| 1612677  	| 32578    	| 2.02%	| Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
+8.03 	| 367177  	| 7583    	| 2.07%	| Azumanga Daiou The Animation
+8.21 	| 347942  	| 7193    	| 2.07%	| Shoujo Shuumatsu Ryokou
+8.05 	| 437564  	| 9111    	| 2.08%	| Koukyoushihen Eureka Seven
+7.90 	| 653964  	| 13714    	| 2.10%	| Ergo Proxy
+8.47 	| 398012  	| 8436    	| 2.12%	| Rainbow: Nisha Rokubou no Shichinin
+8.10 	| 1412047  	| 30080    	| 2.13%	| Durarara!!
+7.85 	| 130481  	| 2783    	| 2.13%	| Top wo Nerae! Gunbuster
+8.42 	| 399008  	| 8603    	| 2.16%	| Koukaku Kidoutai: Stand Alone Complex
+8.28 	| 319919  	| 7003    	| 2.19%	| Kino no Tabi: The Beautiful World
+8.22 	| 823324  	| 18054    	| 2.19%	| Ookami to Koushinryou
+7.80 	| 315015  	| 6896    	| 2.19%	| Sonny Boy
+7.71 	| 155323  	| 3520    	| 2.27%	| Tenshi no Tamago
+8.66 	| 354574  	| 8083    	| 2.28%	| Fate/stay night Movie: Heaven's Feel - III. Spring Song
+8.28 	| 271588  	| 6224    	| 2.29%	| Doukyuusei (Movie)
+7.86 	| 1057237  	| 24158    	| 2.29%	| K-On!
+8.38 	| 682085  	| 15686    	| 2.30%	| 3-gatsu no Lion
+8.29 	| 652585  	| 15034    	| 2.30%	| Kage no Jitsuryokusha ni Naritakute!
+8.05 	| 2081563  	| 48613    	| 2.34%	| Angel Beats!
+7.90 	| 891329  	| 20822    	| 2.34%	| Yuri!!! on Ice
+8.33 	| 1640406  	| 38967    	| 2.38%	| Psycho-Pass
+7.93 	| 301939  	| 7262    	| 2.41%	| Mawaru Penguindrum
+8.14 	| 153600  	| 3737    	| 2.43%	| Kaiba
+8.42 	| 330701  	| 8380    	| 2.53%	| Mononoke
+9.06 	| 634438  	| 16698    	| 2.63%	| Gintama°
+7.88 	| 808788  	| 21304    	| 2.63%	| Higurashi no Naku Koro ni
+7.97 	| 290570  	| 7816    	| 2.69%	| Haibane Renmei
+8.90 	| 414843  	| 11139    	| 2.69%	| Kusuriya no Hitorigoto
+8.41 	| 1111419  	| 29858    	| 2.69%	| Saiki Kusuo no Ψ-nan
+7.25 	| 11376  	| 311    	| 2.73%	| Popee the Performer
+8.14 	| 1679269  	| 46762    	| 2.78%	| Black Clover
+8.26 	| 781008  	| 22006    	| 2.82%	| Shinsekai yori
+8.31 	| 543179  	| 15831    	| 2.91%	| Natsume Yuujinchou
+8.17 	| 440700  	| 13569    	| 3.08%	| Cardcaptor Sakura
+8.48 	| 130379  	| 4158    	| 3.19%	| Aria the Origination
+8.69 	| 834340  	| 26606    	| 3.19%	| Great Teacher Onizuka
+8.66 	| 834986  	| 26969    	| 3.23%	| Mushishi
+8.18 	| 55554  	| 1889    	| 3.40%	| Holo no Graffiti
+8.47 	| 870265  	| 30346    	| 3.49%	| Banana Fish
+8.92 	| 404411  	| 15089    	| 3.73%	| 3-gatsu no Lion 2nd Season
+7.94 	| 1978418  	| 74034    	| 3.74%	| Bleach
+8.21 	| 222469  	| 8548    	| 3.84%	| Shoujo Kakumei Utena
+8.64 	| 2225392  	| 86217    	| 3.87%	| Shigatsu wa Kimi no Uso
+8.55 	| 676113  	| 30404    	| 4.50%	| Nana
+8.88 	| 1131432  	| 53239    	| 4.71%	| Monster
+8.93 	| 1199097  	| 70323    	| 5.86%	| Clannad: After Story
 ---------------------------------------------------------------------
 score	| members	| favorites	| ratio	| sorted by RATIO
 --------------------------------------------------------------------------------------------------------------
