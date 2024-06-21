@@ -6,8 +6,8 @@ from time import sleep
 from xml.dom.minidom import parse
 import mal.config
 
-DELAY = 2  # if you get banned or the media isn't being analized properly, increase this number. (Float allowed)
-mal.config.TIMEOUT = 20     # and this one too (original num = 5)
+DELAY = 2.5  # if you get banned or the media isn't being analized properly, increase this number. (Float allowed)
+mal.config.TIMEOUT = 30     # and this one too (original num = 5)
 '''                            
               `7MMM.     ,MMF'      db      `7MMF'      
                 MMMb    dPMM       ;MM:       MM        
@@ -109,14 +109,17 @@ def list_info_requester(raw_media_list, media_type:str='anime'):
         actual_media = {'name':'','score':0}
 
         passed = False
-        for tries, try_time in enumerate([10, 20, 30]):
+        tries = 1
+        while True:
+            try_time = tries * 10
             try:
                 actual_media = media_info(raw_media['id'], media_type=media_type)
                 passed = True
                 break
             except:
-                print(f'-try #{tries+2}: sleeping {try_time} seconds- [{raw_media["name"]}]')
+                print(f'-try #{tries+1}: sleeping {try_time} seconds- [{raw_media["name"]}]')
                 sleep(try_time)
+                tries += 1
                 
         if not passed:   
             print(f'error\t| {raw_media["name"]}')
