@@ -1,0 +1,9 @@
+- UI in tkinter
+- Scheduler for tasks, like: "manga AND anime, save all", to be able to do it all in one go
+- Add a progress bar to show the progress of the analysis
+- Read myanimelist api documentation to see if there are any other endpoints that could be useful
+- See if there is a way to get the list of all anime/manga in a single request, instead of having to do it one by one
+- Add a way to save the results to an html file, so that it can be viewed in a browser
+- See if there is a way, maybe in the other library, that allows you to use an API key of your user, so you can request the list, and also it will allow you to make more requests per minute
+- Add default saving. it should save the tops and the list automatically
+- create a good readme with tutorials and examples

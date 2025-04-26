@@ -1,174 +1,274 @@
-6.38 	| 43710  	| 1014    	| 2.32%	| Pumpkin Night
-7.04 	| 2251  	| 2    	| 0.09%	| Meisou Senshi Nagata Kabi: Gourmet de Go!
-7.20 	| 87244  	| 2089    	| 2.39%	| Umibe no Onnanoko
-7.23 	| 3677  	| 44    	| 1.20%	| Evangelion: ANIMA
-7.41 	| 1452  	| 6    	| 0.41%	| Suizou ga Kowaretara, Sukoshi Iki Yasuku Narimashita.
-7.48 	| 3613  	| 19    	| 0.53%	| Meisou Senshi Nagata Kabi
-7.61 	| 24741  	| 774    	| 3.13%	| Murciélago
-7.68 	| 7057  	| 51    	| 0.72%	| Genjitsu Touhi shitetara Boroboro ni Natta Hanashi
-7.91 	| 194783  	| 8596    	| 4.41%	| Fire Punch
-7.98 	| 5347  	| 75    	| 1.40%	| Steins;Gate: Onshuu no Brownian Motion
-8.00 	| 141999  	| 4454    	| 3.14%	| Ajin
-8.04 	| 56085  	| 3004    	| 5.36%	| Gakkougurashi!
-8.09 	| 242535  	| 18548    	| 7.65%	| Gantz
-8.12 	| 18099  	| 298    	| 1.65%	| Hitori Koukan Nikki
-8.12 	| 53577  	| 2802    	| 5.23%	| Sabishisugite Lesbian Fuuzoku ni Ikimashita Report
-8.17 	| 7656  	| 213    	| 2.78%	| Hitsugikatsugi no Kuro.: Kaichu Tabi no Wa
-8.19 	| 197710  	| 10054    	| 5.09%	| Dr. Stone
-8.19 	| 62727  	| 2044    	| 3.26%	| Innocent
-8.21 	| 123704  	| 5593    	| 4.52%	| Solanin
-8.24 	| 57651  	| 1797    	| 3.12%	| Planetes
-8.27 	| 30644  	| 1658    	| 5.41%	| Trigun Maximum
-8.28 	| 70310  	| 2778    	| 3.95%	| Annarasumanara
-8.28 	| 208635  	| 13681    	| 6.56%	| Claymore
-8.28 	| 162786  	| 12511    	| 7.69%	| D.Gray-man
-8.29 	| 162176  	| 8957    	| 5.52%	| Blame!
-8.30 	| 455486  	| 33566    	| 7.37%	| Jujutsu Kaisen
-8.35 	| 148313  	| 7726    	| 5.21%	| Homunculus
-8.40 	| 31386  	| 949    	| 3.02%	| Innocent Rouge
-8.41 	| 85137  	| 3016    	| 3.54%	| Mugen no Juunin
-8.43 	| 166424  	| 8617    	| 5.18%	| Dandadan
-8.47 	| 157268  	| 8257    	| 5.25%	| JoJo no Kimyou na Bouken Part 8: JoJolion
-8.49 	| 39597  	| 1771    	| 4.47%	| Bakemonogatari
-8.63 	| 97927  	| 5485    	| 5.60%	| Golden Kamuy
-8.68 	| 184367  	| 14103    	| 7.65%	| Dorohedoro
-8.70 	| 650635  	| 84427    	| 12.98%	| Chainsaw Man
-8.74 	| 88959  	| 5770    	| 6.49%	| Dungeon Meshi
-8.77 	| 172779  	| 14208    	| 8.22%	| Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.
-8.87 	| 33435  	| 1413    	| 4.23%	| Mikkakan no Koufuku
-9.26 	| 408528  	| 44493    	| 10.89%	| Vagabond
+6.38 	| 44765  	| 1026    	| 2.29%	| Pumpkin Night
+6.75 	| 41550  	| 692    	| 1.67%	| Mahou Shoujo of the End
+7.06 	| 2441  	| 4    	| 0.16%	| Kore wa Yuganda Shokurepo desu
+7.10 	| 28275  	| 481    	| 1.70%	| Okaeri Alice
+7.12 	| 21043  	| 119    	| 0.57%	| 17-21: Fujimoto Tatsuki Tanpenshuu
+7.19 	| 88927  	| 2152    	| 2.42%	| Umibe no Onnanoko
+7.25 	| 3815  	| 48    	| 1.26%	| Evangelion: ANIMA
+7.30 	| 27177  	| 167    	| 0.61%	| 22-26: Fujimoto Tatsuki Tanpenshuu
+7.32 	| 3367  	| 26    	| 0.77%	| Shuumatsu Touring
+7.43 	| 1688  	| 8    	| 0.47%	| Suizou ga Kowaretara, Sukoshi Ikiyasuku Narimashita.
+7.49 	| 3859  	| 24    	| 0.62%	| Meisou Senshi Nagata Kabi
+7.55 	| 5057  	| 63    	| 1.25%	| Niku wo Hagu: Tooda Oto Tanpenshuu
+7.61 	| 25319  	| 778    	| 3.07%	| Murciélago
+7.70 	| 7330  	| 57    	| 0.78%	| Genjitsu Touhi shitetara Boroboro ni Natta Hanashi
+7.70 	| 16148  	| 161    	| 1.00%	| Madan no Ichi
+7.71 	| 36498  	| 1032    	| 2.83%	| My Broken Mariko
+7.72 	| 41613  	| 903    	| 2.17%	| Trigun
+7.89 	| 20009  	| 523    	| 2.61%	| Asper Kanojo
+7.89 	| 117915  	| 3693    	| 3.13%	| Sun-Ken Rock
+7.92 	| 201921  	| 8942    	| 4.43%	| Fire Punch
+7.99 	| 5719  	| 77    	| 1.35%	| Steins;Gate: Onshuu no Brownian Motion
+8.00 	| 146013  	| 4580    	| 3.14%	| Ajin
+8.04 	| 57102  	| 3036    	| 5.32%	| Gakkougurashi!
+8.09 	| 246967  	| 18723    	| 7.58%	| Gantz
+8.09 	| 48669  	| 1281    	| 2.63%	| Super no Ura de Yani Suu Futari
+8.12 	| 18811  	| 307    	| 1.63%	| Hitori Koukan Nikki
+8.12 	| 54937  	| 2838    	| 5.17%	| Sabishisugite Lesbian Fuuzoku ni Ikimashita Report
+8.17 	| 102624  	| 4792    	| 4.67%	| Yofukashi no Uta
+8.18 	| 2421  	| 118    	| 4.87%	| I Love Amy
+8.19 	| 8076  	| 223    	| 2.76%	| Hitsugikatsugi no Kuro.: Kaichu Tabi no Wa
+8.19 	| 65171  	| 2142    	| 3.29%	| Innocent
+8.20 	| 171717  	| 12786    	| 7.45%	| Aku no Hana
+8.20 	| 82107  	| 2538    	| 3.09%	| Dead Dead Demons Dededede Destruction
+8.20 	| 202975  	| 10223    	| 5.04%	| Dr. Stone
+8.21 	| 127082  	| 5712    	| 4.49%	| Solanin
+8.22 	| 175969  	| 6956    	| 3.95%	| Jigokuraku
+8.24 	| 469574  	| 33479    	| 7.13%	| Jujutsu Kaisen
+8.24 	| 59582  	| 1820    	| 3.05%	| Planetes
+8.27 	| 31970  	| 1718    	| 5.37%	| Trigun Maximum
+8.28 	| 71625  	| 2780    	| 3.88%	| Annarasumanara
+8.28 	| 213439  	| 13872    	| 6.50%	| Claymore
+8.28 	| 165224  	| 12580    	| 7.61%	| D.Gray-man
+8.29 	| 167616  	| 9248    	| 5.52%	| Blame!
+8.29 	| 47582  	| 1556    	| 3.27%	| SSS-Class Revival Hunter
+8.35 	| 154794  	| 8042    	| 5.20%	| Homunculus
+8.36 	| 45699  	| 1865    	| 4.08%	| Shadows House
+8.39 	| 33073  	| 980    	| 2.96%	| Innocent Rouge
+8.41 	| 87304  	| 3070    	| 3.52%	| Mugen no Juunin
+8.46 	| 184672  	| 9809    	| 5.31%	| Dandadan
+8.46 	| 66137  	| 3615    	| 5.47%	| Shimanami Tasogare
+8.47 	| 161925  	| 8509    	| 5.25%	| JoJo no Kimyou na Bouken Part 8: JoJolion
+8.49 	| 41469  	| 1811    	| 4.37%	| Bakemonogatari
+8.50 	| 119656  	| 4788    	| 4.00%	| Watashitachi no Shiawase na Jikan
+8.55 	| 77551  	| 2814    	| 3.63%	| Billy Bat
+8.56 	| 76910  	| 2761    	| 3.59%	| Otoyomegatari
+8.56 	| 58142  	| 1833    	| 3.15%	| The Fable
+8.62 	| 143172  	| 7764    	| 5.42%	| Omniscient Reader's Viewpoint
+8.63 	| 102381  	| 5695    	| 5.56%	| Golden Kamuy
+8.69 	| 668836  	| 85625    	| 12.80%	| Chainsaw Man
+8.73 	| 173823  	| 10599    	| 6.10%	| Made in Abyss
+8.77 	| 98184  	| 6354    	| 6.47%	| Dungeon Meshi
+8.77 	| 179663  	| 14475    	| 8.06%	| Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.
+8.87 	| 37870  	| 1479    	| 3.91%	| Mikkakan no Koufuku
+9.27 	| 424625  	| 45818    	| 10.79%	| Vagabond
 ---------------------------------------------------------------------
 score	| members	| favorites	| ratio	| sorted by SCORE
 --------------------------------------------------------------------------------------------------------------
 
 
-7.41 	| 1452  	| 6    	| 0.41%	| Suizou ga Kowaretara, Sukoshi Iki Yasuku Narimashita.
-7.04 	| 2251  	| 2    	| 0.09%	| Meisou Senshi Nagata Kabi: Gourmet de Go!
-7.48 	| 3613  	| 19    	| 0.53%	| Meisou Senshi Nagata Kabi
-7.23 	| 3677  	| 44    	| 1.20%	| Evangelion: ANIMA
-7.98 	| 5347  	| 75    	| 1.40%	| Steins;Gate: Onshuu no Brownian Motion
-7.68 	| 7057  	| 51    	| 0.72%	| Genjitsu Touhi shitetara Boroboro ni Natta Hanashi
-8.17 	| 7656  	| 213    	| 2.78%	| Hitsugikatsugi no Kuro.: Kaichu Tabi no Wa
-8.12 	| 18099  	| 298    	| 1.65%	| Hitori Koukan Nikki
-7.61 	| 24741  	| 774    	| 3.13%	| Murciélago
-8.27 	| 30644  	| 1658    	| 5.41%	| Trigun Maximum
-8.40 	| 31386  	| 949    	| 3.02%	| Innocent Rouge
-8.87 	| 33435  	| 1413    	| 4.23%	| Mikkakan no Koufuku
-8.49 	| 39597  	| 1771    	| 4.47%	| Bakemonogatari
-6.38 	| 43710  	| 1014    	| 2.32%	| Pumpkin Night
-8.12 	| 53577  	| 2802    	| 5.23%	| Sabishisugite Lesbian Fuuzoku ni Ikimashita Report
-8.04 	| 56085  	| 3004    	| 5.36%	| Gakkougurashi!
-8.24 	| 57651  	| 1797    	| 3.12%	| Planetes
-8.19 	| 62727  	| 2044    	| 3.26%	| Innocent
-8.28 	| 70310  	| 2778    	| 3.95%	| Annarasumanara
-8.41 	| 85137  	| 3016    	| 3.54%	| Mugen no Juunin
-7.20 	| 87244  	| 2089    	| 2.39%	| Umibe no Onnanoko
-8.74 	| 88959  	| 5770    	| 6.49%	| Dungeon Meshi
-8.63 	| 97927  	| 5485    	| 5.60%	| Golden Kamuy
-8.21 	| 123704  	| 5593    	| 4.52%	| Solanin
-8.00 	| 141999  	| 4454    	| 3.14%	| Ajin
-8.35 	| 148313  	| 7726    	| 5.21%	| Homunculus
-8.47 	| 157268  	| 8257    	| 5.25%	| JoJo no Kimyou na Bouken Part 8: JoJolion
-8.29 	| 162176  	| 8957    	| 5.52%	| Blame!
-8.28 	| 162786  	| 12511    	| 7.69%	| D.Gray-man
-8.43 	| 166424  	| 8617    	| 5.18%	| Dandadan
-8.77 	| 172779  	| 14208    	| 8.22%	| Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.
-8.68 	| 184367  	| 14103    	| 7.65%	| Dorohedoro
-7.91 	| 194783  	| 8596    	| 4.41%	| Fire Punch
-8.19 	| 197710  	| 10054    	| 5.09%	| Dr. Stone
-8.28 	| 208635  	| 13681    	| 6.56%	| Claymore
-8.09 	| 242535  	| 18548    	| 7.65%	| Gantz
-9.26 	| 408528  	| 44493    	| 10.89%	| Vagabond
-8.30 	| 455486  	| 33566    	| 7.37%	| Jujutsu Kaisen
-8.70 	| 650635  	| 84427    	| 12.98%	| Chainsaw Man
+7.43 	| 1688  	| 8    	| 0.47%	| Suizou ga Kowaretara, Sukoshi Ikiyasuku Narimashita.
+8.18 	| 2421  	| 118    	| 4.87%	| I Love Amy
+7.06 	| 2441  	| 4    	| 0.16%	| Kore wa Yuganda Shokurepo desu
+7.32 	| 3367  	| 26    	| 0.77%	| Shuumatsu Touring
+7.25 	| 3815  	| 48    	| 1.26%	| Evangelion: ANIMA
+7.49 	| 3859  	| 24    	| 0.62%	| Meisou Senshi Nagata Kabi
+7.55 	| 5057  	| 63    	| 1.25%	| Niku wo Hagu: Tooda Oto Tanpenshuu
+7.99 	| 5719  	| 77    	| 1.35%	| Steins;Gate: Onshuu no Brownian Motion
+7.70 	| 7330  	| 57    	| 0.78%	| Genjitsu Touhi shitetara Boroboro ni Natta Hanashi
+8.19 	| 8076  	| 223    	| 2.76%	| Hitsugikatsugi no Kuro.: Kaichu Tabi no Wa
+7.70 	| 16148  	| 161    	| 1.00%	| Madan no Ichi
+8.12 	| 18811  	| 307    	| 1.63%	| Hitori Koukan Nikki
+7.89 	| 20009  	| 523    	| 2.61%	| Asper Kanojo
+7.12 	| 21043  	| 119    	| 0.57%	| 17-21: Fujimoto Tatsuki Tanpenshuu
+7.61 	| 25319  	| 778    	| 3.07%	| Murciélago
+7.30 	| 27177  	| 167    	| 0.61%	| 22-26: Fujimoto Tatsuki Tanpenshuu
+7.10 	| 28275  	| 481    	| 1.70%	| Okaeri Alice
+8.27 	| 31970  	| 1718    	| 5.37%	| Trigun Maximum
+8.39 	| 33073  	| 980    	| 2.96%	| Innocent Rouge
+7.71 	| 36498  	| 1032    	| 2.83%	| My Broken Mariko
+8.87 	| 37870  	| 1479    	| 3.91%	| Mikkakan no Koufuku
+8.49 	| 41469  	| 1811    	| 4.37%	| Bakemonogatari
+6.75 	| 41550  	| 692    	| 1.67%	| Mahou Shoujo of the End
+7.72 	| 41613  	| 903    	| 2.17%	| Trigun
+6.38 	| 44765  	| 1026    	| 2.29%	| Pumpkin Night
+8.36 	| 45699  	| 1865    	| 4.08%	| Shadows House
+8.29 	| 47582  	| 1556    	| 3.27%	| SSS-Class Revival Hunter
+8.09 	| 48669  	| 1281    	| 2.63%	| Super no Ura de Yani Suu Futari
+8.12 	| 54937  	| 2838    	| 5.17%	| Sabishisugite Lesbian Fuuzoku ni Ikimashita Report
+8.04 	| 57102  	| 3036    	| 5.32%	| Gakkougurashi!
+8.56 	| 58142  	| 1833    	| 3.15%	| The Fable
+8.24 	| 59582  	| 1820    	| 3.05%	| Planetes
+8.19 	| 65171  	| 2142    	| 3.29%	| Innocent
+8.46 	| 66137  	| 3615    	| 5.47%	| Shimanami Tasogare
+8.28 	| 71625  	| 2780    	| 3.88%	| Annarasumanara
+8.56 	| 76910  	| 2761    	| 3.59%	| Otoyomegatari
+8.55 	| 77551  	| 2814    	| 3.63%	| Billy Bat
+8.20 	| 82107  	| 2538    	| 3.09%	| Dead Dead Demons Dededede Destruction
+8.41 	| 87304  	| 3070    	| 3.52%	| Mugen no Juunin
+7.19 	| 88927  	| 2152    	| 2.42%	| Umibe no Onnanoko
+8.77 	| 98184  	| 6354    	| 6.47%	| Dungeon Meshi
+8.63 	| 102381  	| 5695    	| 5.56%	| Golden Kamuy
+8.17 	| 102624  	| 4792    	| 4.67%	| Yofukashi no Uta
+7.89 	| 117915  	| 3693    	| 3.13%	| Sun-Ken Rock
+8.50 	| 119656  	| 4788    	| 4.00%	| Watashitachi no Shiawase na Jikan
+8.21 	| 127082  	| 5712    	| 4.49%	| Solanin
+8.62 	| 143172  	| 7764    	| 5.42%	| Omniscient Reader's Viewpoint
+8.00 	| 146013  	| 4580    	| 3.14%	| Ajin
+8.35 	| 154794  	| 8042    	| 5.20%	| Homunculus
+8.47 	| 161925  	| 8509    	| 5.25%	| JoJo no Kimyou na Bouken Part 8: JoJolion
+8.28 	| 165224  	| 12580    	| 7.61%	| D.Gray-man
+8.29 	| 167616  	| 9248    	| 5.52%	| Blame!
+8.20 	| 171717  	| 12786    	| 7.45%	| Aku no Hana
+8.73 	| 173823  	| 10599    	| 6.10%	| Made in Abyss
+8.22 	| 175969  	| 6956    	| 3.95%	| Jigokuraku
+8.77 	| 179663  	| 14475    	| 8.06%	| Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.
+8.46 	| 184672  	| 9809    	| 5.31%	| Dandadan
+7.92 	| 201921  	| 8942    	| 4.43%	| Fire Punch
+8.20 	| 202975  	| 10223    	| 5.04%	| Dr. Stone
+8.28 	| 213439  	| 13872    	| 6.50%	| Claymore
+8.09 	| 246967  	| 18723    	| 7.58%	| Gantz
+9.27 	| 424625  	| 45818    	| 10.79%	| Vagabond
+8.24 	| 469574  	| 33479    	| 7.13%	| Jujutsu Kaisen
+8.69 	| 668836  	| 85625    	| 12.80%	| Chainsaw Man
 ---------------------------------------------------------------------
 score	| members	| favorites	| ratio	| sorted by MEMBERS
 --------------------------------------------------------------------------------------------------------------
 
 
-7.04 	| 2251  	| 2    	| 0.09%	| Meisou Senshi Nagata Kabi: Gourmet de Go!
-7.41 	| 1452  	| 6    	| 0.41%	| Suizou ga Kowaretara, Sukoshi Iki Yasuku Narimashita.
-7.48 	| 3613  	| 19    	| 0.53%	| Meisou Senshi Nagata Kabi
-7.23 	| 3677  	| 44    	| 1.20%	| Evangelion: ANIMA
-7.68 	| 7057  	| 51    	| 0.72%	| Genjitsu Touhi shitetara Boroboro ni Natta Hanashi
-7.98 	| 5347  	| 75    	| 1.40%	| Steins;Gate: Onshuu no Brownian Motion
-8.17 	| 7656  	| 213    	| 2.78%	| Hitsugikatsugi no Kuro.: Kaichu Tabi no Wa
-8.12 	| 18099  	| 298    	| 1.65%	| Hitori Koukan Nikki
-7.61 	| 24741  	| 774    	| 3.13%	| Murciélago
-8.40 	| 31386  	| 949    	| 3.02%	| Innocent Rouge
-6.38 	| 43710  	| 1014    	| 2.32%	| Pumpkin Night
-8.87 	| 33435  	| 1413    	| 4.23%	| Mikkakan no Koufuku
-8.27 	| 30644  	| 1658    	| 5.41%	| Trigun Maximum
-8.49 	| 39597  	| 1771    	| 4.47%	| Bakemonogatari
-8.24 	| 57651  	| 1797    	| 3.12%	| Planetes
-8.19 	| 62727  	| 2044    	| 3.26%	| Innocent
-7.20 	| 87244  	| 2089    	| 2.39%	| Umibe no Onnanoko
-8.28 	| 70310  	| 2778    	| 3.95%	| Annarasumanara
-8.12 	| 53577  	| 2802    	| 5.23%	| Sabishisugite Lesbian Fuuzoku ni Ikimashita Report
-8.04 	| 56085  	| 3004    	| 5.36%	| Gakkougurashi!
-8.41 	| 85137  	| 3016    	| 3.54%	| Mugen no Juunin
-8.00 	| 141999  	| 4454    	| 3.14%	| Ajin
-8.63 	| 97927  	| 5485    	| 5.60%	| Golden Kamuy
-8.21 	| 123704  	| 5593    	| 4.52%	| Solanin
-8.74 	| 88959  	| 5770    	| 6.49%	| Dungeon Meshi
-8.35 	| 148313  	| 7726    	| 5.21%	| Homunculus
-8.47 	| 157268  	| 8257    	| 5.25%	| JoJo no Kimyou na Bouken Part 8: JoJolion
-7.91 	| 194783  	| 8596    	| 4.41%	| Fire Punch
-8.43 	| 166424  	| 8617    	| 5.18%	| Dandadan
-8.29 	| 162176  	| 8957    	| 5.52%	| Blame!
-8.19 	| 197710  	| 10054    	| 5.09%	| Dr. Stone
-8.28 	| 162786  	| 12511    	| 7.69%	| D.Gray-man
-8.28 	| 208635  	| 13681    	| 6.56%	| Claymore
-8.68 	| 184367  	| 14103    	| 7.65%	| Dorohedoro
-8.77 	| 172779  	| 14208    	| 8.22%	| Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.
-8.09 	| 242535  	| 18548    	| 7.65%	| Gantz
-8.30 	| 455486  	| 33566    	| 7.37%	| Jujutsu Kaisen
-9.26 	| 408528  	| 44493    	| 10.89%	| Vagabond
-8.70 	| 650635  	| 84427    	| 12.98%	| Chainsaw Man
+7.06 	| 2441  	| 4    	| 0.16%	| Kore wa Yuganda Shokurepo desu
+7.43 	| 1688  	| 8    	| 0.47%	| Suizou ga Kowaretara, Sukoshi Ikiyasuku Narimashita.
+7.49 	| 3859  	| 24    	| 0.62%	| Meisou Senshi Nagata Kabi
+7.32 	| 3367  	| 26    	| 0.77%	| Shuumatsu Touring
+7.25 	| 3815  	| 48    	| 1.26%	| Evangelion: ANIMA
+7.70 	| 7330  	| 57    	| 0.78%	| Genjitsu Touhi shitetara Boroboro ni Natta Hanashi
+7.55 	| 5057  	| 63    	| 1.25%	| Niku wo Hagu: Tooda Oto Tanpenshuu
+7.99 	| 5719  	| 77    	| 1.35%	| Steins;Gate: Onshuu no Brownian Motion
+8.18 	| 2421  	| 118    	| 4.87%	| I Love Amy
+7.12 	| 21043  	| 119    	| 0.57%	| 17-21: Fujimoto Tatsuki Tanpenshuu
+7.70 	| 16148  	| 161    	| 1.00%	| Madan no Ichi
+7.30 	| 27177  	| 167    	| 0.61%	| 22-26: Fujimoto Tatsuki Tanpenshuu
+8.19 	| 8076  	| 223    	| 2.76%	| Hitsugikatsugi no Kuro.: Kaichu Tabi no Wa
+8.12 	| 18811  	| 307    	| 1.63%	| Hitori Koukan Nikki
+7.10 	| 28275  	| 481    	| 1.70%	| Okaeri Alice
+7.89 	| 20009  	| 523    	| 2.61%	| Asper Kanojo
+6.75 	| 41550  	| 692    	| 1.67%	| Mahou Shoujo of the End
+7.61 	| 25319  	| 778    	| 3.07%	| Murciélago
+7.72 	| 41613  	| 903    	| 2.17%	| Trigun
+8.39 	| 33073  	| 980    	| 2.96%	| Innocent Rouge
+6.38 	| 44765  	| 1026    	| 2.29%	| Pumpkin Night
+7.71 	| 36498  	| 1032    	| 2.83%	| My Broken Mariko
+8.09 	| 48669  	| 1281    	| 2.63%	| Super no Ura de Yani Suu Futari
+8.87 	| 37870  	| 1479    	| 3.91%	| Mikkakan no Koufuku
+8.29 	| 47582  	| 1556    	| 3.27%	| SSS-Class Revival Hunter
+8.27 	| 31970  	| 1718    	| 5.37%	| Trigun Maximum
+8.49 	| 41469  	| 1811    	| 4.37%	| Bakemonogatari
+8.24 	| 59582  	| 1820    	| 3.05%	| Planetes
+8.56 	| 58142  	| 1833    	| 3.15%	| The Fable
+8.36 	| 45699  	| 1865    	| 4.08%	| Shadows House
+8.19 	| 65171  	| 2142    	| 3.29%	| Innocent
+7.19 	| 88927  	| 2152    	| 2.42%	| Umibe no Onnanoko
+8.20 	| 82107  	| 2538    	| 3.09%	| Dead Dead Demons Dededede Destruction
+8.56 	| 76910  	| 2761    	| 3.59%	| Otoyomegatari
+8.28 	| 71625  	| 2780    	| 3.88%	| Annarasumanara
+8.55 	| 77551  	| 2814    	| 3.63%	| Billy Bat
+8.12 	| 54937  	| 2838    	| 5.17%	| Sabishisugite Lesbian Fuuzoku ni Ikimashita Report
+8.04 	| 57102  	| 3036    	| 5.32%	| Gakkougurashi!
+8.41 	| 87304  	| 3070    	| 3.52%	| Mugen no Juunin
+8.46 	| 66137  	| 3615    	| 5.47%	| Shimanami Tasogare
+7.89 	| 117915  	| 3693    	| 3.13%	| Sun-Ken Rock
+8.00 	| 146013  	| 4580    	| 3.14%	| Ajin
+8.50 	| 119656  	| 4788    	| 4.00%	| Watashitachi no Shiawase na Jikan
+8.17 	| 102624  	| 4792    	| 4.67%	| Yofukashi no Uta
+8.63 	| 102381  	| 5695    	| 5.56%	| Golden Kamuy
+8.21 	| 127082  	| 5712    	| 4.49%	| Solanin
+8.77 	| 98184  	| 6354    	| 6.47%	| Dungeon Meshi
+8.22 	| 175969  	| 6956    	| 3.95%	| Jigokuraku
+8.62 	| 143172  	| 7764    	| 5.42%	| Omniscient Reader's Viewpoint
+8.35 	| 154794  	| 8042    	| 5.20%	| Homunculus
+8.47 	| 161925  	| 8509    	| 5.25%	| JoJo no Kimyou na Bouken Part 8: JoJolion
+7.92 	| 201921  	| 8942    	| 4.43%	| Fire Punch
+8.29 	| 167616  	| 9248    	| 5.52%	| Blame!
+8.46 	| 184672  	| 9809    	| 5.31%	| Dandadan
+8.20 	| 202975  	| 10223    	| 5.04%	| Dr. Stone
+8.73 	| 173823  	| 10599    	| 6.10%	| Made in Abyss
+8.28 	| 165224  	| 12580    	| 7.61%	| D.Gray-man
+8.20 	| 171717  	| 12786    	| 7.45%	| Aku no Hana
+8.28 	| 213439  	| 13872    	| 6.50%	| Claymore
+8.77 	| 179663  	| 14475    	| 8.06%	| Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.
+8.09 	| 246967  	| 18723    	| 7.58%	| Gantz
+8.24 	| 469574  	| 33479    	| 7.13%	| Jujutsu Kaisen
+9.27 	| 424625  	| 45818    	| 10.79%	| Vagabond
+8.69 	| 668836  	| 85625    	| 12.80%	| Chainsaw Man
 ---------------------------------------------------------------------
 score	| members	| favorites	| ratio	| sorted by FAVORITES
 --------------------------------------------------------------------------------------------------------------
 
 
-7.04 	| 2251  	| 2    	| 0.09%	| Meisou Senshi Nagata Kabi: Gourmet de Go!
-7.41 	| 1452  	| 6    	| 0.41%	| Suizou ga Kowaretara, Sukoshi Iki Yasuku Narimashita.
-7.48 	| 3613  	| 19    	| 0.53%	| Meisou Senshi Nagata Kabi
-7.68 	| 7057  	| 51    	| 0.72%	| Genjitsu Touhi shitetara Boroboro ni Natta Hanashi
-7.23 	| 3677  	| 44    	| 1.20%	| Evangelion: ANIMA
-7.98 	| 5347  	| 75    	| 1.40%	| Steins;Gate: Onshuu no Brownian Motion
-8.12 	| 18099  	| 298    	| 1.65%	| Hitori Koukan Nikki
-6.38 	| 43710  	| 1014    	| 2.32%	| Pumpkin Night
-7.20 	| 87244  	| 2089    	| 2.39%	| Umibe no Onnanoko
-8.17 	| 7656  	| 213    	| 2.78%	| Hitsugikatsugi no Kuro.: Kaichu Tabi no Wa
-8.40 	| 31386  	| 949    	| 3.02%	| Innocent Rouge
-8.24 	| 57651  	| 1797    	| 3.12%	| Planetes
-7.61 	| 24741  	| 774    	| 3.13%	| Murciélago
-8.00 	| 141999  	| 4454    	| 3.14%	| Ajin
-8.19 	| 62727  	| 2044    	| 3.26%	| Innocent
-8.41 	| 85137  	| 3016    	| 3.54%	| Mugen no Juunin
-8.28 	| 70310  	| 2778    	| 3.95%	| Annarasumanara
-8.87 	| 33435  	| 1413    	| 4.23%	| Mikkakan no Koufuku
-7.91 	| 194783  	| 8596    	| 4.41%	| Fire Punch
-8.49 	| 39597  	| 1771    	| 4.47%	| Bakemonogatari
-8.21 	| 123704  	| 5593    	| 4.52%	| Solanin
-8.19 	| 197710  	| 10054    	| 5.09%	| Dr. Stone
-8.43 	| 166424  	| 8617    	| 5.18%	| Dandadan
-8.35 	| 148313  	| 7726    	| 5.21%	| Homunculus
-8.12 	| 53577  	| 2802    	| 5.23%	| Sabishisugite Lesbian Fuuzoku ni Ikimashita Report
-8.47 	| 157268  	| 8257    	| 5.25%	| JoJo no Kimyou na Bouken Part 8: JoJolion
-8.04 	| 56085  	| 3004    	| 5.36%	| Gakkougurashi!
-8.27 	| 30644  	| 1658    	| 5.41%	| Trigun Maximum
-8.29 	| 162176  	| 8957    	| 5.52%	| Blame!
-8.63 	| 97927  	| 5485    	| 5.60%	| Golden Kamuy
-8.74 	| 88959  	| 5770    	| 6.49%	| Dungeon Meshi
-8.28 	| 208635  	| 13681    	| 6.56%	| Claymore
-8.30 	| 455486  	| 33566    	| 7.37%	| Jujutsu Kaisen
-8.68 	| 184367  	| 14103    	| 7.65%	| Dorohedoro
-8.09 	| 242535  	| 18548    	| 7.65%	| Gantz
-8.28 	| 162786  	| 12511    	| 7.69%	| D.Gray-man
-8.77 	| 172779  	| 14208    	| 8.22%	| Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.
-9.26 	| 408528  	| 44493    	| 10.89%	| Vagabond
-8.70 	| 650635  	| 84427    	| 12.98%	| Chainsaw Man
+7.06 	| 2441  	| 4    	| 0.16%	| Kore wa Yuganda Shokurepo desu
+7.43 	| 1688  	| 8    	| 0.47%	| Suizou ga Kowaretara, Sukoshi Ikiyasuku Narimashita.
+7.12 	| 21043  	| 119    	| 0.57%	| 17-21: Fujimoto Tatsuki Tanpenshuu
+7.30 	| 27177  	| 167    	| 0.61%	| 22-26: Fujimoto Tatsuki Tanpenshuu
+7.49 	| 3859  	| 24    	| 0.62%	| Meisou Senshi Nagata Kabi
+7.32 	| 3367  	| 26    	| 0.77%	| Shuumatsu Touring
+7.70 	| 7330  	| 57    	| 0.78%	| Genjitsu Touhi shitetara Boroboro ni Natta Hanashi
+7.70 	| 16148  	| 161    	| 1.00%	| Madan no Ichi
+7.55 	| 5057  	| 63    	| 1.25%	| Niku wo Hagu: Tooda Oto Tanpenshuu
+7.25 	| 3815  	| 48    	| 1.26%	| Evangelion: ANIMA
+7.99 	| 5719  	| 77    	| 1.35%	| Steins;Gate: Onshuu no Brownian Motion
+8.12 	| 18811  	| 307    	| 1.63%	| Hitori Koukan Nikki
+6.75 	| 41550  	| 692    	| 1.67%	| Mahou Shoujo of the End
+7.10 	| 28275  	| 481    	| 1.70%	| Okaeri Alice
+7.72 	| 41613  	| 903    	| 2.17%	| Trigun
+6.38 	| 44765  	| 1026    	| 2.29%	| Pumpkin Night
+7.19 	| 88927  	| 2152    	| 2.42%	| Umibe no Onnanoko
+7.89 	| 20009  	| 523    	| 2.61%	| Asper Kanojo
+8.09 	| 48669  	| 1281    	| 2.63%	| Super no Ura de Yani Suu Futari
+8.19 	| 8076  	| 223    	| 2.76%	| Hitsugikatsugi no Kuro.: Kaichu Tabi no Wa
+7.71 	| 36498  	| 1032    	| 2.83%	| My Broken Mariko
+8.39 	| 33073  	| 980    	| 2.96%	| Innocent Rouge
+8.24 	| 59582  	| 1820    	| 3.05%	| Planetes
+7.61 	| 25319  	| 778    	| 3.07%	| Murciélago
+8.20 	| 82107  	| 2538    	| 3.09%	| Dead Dead Demons Dededede Destruction
+7.89 	| 117915  	| 3693    	| 3.13%	| Sun-Ken Rock
+8.00 	| 146013  	| 4580    	| 3.14%	| Ajin
+8.56 	| 58142  	| 1833    	| 3.15%	| The Fable
+8.29 	| 47582  	| 1556    	| 3.27%	| SSS-Class Revival Hunter
+8.19 	| 65171  	| 2142    	| 3.29%	| Innocent
+8.41 	| 87304  	| 3070    	| 3.52%	| Mugen no Juunin
+8.56 	| 76910  	| 2761    	| 3.59%	| Otoyomegatari
+8.55 	| 77551  	| 2814    	| 3.63%	| Billy Bat
+8.28 	| 71625  	| 2780    	| 3.88%	| Annarasumanara
+8.87 	| 37870  	| 1479    	| 3.91%	| Mikkakan no Koufuku
+8.22 	| 175969  	| 6956    	| 3.95%	| Jigokuraku
+8.50 	| 119656  	| 4788    	| 4.00%	| Watashitachi no Shiawase na Jikan
+8.36 	| 45699  	| 1865    	| 4.08%	| Shadows House
+8.49 	| 41469  	| 1811    	| 4.37%	| Bakemonogatari
+7.92 	| 201921  	| 8942    	| 4.43%	| Fire Punch
+8.21 	| 127082  	| 5712    	| 4.49%	| Solanin
+8.17 	| 102624  	| 4792    	| 4.67%	| Yofukashi no Uta
+8.18 	| 2421  	| 118    	| 4.87%	| I Love Amy
+8.20 	| 202975  	| 10223    	| 5.04%	| Dr. Stone
+8.12 	| 54937  	| 2838    	| 5.17%	| Sabishisugite Lesbian Fuuzoku ni Ikimashita Report
+8.35 	| 154794  	| 8042    	| 5.20%	| Homunculus
+8.47 	| 161925  	| 8509    	| 5.25%	| JoJo no Kimyou na Bouken Part 8: JoJolion
+8.46 	| 184672  	| 9809    	| 5.31%	| Dandadan
+8.04 	| 57102  	| 3036    	| 5.32%	| Gakkougurashi!
+8.27 	| 31970  	| 1718    	| 5.37%	| Trigun Maximum
+8.62 	| 143172  	| 7764    	| 5.42%	| Omniscient Reader's Viewpoint
+8.46 	| 66137  	| 3615    	| 5.47%	| Shimanami Tasogare
+8.29 	| 167616  	| 9248    	| 5.52%	| Blame!
+8.63 	| 102381  	| 5695    	| 5.56%	| Golden Kamuy
+8.73 	| 173823  	| 10599    	| 6.10%	| Made in Abyss
+8.77 	| 98184  	| 6354    	| 6.47%	| Dungeon Meshi
+8.28 	| 213439  	| 13872    	| 6.50%	| Claymore
+8.24 	| 469574  	| 33479    	| 7.13%	| Jujutsu Kaisen
+8.20 	| 171717  	| 12786    	| 7.45%	| Aku no Hana
+8.09 	| 246967  	| 18723    	| 7.58%	| Gantz
+8.28 	| 165224  	| 12580    	| 7.61%	| D.Gray-man
+8.77 	| 179663  	| 14475    	| 8.06%	| Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.
+9.27 	| 424625  	| 45818    	| 10.79%	| Vagabond
+8.69 	| 668836  	| 85625    	| 12.80%	| Chainsaw Man
 ---------------------------------------------------------------------
 score	| members	| favorites	| ratio	| sorted by RATIO
 --------------------------------------------------------------------------------------------------------------

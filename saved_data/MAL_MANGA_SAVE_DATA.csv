@@ -1,40 +1,65 @@
 name,id,score,members,favorites,ratio
-Ajin,49865,8.0,141999,4454,3.14
-Annarasumanara,30079,8.28,70310,2778,3.95
-Bakemonogatari,113010,8.49,39597,1771,4.47
-Blame!,149,8.29,162176,8957,5.52
-Chainsaw Man,116778,8.7,650635,84427,12.98
-Claymore,583,8.28,208635,13681,6.56
-D.Gray-man,24,8.28,162786,12511,7.69
-Dandadan,135496,8.43,166424,8617,5.18
-Dorohedoro,1133,8.68,184367,14103,7.65
-Dr. Stone,103897,8.19,197710,10054,5.09
-Dungeon Meshi,85781,8.74,88959,5770,6.49
-Evangelion: ANIMA,25594,7.23,3677,44,1.2
-Fire Punch,98270,7.91,194783,8596,4.41
-Gakkougurashi!,55163,8.04,56085,3004,5.36
-Gantz,564,8.09,242535,18548,7.65
-Genjitsu Touhi shitetara Boroboro ni Natta Hanashi,122691,7.68,7057,51,0.72
-Golden Kamuy,85968,8.63,97927,5485,5.6
-Hitori Koukan Nikki,107948,8.12,18099,298,1.65
-Hitsugikatsugi no Kuro.: Kaichu Tabi no Wa,4453,8.17,7656,213,2.78
-Homunculus,936,8.35,148313,7726,5.21
-Innocent,58563,8.19,62727,2044,3.26
-Innocent Rouge,93699,8.4,31386,949,3.02
-JoJo no Kimyou na Bouken Part 8: JoJolion,25515,8.47,157268,8257,5.25
-Jujutsu Kaisen,113138,8.3,455486,33566,7.37
-"Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.",100448,8.77,172779,14208,8.22
-Meisou Senshi Nagata Kabi,145004,7.48,3613,19,0.53
-Meisou Senshi Nagata Kabi: Gourmet de Go!,133773,7.04,2251,2,0.09
-Mikkakan no Koufuku,126479,8.87,33435,1413,4.23
-Mugen no Juunin,658,8.41,85137,3016,3.54
-Murciélago,65705,7.61,24741,774,3.13
-Planetes,481,8.24,57651,1797,3.12
-Pumpkin Night,111403,6.38,43710,1014,2.32
-Sabishisugite Lesbian Fuuzoku ni Ikimashita Report,99969,8.12,53577,2802,5.23
-Solanin,3731,8.21,123704,5593,4.52
-Steins;Gate: Onshuu no Brownian Motion,28899,7.98,5347,75,1.4
-"Suizou ga Kowaretara, Sukoshi Iki Yasuku Narimashita.",155240,7.41,1452,6,0.41
-Trigun Maximum,704,8.27,30644,1658,5.41
-Umibe no Onnanoko,17353,7.2,87244,2089,2.39
-Vagabond,656,9.26,408528,44493,10.89
+17-21: Fujimoto Tatsuki Tanpenshuu,141214,7.12,21043,119,0.57
+22-26: Fujimoto Tatsuki Tanpenshuu,141294,7.3,27177,167,0.61
+Ajin,49865,8.0,146013,4580,3.14
+Aku no Hana,24705,8.2,171717,12786,7.45
+Annarasumanara,30079,8.28,71625,2780,3.88
+Asper Kanojo,118873,7.89,20009,523,2.61
+Bakemonogatari,113010,8.49,41469,1811,4.37
+Billy Bat,11054,8.55,77551,2814,3.63
+Blame!,149,8.29,167616,9248,5.52
+Chainsaw Man,116778,8.69,668836,85625,12.8
+Claymore,583,8.28,213439,13872,6.5
+D.Gray-man,24,8.28,165224,12580,7.61
+Dandadan,135496,8.46,184672,9809,5.31
+Dead Dead Demons Dededede Destruction,70801,8.2,82107,2538,3.09
+Dr. Stone,103897,8.2,202975,10223,5.04
+Dungeon Meshi,85781,8.77,98184,6354,6.47
+Evangelion: ANIMA,25594,7.25,3815,48,1.26
+Fire Punch,98270,7.92,201921,8942,4.43
+Gakkougurashi!,55163,8.04,57102,3036,5.32
+Gantz,564,8.09,246967,18723,7.58
+Genjitsu Touhi shitetara Boroboro ni Natta Hanashi,122691,7.7,7330,57,0.78
+Golden Kamuy,85968,8.63,102381,5695,5.56
+Hitori Koukan Nikki,107948,8.12,18811,307,1.63
+Hitsugikatsugi no Kuro.: Kaichu Tabi no Wa,4453,8.19,8076,223,2.76
+Homunculus,936,8.35,154794,8042,5.2
+I Love Amy,174045,8.18,2421,118,4.87
+Innocent,58563,8.19,65171,2142,3.29
+Innocent Rouge,93699,8.39,33073,980,2.96
+Jigokuraku,112318,8.22,175969,6956,3.95
+JoJo no Kimyou na Bouken Part 8: JoJolion,25515,8.47,161925,8509,5.25
+Jujutsu Kaisen,113138,8.24,469574,33479,7.13
+"Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.",100448,8.77,179663,14475,8.06
+Kore wa Yuganda Shokurepo desu,133773,7.06,2441,4,0.16
+Madan no Ichi,173944,7.7,16148,161,1.0
+Made in Abyss,91941,8.73,173823,10599,6.1
+Mahou Shoujo of the End,40175,6.75,41550,692,1.67
+Meisou Senshi Nagata Kabi,145004,7.49,3859,24,0.62
+Mikkakan no Koufuku,126479,8.87,37870,1479,3.91
+Mugen no Juunin,658,8.41,87304,3070,3.52
+Murciélago,65705,7.61,25319,778,3.07
+My Broken Mariko,123812,7.71,36498,1032,2.83
+Niku wo Hagu: Tooda Oto Tanpenshuu,136655,7.55,5057,63,1.25
+Okaeri Alice,125717,7.1,28275,481,1.7
+Omniscient Reader's Viewpoint,132214,8.62,143172,7764,5.42
+Otoyomegatari,11514,8.56,76910,2761,3.59
+Planetes,481,8.24,59582,1820,3.05
+Pumpkin Night,111403,6.38,44765,1026,2.29
+Sabishisugite Lesbian Fuuzoku ni Ikimashita Report,99969,8.12,54937,2838,5.17
+Shadows House,115730,8.36,45699,1865,4.08
+Shimanami Tasogare,97244,8.46,66137,3615,5.47
+Shuumatsu Touring,130154,7.32,3367,26,0.77
+Solanin,3731,8.21,127082,5712,4.49
+SSS-Class Revival Hunter,146909,8.29,47582,1556,3.27
+Steins;Gate: Onshuu no Brownian Motion,28899,7.99,5719,77,1.35
+"Suizou ga Kowaretara, Sukoshi Ikiyasuku Narimashita.",155240,7.43,1688,8,0.47
+Sun-Ken Rock,8848,7.89,117915,3693,3.13
+Super no Ura de Yani Suu Futari,148467,8.09,48669,1281,2.63
+The Fable,87844,8.56,58142,1833,3.15
+Trigun,703,7.72,41613,903,2.17
+Trigun Maximum,704,8.27,31970,1718,5.37
+Umibe no Onnanoko,17353,7.19,88927,2152,2.42
+Vagabond,656,9.27,424625,45818,10.79
+Watashitachi no Shiawase na Jikan,11734,8.5,119656,4788,4.0
+Yofukashi no Uta,121480,8.17,102624,4792,4.67
